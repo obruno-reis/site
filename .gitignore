@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Backup dos originais em alta (não versionar / não publicar)
+_img-originals-backup/
+
+# Pastas de origem soltas (as imagens finais já estão em site/assets/img)
+/PROJECTS/
+/ctc/
+/gw/
+/clinica-mar-atlantico/
+
+# Notas internas / de trabalho (não fazem parte do site publicado)
+/PROMPT-CLAUDE-CODE.md
+/proximos-projetos-framer.md
+/project-page-template.html
+
+# Dependências / temporários
+node_modules/

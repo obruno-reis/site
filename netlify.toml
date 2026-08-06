@@ -1,0 +1,27 @@
+# Configuração do site estático (Bruno Reis) para o Netlify.
+#
+# O site publicável fica na subpasta "site/". Esta linha diz ao Netlify
+# para publicar essa pasta (sem build step). Fica na RAIZ do repositório,
+# que é sempre onde o Netlify lê o netlify.toml.
+[build]
+  publish = "site"
+
+# Cache longo para assets versionados/estáveis (imagens, css com ?v=, js).
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# HTML sempre revalidado (para as atualizações aparecerem na hora).
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Cabeçalhos básicos de segurança.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
