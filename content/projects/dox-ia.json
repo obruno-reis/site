@@ -1,0 +1,111 @@
+{
+  "slug": "dox-ia",
+  "card": {
+    "cover": "assets/img/dox-ia/Frame-50.jpg",
+    "handle": "italomarsili",
+    "title": {
+      "en": "Dox IA"
+    }
+  },
+  "metaTitle": {
+    "en": "Dox IA · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Branding for DOX, a conversational AI created for Dr. Italo Marsili. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Dox IA"
+  },
+  "category": {
+    "en": "Branding"
+  },
+  "timeline": {
+    "en": "2 weeks"
+  },
+  "lead": [
+    {
+      "en": "DOX is a conversational AI created for Dr. Italo Marsili, a leading Brazilian psychiatrist. It turns his work on maturity and mental health into a guide anyone can talk to. The brand had to feel human and trustworthy, never cold or clinical. So we built an identity that carries his authority while staying warm and close."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/dox-ia/Frame-50.jpg",
+    "alt": {
+      "en": "Dox IA, brand"
+    }
+  },
+  "goals": {
+    "en": "Translate Dr. Italo Marsili's expertise into a trustworthy, human AI experience. Build a flexible identity that holds up across app, product, and out-of-home."
+  },
+  "shots": [
+    {
+      "src": "assets/img/dox-ia/Slice-2_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 1"
+      }
+    },
+    {
+      "src": "assets/img/dox-ia/Slice-4_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 2"
+      }
+    },
+    {
+      "src": "assets/img/dox-ia/Slice-5_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 3"
+      }
+    },
+    {
+      "src": "assets/img/dox-ia/Slice-6_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 4"
+      }
+    },
+    {
+      "src": "assets/img/dox-ia/Slice-7_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 5"
+      }
+    },
+    {
+      "src": "assets/img/dox-ia/Slice-8_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 6"
+      }
+    },
+    {
+      "src": "assets/img/dox-ia/Slice-10_2x.jpg",
+      "alt": {
+        "en": "Dox IA, application 7"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A complete visual identity (logo, color, grid, and applications from app screens to billboards) that gives DOX a confident, human presence. The system carries the doctor's authority into a digital product, making the AI feel personal and approachable while staying true to its purpose: guiding people toward maturity and better mental health."
+    }
+  ],
+  "next": [
+    {
+      "slug": "brain-gym",
+      "img": "assets/img/brain-gym/5D7A3457.jpg",
+      "label": {
+        "en": "Brain Gym"
+      }
+    },
+    {
+      "slug": "icim",
+      "img": "assets/img/icim/Frame-19.jpg",
+      "label": {
+        "en": "Institute CIM"
+      }
+    },
+    {
+      "slug": "menttalis",
+      "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "label": {
+        "en": "Menttalis"
+      }
+    }
+  ]
+}

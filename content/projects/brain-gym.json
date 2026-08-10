@@ -1,0 +1,117 @@
+{
+  "slug": "brain-gym",
+  "card": {
+    "cover": "assets/img/brain-gym/5D7A3457.jpg",
+    "handle": "@ginasticadocerebro",
+    "title": {
+      "en": "Brain Gym"
+    }
+  },
+  "metaTitle": {
+    "en": "Brain Gym · Ginástica do Cérebro · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Visual identity for Brain Gym (Ginástica do Cérebro), a cognitive-stimulation center for all ages. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Brain Gym"
+  },
+  "category": {
+    "en": "Branding &amp; Visual Identity"
+  },
+  "timeline": {
+    "en": "3 weeks"
+  },
+  "lead": [
+    {
+      "en": "<strong>Ginástica do Cérebro (Brain Gym)</strong> is a neuroeducation franchise that turns games into brain training, building focus, memory, and social skills through play, for everyone from young children to seniors. The identity had to reach very different people at once: kids and neurodivergent learners, their parents, and the psychologists and educators who run each unit. It needed to feel playful without being childish, and credible without turning clinical. So we built a warm, grounded identity that greets a six-year-old and a seventy-year-old with the same open hand."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/brain-gym/Frame-42.jpg",
+    "alt": {
+      "en": "Brain Gym, brand mark (smiling icon)"
+    }
+  },
+  "goals": {
+    "en": "Unify a multi-audience franchise under one identity that scales from a single unit to a national network. Balance play and rigor so the brand feels fun to children and trustworthy to the families and professionals who choose it."
+  },
+  "shots": [
+    {
+      "src": "assets/img/brain-gym/6.jpg",
+      "alt": {
+        "en": "Brain Gym, clinic environment"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/8.jpg",
+      "alt": {
+        "en": "Brain Gym, method in use with a patient"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/2.jpg",
+      "alt": {
+        "en": "Brain Gym, brand system and characters"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/5.jpg",
+      "alt": {
+        "en": "Brain Gym, child wearing the branded cap"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/7.jpg",
+      "alt": {
+        "en": "Brain Gym, business card"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/3.jpg",
+      "alt": {
+        "en": "Brain Gym, icon system and templates"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/51154246.jpg",
+      "alt": {
+        "en": "Brain Gym, custom notebook"
+      }
+    },
+    {
+      "src": "assets/img/brain-gym/51154247.jpg",
+      "alt": {
+        "en": "Brain Gym, packaging"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A complete brand guide (symbol, logo, color hierarchy, typography, and a full photographic direction) that keeps Ginástica do Cérebro consistent across storefronts, social, print, and franchise training. The system carries real neuroscience with a light, human touch, giving every unit a recognizable presence that feels as welcoming as its rooms."
+    }
+  ],
+  "next": [
+    {
+      "slug": "dox-ia",
+      "img": "assets/img/dox-ia/Frame-50.jpg",
+      "label": {
+        "en": "Dox IA"
+      }
+    },
+    {
+      "slug": "icim",
+      "img": "assets/img/icim/Frame-19.jpg",
+      "label": {
+        "en": "Institute CIM"
+      }
+    },
+    {
+      "slug": "menttalis",
+      "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "label": {
+        "en": "Menttalis"
+      }
+    }
+  ]
+}

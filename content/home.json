@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": { "en": "Bruno Reis · Turning complexity into clear brand systems" },
+    "description": { "en": "I help companies turn complexity into clear brand systems, built to move fast and last long. Brand sprints for teams that need clarity, fast." }
+  },
+  "marquee": { "en": "Brand sprints for teams that need clarity, fast" },
+  "hero": {
+    "lines": [
+      { "en": "I help companies turn" },
+      { "en": "complexity into clear" },
+      { "en": "brand systems, built to" },
+      { "en": "<i>move fast</i> and <i>last long</i>." }
+    ],
+    "ctaWork": { "en": "View selected work" }
+  },
+  "projects": {
+    "eyebrow": { "en": "// Selected work" },
+    "title": { "en": "Projects." },
+    "lead": { "en": "Brand systems built for teams in mental health, education and care." }
+  },
+  "about": {
+    "photo": "assets/img/about/bruno.jpg",
+    "photoAlt": { "en": "Bruno Reis" },
+    "title": { "en": "More than a strategic partner" },
+    "paras": [
+      { "en": "I believe strong brands aren't built with noise. They're built with focus, judgment, and the courage to decide. That's why I work through brand sprints: a focused process to help teams align, move forward, and stop wasting energy on uncertainty." },
+      { "en": "No inflated frameworks.<br />No endless iterations.<br />Just clarity, structure, and execution." }
+    ]
+  },
+  "process": {
+    "eyebrow": { "en": "// The process" },
+    "title": { "en": "Zero to full brand in three weeks." },
+    "steps": [
+      { "num": "01", "title": { "en": "Start briefing" }, "text": { "en": "It's the first call. I want to understand your business objectives and help you create a strong, new perception for your product or service." } },
+      { "num": "02", "title": { "en": "Moodboard session" }, "text": { "en": "Second call: you share your ideas, vision and requirements for the project, giving me a clear understanding of what you want to achieve and how you imagine the outcome." } },
+      { "num": "03", "title": { "en": "Real time Refinement" }, "text": { "en": "Once the order has been placed and the vision for the brand is clear, you get to contact me personally to see and review real-time updates of your project." } },
+      { "num": "04", "title": { "en": "Project delivery" }, "text": { "en": "Once the project is finalised, you receive all your project files in the desired formats, at the highest resolution." } }
+    ]
+  },
+  "services": {
+    "eyebrow": { "en": "// Services" },
+    "title": { "en": "What I do." },
+    "cards": [
+      { "num": "01", "bg": "assets/img/gw/gw-01.jpg", "title": { "en": "Branding" }, "text": { "en": "Complete brand systems: strategy, identity and guidelines built to last." } },
+      { "num": "02", "bg": "assets/img/ctc/6.jpg", "title": { "en": "Websites" }, "text": { "en": "Strategic websites that communicate your brand clearly, build trust and turn visitors into clients." } },
+      { "num": "03", "bg": "assets/img/services/offer-design.jpg", "title": { "en": "Offer Design" }, "text": { "en": "Structure digital products and offers with clear positioning, user experience and business strategy." } }
+    ]
+  },
+  "testimonials": {
+    "headImg": "assets/img/brain-gym/6.jpg",
+    "headImgAlt": { "en": "Client work, Brain Gym" },
+    "eyebrow": { "en": "// Testimonials" },
+    "title": { "en": "Client Reviews" },
+    "lead": { "en": "Real feedback from clients who trusted my design expertise to elevate their brands successfully." },
+    "items": [
+      { "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate. The process brought direction to decisions that used to feel disconnected." }, "name": "Merari Machado", "role": { "en": "Founder, Menttalis" }, "avatar": "assets/img/testimonials/merari-machado.jpg" },
+      { "quote": { "en": "It's rare to find a designer who thinks about the business first and aesthetics second. Bruno delivers beautiful solutions because they make sense, not just because they catch the eye." }, "name": "Daniela Nery", "role": { "en": "CMO, FindUP" }, "avatar": "assets/img/testimonials/daniela-nery.jpeg" },
+      { "quote": { "en": "Bruno's work conveys exactly what we were looking for: clarity, credibility and consistency. Every decision feels like it has a purpose." }, "name": "Dr. Thiago Castro", "role": { "en": "CEO, Castro Group" }, "avatar": "assets/img/testimonials/thiago-castro.jpeg" },
+      { "quote": { "en": "Bruno brought clarity to the way we present Med+. The result is a more consistent brand, aligned with the company's vision and ready to grow." }, "name": "Victor Reis", "role": { "en": "President, Med+" }, "avatar": "assets/img/testimonials/vitor-reis.jpg" },
+      { "quote": { "en": "Working with Bruno means having someone who understands the context before proposing any solution. It makes the whole process smoother and the deliverables far more on-point." }, "name": "Regina Luíza", "role": { "en": "Marketing Manager, Med+" }, "avatar": "assets/img/testimonials/regina-luiza.jpeg" }
+    ]
+  },
+  "contact": {
+    "title": { "en": "Let's talk." },
+    "text": { "en": "Got questions or ready to start your design project? Let's bring your ideas to life." },
+    "cta": { "en": "Chat with me" }
+  }
+}

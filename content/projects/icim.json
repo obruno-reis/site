@@ -1,0 +1,123 @@
+{
+  "slug": "icim",
+  "card": {
+    "cover": "assets/img/icim/Frame-19.jpg",
+    "handle": "Institute of Mind Sciences",
+    "title": {
+      "en": "Institute CIM"
+    }
+  },
+  "metaTitle": {
+    "en": "Institute CIM · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Institutional branding for ICIM, Institute of Mind Sciences, founded by Dr. Italo Marsili. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Institute CIM"
+  },
+  "category": {
+    "en": "Institutional Branding &amp; Campaign"
+  },
+  "timeline": {
+    "en": "4 weeks"
+  },
+  "lead": [
+    {
+      "en": "<strong>Institute CIM (Instituto de Ciências da Mente)</strong> was born with a bold ambition: to become the largest and most complete mental-health ecosystem in Brazil. It's the formal, academic evolution of a body of work that began with Guerrilla Therapy and grew into the Italo Marsili Certification, now stepping into MEC-accredited online postgraduate programs, with clinics, hospitals, research groups, and publishing on the horizon. An institution carrying this much weight couldn't look like a startup or a corporate brand; it needed the gravity of a place where knowledge is made. So we drew the identity by hand, tracing it back to Greek philosophy and Plato's Academy, giving a modern ecosystem a soul that feels centuries old."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/icim/CAPA.jpg",
+    "alt": {
+      "en": "Institute CIM, outdoor billboard with crest"
+    }
+  },
+  "goals": {
+    "en": "Give an ambitious, multi-front institution a single identity worthy of its academic mission, one that signals rigor and permanence from day one. Build a system flexible enough to carry postgraduate programs today and clinics, hospitals, and research imprints tomorrow."
+  },
+  "shots": [
+    {
+      "src": "assets/img/icim/Frame-7.jpg",
+      "alt": {
+        "en": "Institute CIM, hand-drawn lion sketch"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-12.jpg",
+      "alt": {
+        "en": "Institute CIM, crest construction grid"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-38.jpg",
+      "alt": {
+        "en": "Institute CIM, student guide magazine"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-31.jpg",
+      "alt": {
+        "en": "Institute CIM, Dr. Italo Marsili in the recording studio"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-26.jpg",
+      "alt": {
+        "en": "Institute CIM, out-of-home campaign with the founder's quote"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-17.jpg",
+      "alt": {
+        "en": "Institute CIM, Human Virtues coursebook"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-16.jpg",
+      "alt": {
+        "en": "Institute CIM, institutional packaging"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-27.jpg",
+      "alt": {
+        "en": "Institute CIM, business card"
+      }
+    },
+    {
+      "src": "assets/img/icim/Frame-40.jpg",
+      "alt": {
+        "en": "Institute CIM, bus-stop campaign"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A bespoke, hand-drawn identity rooted in classical philosophy, custom lettering and marks that feel more carved than designed. It gives Instituto CIM the scholarly authority of a centuries-old academy while staying ready to scale across courses, campuses, and every future branch of the ecosystem."
+    }
+  ],
+  "next": [
+    {
+      "slug": "dox-ia",
+      "img": "assets/img/dox-ia/Frame-50.jpg",
+      "label": {
+        "en": "Dox IA"
+      }
+    },
+    {
+      "slug": "brain-gym",
+      "img": "assets/img/brain-gym/5D7A3457.jpg",
+      "label": {
+        "en": "Brain Gym"
+      }
+    },
+    {
+      "slug": "menttalis",
+      "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "label": {
+        "en": "Menttalis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "vitor-santos",
+  "card": {
+    "cover": "assets/img/vitor-santos/1.jpg",
+    "coverStyle": "object-position:44% 50%;",
+    "handle": "Psychotherapy",
+    "title": {
+      "en": "Vitor Santos"
+    }
+  },
+  "metaTitle": {
+    "en": "Vitor Santos · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Brand identity for Vitor Santos, psychotherapist and consultant for leaders. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Vitor Santos"
+  },
+  "category": {
+    "en": "Branding &amp; Visual Identity"
+  },
+  "timeline": {
+    "en": "3 weeks"
+  },
+  "lead": [
+    {
+      "en": "<strong>Vitor Santos</strong> is a psychotherapist and consultant for leaders. His work isn't about fixing what's wrong. It's about opening what was closed, helping people understand themselves before trying to improve. The brand had to carry that depth: introspective and philosophical, yet clear and grounded. So we built an identity around a single gesture: the act of opening."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/vitor-santos/1.jpg",
+    "alt": {
+      "en": "Vitor Santos, VS monogram framing a portrait"
+    }
+  },
+  "goals": {
+    "en": "Translate a deep, introspective approach into a clear visual language, without flattening its philosophical weight. Build a flexible mark and system that hold up across his one-on-one therapy and his work with leaders."
+  },
+  "shots": [
+    {
+      "src": "assets/img/vitor-santos/2.jpg",
+      "alt": {
+        "en": "Vitor Santos, logo lockups"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/3.jpg",
+      "alt": {
+        "en": "Vitor Santos, primary logo"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/4.jpg",
+      "alt": {
+        "en": "Vitor Santos, application 4"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/5.jpg",
+      "alt": {
+        "en": "Vitor Santos, application 5"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/6.jpg",
+      "alt": {
+        "en": "Vitor Santos, application 6"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/7.jpg",
+      "alt": {
+        "en": "Vitor Santos, application 7"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/8.jpg",
+      "alt": {
+        "en": "Vitor Santos, application 8"
+      }
+    },
+    {
+      "src": "assets/img/vitor-santos/9.jpg",
+      "alt": {
+        "en": "Vitor Santos, therapeutic journey screen"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A monogram system built on the VS: a V that descends into the depths of the self, an S that opens like a capsule releasing meaning. It comes with an elegant serif wordmark, flexible lockups, a palette of deep teal, sage, and cream, and a photo treatment that frames portraits inside the mark itself. Together they give Vitor a presence that feels calm, deep, and human. A brand about opening, not correcting."
+    }
+  ],
+  "next": [
+    {
+      "slug": "menttalis",
+      "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "label": {
+        "en": "Menttalis"
+      }
+    },
+    {
+      "slug": "clinica-psicologia",
+      "img": "assets/img/clinica-mar-atlantico/51154257.jpg",
+      "label": {
+        "en": "Clínica Mar Atlântico"
+      }
+    },
+    {
+      "slug": "nutricionista",
+      "img": "assets/img/nutritionist/nutri-01.jpg",
+      "label": {
+        "en": "Dra. Tuany Lannes"
+      }
+    }
+  ]
+}

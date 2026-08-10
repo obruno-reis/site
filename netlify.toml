@@ -1,10 +1,13 @@
-# Configuração do site estático (Bruno Reis) para o Netlify.
+# Configuração do site (Bruno Reis) para o Netlify.
 #
-# O site publicável fica na subpasta "site/". Esta linha diz ao Netlify
-# para publicar essa pasta (sem build step). Fica na RAIZ do repositório,
-# que é sempre onde o Netlify lê o netlify.toml.
+# O site é gerado por um script (build.js) a partir de content/ + templates/.
+# O Netlify roda o build e publica a pasta "dist/".
 [build]
-  publish = "site"
+  command = "node build.js"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
 
 # Cache longo para assets versionados/estáveis (imagens, css com ?v=, js).
 [[headers]]

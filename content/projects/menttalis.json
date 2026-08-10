@@ -1,0 +1,117 @@
+{
+  "slug": "menttalis",
+  "card": {
+    "cover": "assets/img/menttalis/Case-Menttalis-6.jpg",
+    "handle": "@menttalis",
+    "title": {
+      "en": "Menttalis Mental Health"
+    }
+  },
+  "metaTitle": {
+    "en": "Menttalis · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Branding and digital platform for Menttalis, a mental-health brand by Merari and Gisela Machado. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Menttalis"
+  },
+  "category": {
+    "en": "Branding &amp; Digital Platform"
+  },
+  "timeline": {
+    "en": "3 weeks"
+  },
+  "lead": [
+    {
+      "en": "<strong>Menttalis</strong> is a mental-health clinic that blends neuroscience with everyday habits to raise people's quality of life, caring for each patient as a whole: body, mind, social world, and spirit. Mental health still carries stigma, and an integrative, holistic message can easily read as either cold and clinical or vaguely alternative. Menttalis needed to feel credible and grounded in science while staying warm, human, and modern. So we built the brand from strategy up: positioning, voice, and a visual identity designed to make holistic care feel trustworthy rather than fringe."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/menttalis/60.jpg",
+    "alt": {
+      "en": "Menttalis, brand concept with the founders"
+    }
+  },
+  "goals": {
+    "en": "Turn a broad, integrative philosophy into a sharp, ownable positioning that stands out in a crowded wellness market. Give the clinic a complete identity that signals scientific rigor and human warmth in the same breath."
+  },
+  "shots": [
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "alt": {
+        "en": "Menttalis, website home"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-3.jpg",
+      "alt": {
+        "en": "Menttalis, business card"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-10.jpg",
+      "alt": {
+        "en": "Menttalis, full stationery"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-7.jpg",
+      "alt": {
+        "en": "Menttalis, t-shirt with the symbol"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-4.jpg",
+      "alt": {
+        "en": "Menttalis, insulated bottle"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-2.jpg",
+      "alt": {
+        "en": "Menttalis, social-media posts (four pillars)"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Post-6.jpg",
+      "alt": {
+        "en": "Menttalis, street panel"
+      }
+    },
+    {
+      "src": "assets/img/menttalis/Case-Menttalis-9.jpg",
+      "alt": {
+        "en": "Menttalis, full case on tablet"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A full brand system built on one simple idea: Menttalis means Mind and Habits. The wordmark reads like a personal name, anchored by a custom \"M\" that merges a brain and a balance (equilibrium made visible), supported by a biopsychosocial-spiritual seal and biophilia-inspired gradients that keep the science feeling alive and natural. The strategic foundation carries into every touchpoint, from stationery and social to billboards, giving the clinic a presence as balanced as the care it promises."
+    }
+  ],
+  "next": [
+    {
+      "slug": "dox-ia",
+      "img": "assets/img/dox-ia/Frame-50.jpg",
+      "label": {
+        "en": "Dox IA"
+      }
+    },
+    {
+      "slug": "brain-gym",
+      "img": "assets/img/brain-gym/5D7A3457.jpg",
+      "label": {
+        "en": "Brain Gym"
+      }
+    },
+    {
+      "slug": "icim",
+      "img": "assets/img/icim/Frame-19.jpg",
+      "label": {
+        "en": "Institute CIM"
+      }
+    }
+  ]
+}

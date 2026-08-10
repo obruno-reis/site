@@ -1,0 +1,31 @@
+{
+  "brand": "Bruno Reis®",
+  "copyright": "2026 © Bruno Reis",
+  "wa": "https://wa.me/5581985688421?text=Hello%2C%20Bruno!%20",
+  "bookACall": { "en": "Book a call" },
+  "projectUI": {
+    "back": { "en": "Back to projects" },
+    "category": { "en": "// Category" },
+    "timeline": { "en": "// Timeline" },
+    "goals": { "en": "Project Goals" },
+    "result": { "en": "The Result" },
+    "next": { "en": "Next Projects." }
+  },
+  "nav": [
+    { "label": { "en": "About Me" }, "hash": "#about" },
+    { "label": { "en": "Projects" }, "hash": "#projects" },
+    { "label": { "en": "Services" }, "hash": "#services" },
+    { "label": { "en": "Testimonials" }, "hash": "#testimonials" }
+  ],
+  "footer": {
+    "tagline": { "en": "Bold design for brands built to move fast and last long. Brand sprints that turn complexity into clarity." },
+    "navLabel": { "en": "/ Navigation" },
+    "contactLabel": { "en": "/ Contact" },
+    "linkedin": "https://www.linkedin.com/in/obrunoreis/",
+    "instagram": "https://instagram.com/obruno_reis",
+    "email": "contato@brunoreis.cc",
+    "phone": "+55 81 98568.8421",
+    "phoneLink": "https://wa.me/5581985688421",
+    "handle": "@obruno_reis"
+  }
+}

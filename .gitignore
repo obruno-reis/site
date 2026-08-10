@@ -15,5 +15,11 @@ _img-originals-backup/
 /proximos-projetos-framer.md
 /project-page-template.html
 
+# Saída gerada pelo build (o Netlify gera isso no deploy)
+/dist/
+
+# Extrator temporário de conteúdo (uso único)
+/extract.js
+
 # Dependências / temporários
 node_modules/

@@ -1,0 +1,117 @@
+{
+  "slug": "youtube",
+  "card": {
+    "cover": "assets/img/youtube-channel/italo-mundo-afora_page-0001.jpg",
+    "handle": "italomarsili",
+    "title": {
+      "en": "Italo Mundo Afora"
+    }
+  },
+  "metaTitle": {
+    "en": "Italo Mundo Afora · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Brand identity for Italo Mundo Afora, a travel video series with Dr. Italo Marsili. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Italo Mundo Afora"
+  },
+  "category": {
+    "en": "Branding &amp; Art Direction"
+  },
+  "timeline": {
+    "en": "2 weeks"
+  },
+  "lead": [
+    {
+      "en": "<strong>Italo Mundo Afora (\"Italo Across the World\")</strong> is a travel video series where psychiatrist and writer Dr. Italo Marsili reflects on maturity, family, and faith while journeying abroad and meeting his audience face to face. A show filmed in a different country each episode needed an identity that could travel with it, holding together across borders and backdrops without ever looking like a casual vlog. The challenge was to give the series the romance and weight of a real expedition while keeping Italo's warm, reflective voice at its center. So we built an identity rooted in the age of exploration (navigators, passports, and maps) that reframes his travels as a modern journey of discovery."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/youtube-channel/italo-mundo-afora_page-0001.jpg",
+    "alt": {
+      "en": "Italo Mundo Afora, title / logo"
+    }
+  },
+  "goals": {
+    "en": "Give a globe-trotting series one identity that stays consistent across every country and episode. Frame Italo's travels as a journey of discovery, intellectual and spiritual, not merely geographic."
+  },
+  "shots": [
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0002.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 2"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0003.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 3"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0004.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 4"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0005.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 5"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0006.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 6"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0007.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 7"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0008.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 8"
+      }
+    },
+    {
+      "src": "assets/img/youtube-channel/italo-mundo-afora_page-0009.jpg",
+      "alt": {
+        "en": "Italo Mundo Afora, application 9"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A broadcast-ready system drawn from the age of exploration: stencil lettering, cartographic lines, and passport-stamp motifs in a deep-indigo-and-red palette that nods to Portuguese navigation, a deliberate thread between Portugal and Brazil. It runs from title cards and on-screen lower-thirds to thumbnails and social, giving every episode, wherever it's filmed, the same feeling of a voyage worth following."
+    }
+  ],
+  "next": [
+    {
+      "slug": "dox-ia",
+      "img": "assets/img/dox-ia/Frame-50.jpg",
+      "label": {
+        "en": "Dox IA"
+      }
+    },
+    {
+      "slug": "icim",
+      "img": "assets/img/icim/Frame-19.jpg",
+      "label": {
+        "en": "Institute CIM"
+      }
+    },
+    {
+      "slug": "menttalis",
+      "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "label": {
+        "en": "Menttalis"
+      }
+    }
+  ]
+}

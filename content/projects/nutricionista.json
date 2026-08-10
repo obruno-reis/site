@@ -1,0 +1,105 @@
+{
+  "slug": "nutricionista",
+  "card": {
+    "cover": "assets/img/nutritionist/nutri-01.jpg",
+    "handle": "tuanylannesnutri",
+    "title": {
+      "en": "Dra. Tuany Lannes"
+    }
+  },
+  "metaTitle": {
+    "en": "Dra. Tuany Lannes · Bruno Reis"
+  },
+  "metaDesc": {
+    "en": "Brand identity for Dra. Tuany Lannes, an integrative nutritionist. Case study by Bruno Reis."
+  },
+  "title": {
+    "en": "Dra. Tuany Lannes"
+  },
+  "category": {
+    "en": "Branding &amp; Visual Identity"
+  },
+  "timeline": {
+    "en": "3 weeks"
+  },
+  "lead": [
+    {
+      "en": "<strong>Dra. Tuany Lannes</strong> is an integrative nutritionist specializing in women's health, mental health, and gut health. Her work goes beyond diets: food as a form of care that reconnects body, mind, and habits. The brand had to feel warm and human without losing scientific authority: accessible, never clinical or preachy. So we built an identity around the sacred spiral, carrying her expertise while staying close and inviting."
+    }
+  ],
+  "hero": {
+    "src": "assets/img/nutritionist/nutri-01.jpg",
+    "alt": {
+      "en": "Dra. Tuany Lannes, T monogram"
+    }
+  },
+  "goals": {
+    "en": "Translate her scientific, integrative approach into language that's warm, accessible, and inspiring, while keeping her clinical authority intact. Build a flexible identity that holds up across clinic, print, social, and packaging."
+  },
+  "shots": [
+    {
+      "src": "assets/img/nutritionist/nutri-02.jpg",
+      "alt": {
+        "en": "Dra. Tuany Lannes, application 2"
+      }
+    },
+    {
+      "src": "assets/img/nutritionist/nutri-03.jpg",
+      "alt": {
+        "en": "Dra. Tuany Lannes, Energize program"
+      }
+    },
+    {
+      "src": "assets/img/nutritionist/nutri-04.jpg",
+      "alt": {
+        "en": "Dra. Tuany Lannes, application 4"
+      }
+    },
+    {
+      "src": "assets/img/nutritionist/nutri-05.jpg",
+      "alt": {
+        "en": "Dra. Tuany Lannes, application 5"
+      }
+    },
+    {
+      "src": "assets/img/nutritionist/nutri-06.jpg",
+      "alt": {
+        "en": "Dra. Tuany Lannes, application 6"
+      }
+    },
+    {
+      "src": "assets/img/nutritionist/nutri-07.jpg",
+      "alt": {
+        "en": "Dra. Tuany Lannes, application 7"
+      }
+    }
+  ],
+  "result": [
+    {
+      "en": "A complete visual identity: a serif \"T\" monogram in a rounded arch, a spiral symbol built from proportional circles, Baskerville Old Face paired with Poppins, and a warm palette of terracotta, sand, and cream. It extends across business cards, folders, social templates, and products like water bottles and notebooks, plus dedicated lockups for her Energize, Balance, and Vital programs. Together they give Dra. Tuany a presence that's scientific yet soft, grounded in her positioning line, \"Bem-estar não é destino, é construção\" (wellbeing isn't a destination, it's built)."
+    }
+  ],
+  "next": [
+    {
+      "slug": "clinica-psicologia",
+      "img": "assets/img/clinica-mar-atlantico/51154257.jpg",
+      "label": {
+        "en": "Clínica Mar Atlântico"
+      }
+    },
+    {
+      "slug": "menttalis",
+      "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
+      "label": {
+        "en": "Menttalis"
+      }
+    },
+    {
+      "slug": "brain-gym",
+      "img": "assets/img/brain-gym/5D7A3457.jpg",
+      "label": {
+        "en": "Brain Gym"
+      }
+    }
+  ]
+}
