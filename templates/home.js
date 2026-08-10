@@ -47,7 +47,7 @@ module.exports = function home(ctx, common, home, projects) {
   const cards = projects.map(p => `        <a href="${projectUrl(p.slug)}" class="project-card">
           <img src="${asset(p.card.cover)}" alt="${t(p.card.title)}" loading="lazy"${p.card.coverStyle ? ` style="${p.card.coverStyle}"` : ''} />
           <div class="project-card__meta">
-            <div class="project-card__handle">${p.card.handle}</div>
+            <div class="project-card__handle">${t(p.card.handle)}</div>
             <div class="project-card__title">${t(p.card.title)}</div>
           </div>
         </a>`).join('\n\n');

@@ -4,85 +4,102 @@
     "cover": "assets/img/clinica-mar-atlantico/51154257.jpg",
     "handle": "@clinicamaratlantico",
     "title": {
-      "en": "Clínica Mar Atlântico"
+      "en": "Clínica Mar Atlântico",
+      "pt": "Clínica Mar Atlântico"
     }
   },
   "metaTitle": {
-    "en": "Clínica Mar Atlântico · Bruno Reis"
+    "en": "Clínica Mar Atlântico · Bruno Reis",
+    "pt": "Clínica Mar Atlântico · Bruno Reis"
   },
   "metaDesc": {
-    "en": "Branding and web design for Clínica Mar Atlântico, an integrative mental-health clinic. Case study by Bruno Reis."
+    "en": "Branding and web design for Clínica Mar Atlântico, an integrative mental-health clinic. Case study by Bruno Reis.",
+    "pt": "Branding e web design para a Clínica Mar Atlântico, uma clínica integrativa de saúde mental. Case de Bruno Reis."
   },
   "title": {
-    "en": "Clínica Mar Atlântico"
+    "en": "Clínica Mar Atlântico",
+    "pt": "Clínica Mar Atlântico"
   },
   "category": {
-    "en": "Branding &amp; Web Design"
+    "en": "Branding &amp; Web Design",
+    "pt": "Branding &amp; Web Design"
   },
   "timeline": {
-    "en": "2 weeks"
+    "en": "2 weeks",
+    "pt": "2 semanas"
   },
   "lead": [
     {
-      "en": "<strong>Clínica Mar Atlântico</strong> is an online-first mental-health clinic offering psychiatry, psychology, and nutrition under one standard: clinical excellence delivered with real humanity, support for every phase of life. Mental-health care often forces a false choice between authority and warmth, a clinic feeling either rigorous or welcoming but rarely both. Mar Atlântico needed an identity that held the two together: the seriousness of expert medicine and the feeling of being genuinely heard, without judgment. So we anchored the brand in its own name (the Atlantic), using the ocean as a language for depth, calm, and steady support."
+      "en": "<strong>Clínica Mar Atlântico</strong> is an online-first mental-health clinic offering psychiatry, psychology, and nutrition under one standard: clinical excellence delivered with real humanity, support for every phase of life. Mental-health care often forces a false choice between authority and warmth, a clinic feeling either rigorous or welcoming but rarely both. Mar Atlântico needed an identity that held the two together: the seriousness of expert medicine and the feeling of being genuinely heard, without judgment. So we anchored the brand in its own name (the Atlantic), using the ocean as a language for depth, calm, and steady support.",
+      "pt": "A <strong>Clínica Mar Atlântico</strong> é uma clínica de saúde mental online-first que oferece psiquiatria, psicologia e nutrição sob um mesmo padrão: excelência clínica entregue com humanidade de verdade, apoio para cada fase da vida. O cuidado em saúde mental costuma forçar uma falsa escolha entre autoridade e acolhimento, com a clínica parecendo rigorosa ou acolhedora, mas raramente as duas coisas. A Mar Atlântico precisava de uma identidade que segurasse as duas juntas: a seriedade da medicina especializada e a sensação de ser genuinamente ouvido, sem julgamento. Então ancoramos a marca no próprio nome (o Atlântico), usando o oceano como linguagem para profundidade, calma e apoio constante."
     }
   ],
   "hero": {
     "src": "assets/img/clinica-mar-atlantico/51154257.jpg",
     "alt": {
-      "en": "Clínica Mar Atlântico, banner"
+      "en": "Clínica Mar Atlântico, banner",
+      "pt": "Clínica Mar Atlântico, banner"
     }
   },
   "goals": {
-    "en": "Build an identity that signals medical excellence and human warmth at once, so neither undercuts the other. Give an online-first clinic a presence patients trust before the first appointment, coherent from the landing page to the consultation."
+    "en": "Build an identity that signals medical excellence and human warmth at once, so neither undercuts the other. Give an online-first clinic a presence patients trust before the first appointment, coherent from the landing page to the consultation.",
+    "pt": "Construir uma identidade que sinaliza excelência médica e calor humano ao mesmo tempo, sem que um enfraqueça o outro. Dar a uma clínica online-first uma presença em que os pacientes confiam antes da primeira consulta, coerente da landing page ao atendimento."
   },
   "shots": [
     {
       "src": "assets/img/clinica-mar-atlantico/51154257.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, símbolo sobre o mar"
+        "en": "Clínica Mar Atlântico, símbolo sobre o mar",
+        "pt": "Clínica Mar Atlântico, símbolo sobre o mar"
       }
     },
     {
       "src": "assets/img/clinica-mar-atlantico/website.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, site"
+        "en": "Clínica Mar Atlântico, site",
+        "pt": "Clínica Mar Atlântico, site"
       }
     },
     {
       "src": "assets/img/clinica-mar-atlantico/51154258.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, aplicação 2"
+        "en": "Clínica Mar Atlântico, aplicação 2",
+        "pt": "Clínica Mar Atlântico, aplicação 2"
       }
     },
     {
       "src": "assets/img/clinica-mar-atlantico/51154259.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, aplicação 3"
+        "en": "Clínica Mar Atlântico, aplicação 3",
+        "pt": "Clínica Mar Atlântico, aplicação 3"
       }
     },
     {
       "src": "assets/img/clinica-mar-atlantico/51154260.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, aplicação 4"
+        "en": "Clínica Mar Atlântico, aplicação 4",
+        "pt": "Clínica Mar Atlântico, aplicação 4"
       }
     },
     {
       "src": "assets/img/clinica-mar-atlantico/51154261.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, aplicação 5"
+        "en": "Clínica Mar Atlântico, aplicação 5",
+        "pt": "Clínica Mar Atlântico, aplicação 5"
       }
     },
     {
       "src": "assets/img/clinica-mar-atlantico/51154262.jpg",
       "alt": {
-        "en": "Clínica Mar Atlântico, site em tablet"
+        "en": "Clínica Mar Atlântico, site em tablet",
+        "pt": "Clínica Mar Atlântico, site em tablet"
       }
     }
   ],
   "result": [
     {
-      "en": "A complete identity that turns the Atlantic into a system. The symbol layers concentric arcs (ripples on water, and also the sense of being heard) around a central eye-and-leaf form, reading at once as a wave, a horizon, and a vessel. Set in deep Atlantic navy with a light-sky accent and a rounded, humanist wordmark, it carries authority and warmth in the same breath. The language scales from website and social to out-of-home, with portraits masked inside the brand's own wave shapes, giving a distributed online practice a calm, grounded presence patients recognize on sight."
+      "en": "A complete identity that turns the Atlantic into a system. The symbol layers concentric arcs (ripples on water, and also the sense of being heard) around a central eye-and-leaf form, reading at once as a wave, a horizon, and a vessel. Set in deep Atlantic navy with a light-sky accent and a rounded, humanist wordmark, it carries authority and warmth in the same breath. The language scales from website and social to out-of-home, with portraits masked inside the brand's own wave shapes, giving a distributed online practice a calm, grounded presence patients recognize on sight.",
+      "pt": "Uma identidade completa que transforma o Atlântico em um sistema. O símbolo sobrepõe arcos concêntricos (ondulações na água, e também a sensação de ser ouvido) em torno de uma forma central de olho e folha, lida ao mesmo tempo como onda, horizonte e embarcação. Em azul-marinho atlântico profundo com um acento céu-claro e um logotipo humanista e arredondado, ela carrega autoridade e acolhimento no mesmo gesto. A linguagem escala do site e das redes sociais à mídia externa, com retratos mascarados dentro das próprias formas de onda da marca, dando a um consultório online e distribuído uma presença calma e firme que os pacientes reconhecem de imediato."
     }
   ],
   "next": [
@@ -90,21 +107,24 @@
       "slug": "dox-ia",
       "img": "assets/img/dox-ia/Frame-50.jpg",
       "label": {
-        "en": "Dox IA"
+        "en": "Dox IA",
+        "pt": "Dox IA"
       }
     },
     {
       "slug": "menttalis",
       "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "label": {
-        "en": "Menttalis"
+        "en": "Menttalis",
+        "pt": "Menttalis"
       }
     },
     {
       "slug": "icim",
       "img": "assets/img/icim/Frame-19.jpg",
       "label": {
-        "en": "Institute CIM"
+        "en": "Institute CIM",
+        "pt": "Instituto CIM"
       }
     }
   ]

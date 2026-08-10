@@ -2,25 +2,25 @@
   "brand": "Bruno Reis®",
   "copyright": "2026 © Bruno Reis",
   "wa": "https://wa.me/5581985688421?text=Hello%2C%20Bruno!%20",
-  "bookACall": { "en": "Book a call" },
+  "bookACall": { "en": "Book a call", "pt": "Agende uma conversa" },
   "projectUI": {
-    "back": { "en": "Back to projects" },
-    "category": { "en": "// Category" },
-    "timeline": { "en": "// Timeline" },
-    "goals": { "en": "Project Goals" },
-    "result": { "en": "The Result" },
-    "next": { "en": "Next Projects." }
+    "back": { "en": "Back to projects", "pt": "Voltar aos projetos" },
+    "category": { "en": "// Category", "pt": "// Categoria" },
+    "timeline": { "en": "// Timeline", "pt": "// Linha do tempo" },
+    "goals": { "en": "Project Goals", "pt": "Objetivos do projeto" },
+    "result": { "en": "The Result", "pt": "O resultado" },
+    "next": { "en": "Next Projects.", "pt": "Próximos projetos." }
   },
   "nav": [
-    { "label": { "en": "About Me" }, "hash": "#about" },
-    { "label": { "en": "Projects" }, "hash": "#projects" },
-    { "label": { "en": "Services" }, "hash": "#services" },
-    { "label": { "en": "Testimonials" }, "hash": "#testimonials" }
+    { "label": { "en": "About Me", "pt": "Sobre" }, "hash": "#about" },
+    { "label": { "en": "Projects", "pt": "Projetos" }, "hash": "#projects" },
+    { "label": { "en": "Services", "pt": "Serviços" }, "hash": "#services" },
+    { "label": { "en": "Testimonials", "pt": "Depoimentos" }, "hash": "#testimonials" }
   ],
   "footer": {
-    "tagline": { "en": "Bold design for brands built to move fast and last long. Brand sprints that turn complexity into clarity." },
-    "navLabel": { "en": "/ Navigation" },
-    "contactLabel": { "en": "/ Contact" },
+    "tagline": { "en": "Bold design for brands built to move fast and last long. Brand sprints that turn complexity into clarity.", "pt": "Design ousado para marcas feitas para ir rápido e durar. Brand sprints que transformam complexidade em clareza." },
+    "navLabel": { "en": "/ Navigation", "pt": "/ Navegação" },
+    "contactLabel": { "en": "/ Contact", "pt": "/ Contato" },
     "linkedin": "https://www.linkedin.com/in/obrunoreis/",
     "instagram": "https://instagram.com/obruno_reis",
     "email": "contato@brunoreis.cc",

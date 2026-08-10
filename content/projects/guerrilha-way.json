@@ -4,127 +4,151 @@
     "cover": "assets/img/gw/gw-01.jpg",
     "handle": "@guerrilhaway",
     "title": {
-      "en": "Guerrilha Way"
+      "en": "Guerrilha Way",
+      "pt": "Guerrilha Way"
     }
   },
   "metaTitle": {
-    "en": "Guerrilha Way · Bruno Reis"
+    "en": "Guerrilha Way · Bruno Reis",
+    "pt": "Guerrilha Way · Bruno Reis"
   },
   "metaDesc": {
-    "en": "Brand identity for Guerrilha Way, a personal-development program by Dr. Italo Marsili. Case study by Bruno Reis."
+    "en": "Brand identity for Guerrilha Way, a personal-development program by Dr. Italo Marsili. Case study by Bruno Reis.",
+    "pt": "Identidade de marca para o Guerrilha Way, um programa de desenvolvimento pessoal do Dr. Italo Marsili. Case de Bruno Reis."
   },
   "title": {
-    "en": "Guerrilha Way"
+    "en": "Guerrilha Way",
+    "pt": "Guerrilha Way"
   },
   "category": {
-    "en": "Branding &amp; Art Direction"
+    "en": "Branding &amp; Art Direction",
+    "pt": "Branding &amp; Direção de Arte"
   },
   "timeline": {
-    "en": "4 weeks"
+    "en": "4 weeks",
+    "pt": "4 semanas"
   },
   "lead": [
     {
-      "en": "<strong>Guerrilha Way</strong> is a personal-development program created by Dr. Italo Marsili, a Brazilian psychiatrist whose work has reached over 100,000 students in ten countries. It trains people to take command of their routine and their mind across seven fronts, from health and family to work and spirituality. The brand had to hit like an insurgency, not a self-help course: hard, disciplined, unafraid to provoke. So we built an identity with a soldier's edge: a chevron mark, a black-and-red core, and a system that stays sharp everywhere it lands."
+      "en": "<strong>Guerrilha Way</strong> is a personal-development program created by Dr. Italo Marsili, a Brazilian psychiatrist whose work has reached over 100,000 students in ten countries. It trains people to take command of their routine and their mind across seven fronts, from health and family to work and spirituality. The brand had to hit like an insurgency, not a self-help course: hard, disciplined, unafraid to provoke. So we built an identity with a soldier's edge: a chevron mark, a black-and-red core, and a system that stays sharp everywhere it lands.",
+      "pt": "O <strong>Guerrilha Way</strong> é um programa de desenvolvimento pessoal criado pelo Dr. Italo Marsili, psiquiatra brasileiro cujo trabalho já alcançou mais de 100 mil alunos em dez países. Ele treina as pessoas a assumir o comando da própria rotina e da própria mente em sete frentes, da saúde e da família ao trabalho e à espiritualidade. A marca precisava bater como uma insurgência, não como um curso de autoajuda: dura, disciplinada, sem medo de provocar. Então construímos uma identidade com postura de soldado: um símbolo em chevron, um núcleo preto e vermelho e um sistema que se mantém afiado onde quer que apareça."
     }
   ],
   "hero": {
     "src": "assets/img/gw/gw-01.jpg",
     "alt": {
-      "en": "Guerrilha Way, GW logo on out-of-home media"
+      "en": "Guerrilha Way, GW logo on out-of-home media",
+      "pt": "Guerrilha Way, logo GW em mídia externa"
     }
   },
   "goals": {
-    "en": "Give the program a brand as demanding as its message: discipline you can read before a single word. Build a flexible system that holds up from the app and out-of-home to apparel and merch, without ever going soft."
+    "en": "Give the program a brand as demanding as its message: discipline you can read before a single word. Build a flexible system that holds up from the app and out-of-home to apparel and merch, without ever going soft.",
+    "pt": "Dar ao programa uma marca tão exigente quanto sua mensagem: disciplina que se lê antes de uma única palavra. Construir um sistema flexível que se sustenta do app e da mídia externa ao vestuário e aos brindes, sem nunca amolecer."
   },
   "shots": [
     {
       "src": "assets/img/gw/gw-02.jpg",
       "alt": {
-        "en": "Guerrilha Way, wristbands with manifesto"
+        "en": "Guerrilha Way, wristbands with manifesto",
+        "pt": "Guerrilha Way, pulseiras com o manifesto"
       }
     },
     {
       "src": "assets/img/gw/gw-03.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 3"
+        "en": "Guerrilha Way, application 3",
+        "pt": "Guerrilha Way, aplicação 3"
       }
     },
     {
       "src": "assets/img/gw/gw-04.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 4"
+        "en": "Guerrilha Way, application 4",
+        "pt": "Guerrilha Way, aplicação 4"
       }
     },
     {
       "src": "assets/img/gw/gw-05.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 5"
+        "en": "Guerrilha Way, application 5",
+        "pt": "Guerrilha Way, aplicação 5"
       }
     },
     {
       "src": "assets/img/gw/gw-06.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 6"
+        "en": "Guerrilha Way, application 6",
+        "pt": "Guerrilha Way, aplicação 6"
       }
     },
     {
       "src": "assets/img/gw/gw-07.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 7"
+        "en": "Guerrilha Way, application 7",
+        "pt": "Guerrilha Way, aplicação 7"
       }
     },
     {
       "src": "assets/img/gw/gw-08.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 8"
+        "en": "Guerrilha Way, application 8",
+        "pt": "Guerrilha Way, aplicação 8"
       }
     },
     {
       "src": "assets/img/gw/gw-09.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 9"
+        "en": "Guerrilha Way, application 9",
+        "pt": "Guerrilha Way, aplicação 9"
       }
     },
     {
       "src": "assets/img/gw/gw-10.jpg",
       "alt": {
-        "en": "Guerrilha Way, the seven pillars"
+        "en": "Guerrilha Way, the seven pillars",
+        "pt": "Guerrilha Way, os sete pilares"
       }
     },
     {
       "src": "assets/img/gw/gw-11.jpg",
       "alt": {
-        "en": "Guerrilha Way, pillars system"
+        "en": "Guerrilha Way, pillars system",
+        "pt": "Guerrilha Way, sistema de pilares"
       }
     },
     {
       "src": "assets/img/gw/gw-12.jpg",
       "alt": {
-        "en": "Guerrilha Way, grid system"
+        "en": "Guerrilha Way, grid system",
+        "pt": "Guerrilha Way, sistema de grid"
       }
     },
     {
       "src": "assets/img/gw/gw-13.jpg",
       "alt": {
-        "en": "Guerrilha Way, ad creative"
+        "en": "Guerrilha Way, ad creative",
+        "pt": "Guerrilha Way, peça de anúncio"
       }
     },
     {
       "src": "assets/img/gw/gw-14.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 14"
+        "en": "Guerrilha Way, application 14",
+        "pt": "Guerrilha Way, aplicação 14"
       }
     },
     {
       "src": "assets/img/gw/gw-15.jpg",
       "alt": {
-        "en": "Guerrilha Way, application 15"
+        "en": "Guerrilha Way, application 15",
+        "pt": "Guerrilha Way, aplicação 15"
       }
     }
   ],
   "result": [
     {
-      "en": "A complete identity anchored on the GW monogram, its W cut from angled bars that read at once as a military chevron and forward motion. A black-and-red core keeps the tone aggressive, while a seven-color system codes each pillar of life: strength, family, work, spirituality, and more. Bold condensed type, a blunt manifesto, and a modular graphic language carry the brand across OOH, apparel, merch, print, and the app. Always disciplined, always unmistakably GW."
+      "en": "A complete identity anchored on the GW monogram, its W cut from angled bars that read at once as a military chevron and forward motion. A black-and-red core keeps the tone aggressive, while a seven-color system codes each pillar of life: strength, family, work, spirituality, and more. Bold condensed type, a blunt manifesto, and a modular graphic language carry the brand across OOH, apparel, merch, print, and the app. Always disciplined, always unmistakably GW.",
+      "pt": "Uma identidade completa ancorada no monograma GW, com o W recortado em barras inclinadas que se leem ao mesmo tempo como um chevron militar e como movimento para a frente. Um núcleo preto e vermelho mantém o tom agressivo, enquanto um sistema de sete cores codifica cada pilar da vida: força, família, trabalho, espiritualidade e mais. Tipografia condensada e pesada, um manifesto direto e uma linguagem gráfica modular levam a marca por mídia externa, vestuário, brindes, impressos e o app. Sempre disciplinada, sempre inconfundivelmente GW."
     }
   ],
   "next": [
@@ -132,21 +156,24 @@
       "slug": "dox-ia",
       "img": "assets/img/dox-ia/Frame-50.jpg",
       "label": {
-        "en": "Dox IA"
+        "en": "Dox IA",
+        "pt": "Dox IA"
       }
     },
     {
       "slug": "youtube",
       "img": "assets/img/youtube-channel/italo-mundo-afora_page-0001.jpg",
       "label": {
-        "en": "Italo Mundo Afora"
+        "en": "Italo Mundo Afora",
+        "pt": "Italo Mundo Afora"
       }
     },
     {
       "slug": "icim",
       "img": "assets/img/icim/Frame-19.jpg",
       "label": {
-        "en": "Institute CIM"
+        "en": "Institute CIM",
+        "pt": "Instituto CIM"
       }
     }
   ]

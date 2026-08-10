@@ -100,6 +100,18 @@ nav {
 /* trava o scroll do body com o menu de tela cheia aberto */
 body.menu-open { overflow: hidden; }
 
+/* ─── Seletor de idioma EN|PT ─── */
+.lang-switch { display: flex; align-items: center; gap: 3px; }
+.lang-switch .lang-opt {
+  font-size: 13px; font-weight: 600; letter-spacing: 0.02em;
+  color: var(--muted-2); padding: 2px 3px; transition: color .2s;
+}
+.lang-switch .lang-opt:hover { color: var(--ink); }
+.lang-switch .lang-opt.is-active { color: var(--ink); }
+.lang-switch .lang-sep { color: var(--line); font-size: 12px; }
+/* a variante do menu só aparece dentro do overlay mobile */
+.lang-switch--menu { display: none; }
+
 @media (max-width: 720px) {
   /* pill com menos margem lateral no mobile */
   .wrapper:has(> nav) { top: 8px; padding-left: 16px; padding-right: 16px; }
@@ -134,6 +146,21 @@ body.menu-open { overflow: hidden; }
   .nav-links a:hover,
   .nav-links a:focus,
   .nav-links a:active { background: var(--accent); color: #fff; }
+
+  /* no mobile: esconde o seletor da pílula e mostra no topo do overlay */
+  .lang-switch--bar { display: none; }
+  .lang-switch--menu {
+    display: flex; order: -1; justify-content: center; gap: 12px; margin: 0 0 10px;
+  }
+  .lang-switch--menu .lang-opt {
+    display: inline-block; width: auto;
+    padding: 6px 12px; font-size: 20px; font-weight: 600; color: var(--muted);
+  }
+  .lang-switch--menu .lang-opt.is-active { color: var(--accent); }
+  .lang-switch--menu .lang-opt:hover,
+  .lang-switch--menu .lang-opt:focus,
+  .lang-switch--menu .lang-opt:active { background: transparent; color: var(--accent); }
+  .lang-switch--menu .lang-sep { font-size: 18px; align-self: center; color: var(--line); }
 }
 
 /* ─── BOTÕES ─── */

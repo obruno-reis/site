@@ -4,91 +4,109 @@
     "cover": "assets/img/menttalis/Case-Menttalis-6.jpg",
     "handle": "@menttalis",
     "title": {
-      "en": "Menttalis Mental Health"
+      "en": "Menttalis Mental Health",
+      "pt": "Menttalis Saúde Mental"
     }
   },
   "metaTitle": {
-    "en": "Menttalis · Bruno Reis"
+    "en": "Menttalis · Bruno Reis",
+    "pt": "Menttalis · Bruno Reis"
   },
   "metaDesc": {
-    "en": "Branding and digital platform for Menttalis, a mental-health brand by Merari and Gisela Machado. Case study by Bruno Reis."
+    "en": "Branding and digital platform for Menttalis, a mental-health brand by Merari and Gisela Machado. Case study by Bruno Reis.",
+    "pt": "Branding e plataforma digital para a Menttalis, uma marca de saúde mental de Merari e Gisela Machado. Case de Bruno Reis."
   },
   "title": {
-    "en": "Menttalis"
+    "en": "Menttalis",
+    "pt": "Menttalis"
   },
   "category": {
-    "en": "Branding &amp; Digital Platform"
+    "en": "Branding &amp; Digital Platform",
+    "pt": "Branding &amp; Plataforma Digital"
   },
   "timeline": {
-    "en": "3 weeks"
+    "en": "3 weeks",
+    "pt": "3 semanas"
   },
   "lead": [
     {
-      "en": "<strong>Menttalis</strong> is a mental-health clinic that blends neuroscience with everyday habits to raise people's quality of life, caring for each patient as a whole: body, mind, social world, and spirit. Mental health still carries stigma, and an integrative, holistic message can easily read as either cold and clinical or vaguely alternative. Menttalis needed to feel credible and grounded in science while staying warm, human, and modern. So we built the brand from strategy up: positioning, voice, and a visual identity designed to make holistic care feel trustworthy rather than fringe."
+      "en": "<strong>Menttalis</strong> is a mental-health clinic that blends neuroscience with everyday habits to raise people's quality of life, caring for each patient as a whole: body, mind, social world, and spirit. Mental health still carries stigma, and an integrative, holistic message can easily read as either cold and clinical or vaguely alternative. Menttalis needed to feel credible and grounded in science while staying warm, human, and modern. So we built the brand from strategy up: positioning, voice, and a visual identity designed to make holistic care feel trustworthy rather than fringe.",
+      "pt": "A <strong>Menttalis</strong> é uma clínica de saúde mental que une neurociência a hábitos do dia a dia para elevar a qualidade de vida das pessoas, cuidando de cada paciente por inteiro: corpo, mente, mundo social e espírito. A saúde mental ainda carrega estigma, e uma mensagem integrativa e holística pode facilmente soar fria e clínica ou vagamente alternativa. A Menttalis precisava parecer confiável e embasada na ciência sem perder o calor humano e a modernidade. Então construímos a marca da estratégia para cima: posicionamento, voz e uma identidade visual pensada para fazer o cuidado holístico parecer confiável, e não marginal."
     }
   ],
   "hero": {
     "src": "assets/img/menttalis/60.jpg",
     "alt": {
-      "en": "Menttalis, brand concept with the founders"
+      "en": "Menttalis, brand concept with the founders",
+      "pt": "Menttalis, conceito da marca com as fundadoras"
     }
   },
   "goals": {
-    "en": "Turn a broad, integrative philosophy into a sharp, ownable positioning that stands out in a crowded wellness market. Give the clinic a complete identity that signals scientific rigor and human warmth in the same breath."
+    "en": "Turn a broad, integrative philosophy into a sharp, ownable positioning that stands out in a crowded wellness market. Give the clinic a complete identity that signals scientific rigor and human warmth in the same breath.",
+    "pt": "Transformar uma filosofia ampla e integrativa em um posicionamento afiado e próprio, que se destaca num mercado de bem-estar lotado. Dar à clínica uma identidade completa que sinaliza rigor científico e calor humano no mesmo gesto."
   },
   "shots": [
     {
       "src": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "alt": {
-        "en": "Menttalis, website home"
+        "en": "Menttalis, website home",
+        "pt": "Menttalis, home do site"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-3.jpg",
       "alt": {
-        "en": "Menttalis, business card"
+        "en": "Menttalis, business card",
+        "pt": "Menttalis, cartão de visita"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-10.jpg",
       "alt": {
-        "en": "Menttalis, full stationery"
+        "en": "Menttalis, full stationery",
+        "pt": "Menttalis, papelaria completa"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-7.jpg",
       "alt": {
-        "en": "Menttalis, t-shirt with the symbol"
+        "en": "Menttalis, t-shirt with the symbol",
+        "pt": "Menttalis, camiseta com o símbolo"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-4.jpg",
       "alt": {
-        "en": "Menttalis, insulated bottle"
+        "en": "Menttalis, insulated bottle",
+        "pt": "Menttalis, garrafa térmica"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-2.jpg",
       "alt": {
-        "en": "Menttalis, social-media posts (four pillars)"
+        "en": "Menttalis, social-media posts (four pillars)",
+        "pt": "Menttalis, posts de redes sociais (quatro pilares)"
       }
     },
     {
       "src": "assets/img/menttalis/Post-6.jpg",
       "alt": {
-        "en": "Menttalis, street panel"
+        "en": "Menttalis, street panel",
+        "pt": "Menttalis, painel de rua"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-9.jpg",
       "alt": {
-        "en": "Menttalis, full case on tablet"
+        "en": "Menttalis, full case on tablet",
+        "pt": "Menttalis, case completo no tablet"
       }
     }
   ],
   "result": [
     {
-      "en": "A full brand system built on one simple idea: Menttalis means Mind and Habits. The wordmark reads like a personal name, anchored by a custom \"M\" that merges a brain and a balance (equilibrium made visible), supported by a biopsychosocial-spiritual seal and biophilia-inspired gradients that keep the science feeling alive and natural. The strategic foundation carries into every touchpoint, from stationery and social to billboards, giving the clinic a presence as balanced as the care it promises."
+      "en": "A full brand system built on one simple idea: Menttalis means Mind and Habits. The wordmark reads like a personal name, anchored by a custom \"M\" that merges a brain and a balance (equilibrium made visible), supported by a biopsychosocial-spiritual seal and biophilia-inspired gradients that keep the science feeling alive and natural. The strategic foundation carries into every touchpoint, from stationery and social to billboards, giving the clinic a presence as balanced as the care it promises.",
+      "pt": "Um sistema de marca completo construído sobre uma ideia simples: Menttalis significa Mente e Hábitos. O logotipo lê-se como um nome próprio, ancorado por um \"M\" personalizado que funde um cérebro e uma balança (o equilíbrio tornado visível), sustentado por um selo biopsicossocial-espiritual e gradientes inspirados na biofilia que mantêm a ciência viva e natural. A base estratégica se estende a cada ponto de contato, da papelaria e das redes sociais aos outdoors, dando à clínica uma presença tão equilibrada quanto o cuidado que ela promete."
     }
   ],
   "next": [
@@ -96,21 +114,24 @@
       "slug": "dox-ia",
       "img": "assets/img/dox-ia/Frame-50.jpg",
       "label": {
-        "en": "Dox IA"
+        "en": "Dox IA",
+        "pt": "Dox IA"
       }
     },
     {
       "slug": "brain-gym",
       "img": "assets/img/brain-gym/5D7A3457.jpg",
       "label": {
-        "en": "Brain Gym"
+        "en": "Brain Gym",
+        "pt": "Brain Gym"
       }
     },
     {
       "slug": "icim",
       "img": "assets/img/icim/Frame-19.jpg",
       "label": {
-        "en": "Institute CIM"
+        "en": "Institute CIM",
+        "pt": "Instituto CIM"
       }
     }
   ]

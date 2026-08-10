@@ -8,7 +8,7 @@ const projectTpl = require('./templates/project.js');
 
 const ROOT = __dirname;
 const DIST = path.join(ROOT, 'dist');
-const LANGS = ['en']; // Fase 2: ['en', 'pt']
+const LANGS = ['en', 'pt'];
 
 const read = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, 'content', p), 'utf8'));
 const common = read('common.json');
@@ -74,6 +74,7 @@ for (const lang of LANGS) {
       description: ctx.t(home.meta.description),
       bodyClass: 'home',
       italic: true,
+      alt: { en: '/', pt: '/pt/' },
       body: rendered.body,
       scripts: rendered.scripts,
     })
@@ -89,6 +90,7 @@ for (const lang of LANGS) {
         title: ctx.t(p.metaTitle),
         description: ctx.t(p.metaDesc),
         italic: false,
+        alt: { en: '/projetos/' + p.slug + '.html', pt: '/pt/projetos/' + p.slug + '.html' },
         body: projectTpl(ctx, common, p),
       })
     );
