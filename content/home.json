@@ -5,12 +5,21 @@
   },
   "marquee": { "en": "Brand sprints for teams that need clarity, fast", "pt": "Brand sprints para times que precisam de clareza, rápido" },
   "hero": {
-    "lines": [
-      { "en": "I help companies turn", "pt": "Ajudo empresas a transformar" },
-      { "en": "complexity into clear", "pt": "a complexidade em sistemas" },
-      { "en": "brand systems, built to", "pt": "de marca claros, feitos para" },
-      { "en": "<i>move fast</i> and <i>last long</i>.", "pt": "<i>ir rápido</i> e <i>durar</i>." }
-    ],
+    "lines": {
+      "en": [
+        "I help companies turn",
+        "complexity into clear",
+        "brand systems, built to",
+        "<i>move fast</i> and <i>last long</i>."
+      ],
+      "pt": [
+        "Eu ajudo empresas a",
+        "transformar complexidade",
+        "em sistemas de marca claros,",
+        "feitos para <i>evoluir rápido</i>",
+        "e <i>permanecer relevantes</i>."
+      ]
+    },
     "ctaWork": { "en": "View selected work", "pt": "Ver trabalhos selecionados" }
   },
   "projects": {
@@ -47,7 +56,7 @@
     ]
   },
   "testimonials": {
-    "headImg": "assets/img/brain-gym/6.jpg",
+    "headImg": "assets/img/clients/cliente.jpg",
     "headImgAlt": { "en": "Client work, Brain Gym", "pt": "Trabalho para cliente, Brain Gym" },
     "eyebrow": { "en": "// Testimonials", "pt": "// Depoimentos" },
     "title": { "en": "Client Reviews", "pt": "O que dizem os clientes" },

@@ -42,7 +42,7 @@ module.exports = function home(ctx, common, home, projects) {
   const h = home;
 
   const marquee = `<span class="serif">${t(h.marquee)}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>`;
-  const heroLines = h.hero.lines.map(l => `        <span class="h1-line h1-line--nowrap">${t(l)}</span>`).join('\n');
+  const heroLines = t(h.hero.lines).map(l => `        <span class="h1-line h1-line--nowrap">${l}</span>`).join('\n');
 
   const cards = projects.map(p => `        <a href="${projectUrl(p.slug)}" class="project-card">
           <img src="${asset(p.card.cover)}" alt="${t(p.card.title)}" loading="lazy"${p.card.coverStyle ? ` style="${p.card.coverStyle}"` : ''} />
