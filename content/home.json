@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": { "en": "Bruno Reis · Turning complexity into clear brand systems", "pt": "Bruno Reis · Transformando complexidade em sistemas de marca claros" },
-    "description": { "en": "I help companies turn complexity into clear brand systems, built to move fast and last long. Brand sprints for teams that need clarity, fast.", "pt": "Ajudo empresas a transformar complexidade em sistemas de marca claros, feitos para ir rápido e durar. Brand sprints para times que precisam de clareza, rápido." }
+    "description": { "en": "I help companies turn complexity into clear brand systems, built to move fast and last long. Brand sprints for teams that need clarity, fast.", "pt": "Transformo complexidade em marcas feitas para evoluir e durar." }
   },
   "marquee": { "en": "Brand sprints for teams that need clarity, fast", "pt": "Brand sprints para times que precisam de clareza, rápido" },
   "hero": {
@@ -13,11 +13,9 @@
         "<i>move fast</i> and <i>last long</i>."
       ],
       "pt": [
-        "Eu ajudo empresas a",
-        "transformar complexidade",
-        "em sistemas de marca claros,",
-        "feitos para <i>evoluir rápido</i>",
-        "e <i>permanecer relevantes</i>."
+        "Transformo complexidade",
+        "em marcas feitas para",
+        "<i>evoluir</i> e <i>durar</i>."
       ]
     },
     "ctaWork": { "en": "View selected work", "pt": "Ver trabalhos selecionados" }

@@ -230,6 +230,8 @@ body.menu-open { overflow: hidden; }
 .hero h1 i { font-style: italic; }
 .hero h1 .h1-line--nowrap { white-space: nowrap; }
 @media (max-width: 640px) { .hero h1 .h1-line--nowrap { white-space: normal; } }
+/* PT: hero um pouco menor no mobile p/ caber em 3 linhas (mantém o tracking apertado) */
+@media (max-width: 640px) { html[lang="pt-BR"] .hero h1 { font-size: 30px; } }
 @keyframes heroReveal { to { opacity: 1; transform: none; } }
 @media (prefers-reduced-motion: reduce) {
   .hero h1 .h1-line, .hero-ctas { animation: none; opacity: 1; transform: none; }
