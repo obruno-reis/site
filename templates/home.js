@@ -185,7 +185,6 @@ module.exports = function home(ctx, common, home, projects) {
       </div>
     </div>
     <div class="hero">
-      <p class="hero-sub">${t(h.hero.eyebrow)}</p>
       <h1>
 ${heroLines}
       </h1>
