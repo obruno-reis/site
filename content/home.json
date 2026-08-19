@@ -1,58 +1,125 @@
 {
   "meta": {
-    "title": { "en": "Bruno Reis · Turning complexity into clear brand systems", "pt": "Bruno Reis · Transformando complexidade em sistemas de marca claros" },
-    "description": { "en": "I help companies turn complexity into clear brand systems, built to move fast and last long. Brand sprints for teams that need clarity, fast.", "pt": "Transformo complexidade em marcas feitas para evoluir e durar." }
+    "title": { "en": "Bruno Reis · Brand systems that close the gap", "pt": "Bruno Reis · Marcas à altura do negócio" },
+    "description": { "en": "I build and rebuild brand systems that close the gap between what your business is and what your brand says it is. Three-week brand sprints, senior-led.", "pt": "Construo e reconstruo sistemas de marca para encurtar a distância entre o que o seu negócio é e o que a sua marca comunica. Brand sprints de três semanas, conduzidos por um sênior." }
   },
-  "marquee": { "en": "Brand sprints for teams that need clarity, fast", "pt": "Brand sprints para times que precisam de clareza, rápido" },
+  "marquee": { "en": "Brand sprints — build or evolve", "pt": "Brand sprints — construir ou evoluir" },
+
   "hero": {
+    "eyebrow": { "en": "Brand sprints — build or evolve", "pt": "Brand sprints — construir ou evoluir" },
     "lines": {
       "en": [
-        "I help companies turn",
-        "complexity into clear",
-        "brand systems, built to",
-        "<i>move fast</i> and <i>last long</i>."
+        "Your brand should be",
+        "as good as",
+        "<i>your business.</i>"
       ],
       "pt": [
-        "Transformo complexidade",
-        "em marcas feitas para",
-        "<i>evoluir</i> e <i>durar</i>."
+        "Sua marca deveria ser",
+        "tão boa quanto",
+        "<i>o seu negócio.</i>"
       ]
     },
-    "ctaWork": { "en": "View selected work", "pt": "Ver trabalhos selecionados" }
+    "sub": { "en": "Most companies are better than they look. I build and rebuild brand systems that close that gap — positioning, identity and the system your team actually runs on. Three weeks, senior-led, direct with me.", "pt": "A maioria das empresas é melhor do que aparenta. Eu construo e reconstruo sistemas de marca que encurtam essa distância — posicionamento, identidade e o sistema que o seu time realmente usa no dia a dia. Três semanas, conduzido por um sênior, direto comigo." },
+    "ctaPrimary": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" },
+    "ctaWork": { "en": "See the work", "pt": "Ver os trabalhos" }
   },
+
+  "proof": {
+    "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar." },
+    "author": "Merari Machado",
+    "role": { "en": "Founder, Menttalis", "pt": "Fundadora, Menttalis" }
+  },
+
+  "gap": {
+    "eyebrow": { "en": "// The gap", "pt": "// A distância" },
+    "title": { "en": "The business has evolved.<br>The brand hasn't caught up.", "pt": "O negócio evoluiu.<br>A marca não acompanhou." },
+    "lead": { "en": "Growth doesn't just add revenue. It adds products, offers, audiences, channels and people creating things. Without a system holding it together, that becomes fragmentation.", "pt": "Crescer não traz só receita. Traz produtos, ofertas, públicos, canais e gente produzindo em todo canto. Sem um sistema que mantenha tudo coeso, isso vira fragmentação." },
+    "recogniseLabel": { "en": "You'll recognise it if:", "pt": "Você reconhece isso se:" },
+    "items": [
+      { "en": "Your leads don't reflect the quality of what you sell.", "pt": "Seus leads não refletem a qualidade do que você vende." },
+      { "en": "Your products and offers look like they come from different companies.", "pt": "Seus produtos e ofertas parecem vir de empresas diferentes." },
+      { "en": "Your website presents a smaller company than the one you run.", "pt": "Seu site apresenta uma empresa menor do que a que você dirige." },
+      { "en": "Your team creates constantly, without a shared direction.", "pt": "Seu time produz o tempo todo, sem uma direção comum." },
+      { "en": "You explain your value better in one sales call than your brand does in a year.", "pt": "Você explica seu valor melhor em uma call de vendas do que sua marca em um ano inteiro." }
+    ],
+    "close": { "en": "This isn't a taste problem. It's a perception problem — and perception is what the market prices.", "pt": "Isso não é um problema de gosto. É um problema de percepção — e é a percepção que o mercado precifica." }
+  },
+
+  "tried": {
+    "eyebrow": { "en": "// What usually gets tried first", "pt": "// O que costumam tentar primeiro" },
+    "title": { "en": "More content. More ads. Another freelancer. A new website.", "pt": "Mais conteúdo. Mais anúncios. Outro freelancer. Um site novo." },
+    "video": "assets/img/usually/social_u1536662333_Complexity_layers_--ar_184103_--video_1_--end_loo_e211cf1e-eb7b-4297-8695-3ea55980c851_2.mp4",
+    "lines": [
+      { "en": "Those amplify a message. They don't create one.", "pt": "Isso tudo amplifica uma mensagem. Não cria nenhuma." },
+      { "en": "If the brand underneath isn't strategically defined, more marketing usually means more noise — not more perceived value.", "pt": "Se a marca por trás não estiver estrategicamente definida, mais marketing costuma virar mais ruído — não mais valor percebido." }
+    ]
+  },
+
+  "services": {
+    "eyebrow": { "en": "// What I do", "pt": "// O que eu faço" },
+    "title": { "en": "I close the gap between what your business is and what your brand says it is.", "pt": "Faço a sua marca comunicar o que o seu negócio realmente é." },
+    "lead": { "en": "The goal isn't to make the company look bigger. It's to make the brand communicate the value that's already there.", "pt": "O objetivo não é fazer a empresa parecer maior. É fazer a marca comunicar o valor que já existe." },
+    "cards": [
+      { "num": "01", "bg": "assets/img/gw/gw-01.jpg", "title": { "en": "Strategy", "pt": "Estratégia" }, "text": { "en": "Positioning, audience, story and the decisions everything else depends on.", "pt": "Posicionamento, público, narrativa e as decisões das quais todo o resto depende." } },
+      { "num": "02", "bg": "assets/img/ctc/6.jpg", "title": { "en": "Identity", "pt": "Identidade" }, "text": { "en": "The visual and verbal system, built to be used, not admired.", "pt": "O sistema visual e verbal, feito para ser usado, não admirado." } },
+      { "num": "03", "bg": "assets/img/services/offer-design.jpg", "title": { "en": "Application", "pt": "Aplicação" }, "text": { "en": "Website, offers and content structure, so the system survives contact with reality.", "pt": "Site, ofertas e estrutura de conteúdo, para o sistema sobreviver ao contato com a realidade." } }
+    ]
+  },
+
+  "buildEvolve": {
+    "eyebrow": { "en": "// Two ways in", "pt": "// Dois caminhos de entrada" },
+    "title": { "en": "Two starting points. One objective.", "pt": "Dois pontos de partida. Um objetivo." },
+    "cards": [
+      {
+        "num": "01",
+        "name": "Build",
+        "tagline": { "en": "For companies starting with ambition.", "pt": "Para empresas que começam com ambição." },
+        "desc": { "en": "The business is new. The ambition isn't. We build the strategic and visual foundation from scratch, so the brand enters the market already looking like the company you intend to be.", "pt": "O negócio é novo. A ambição não. Construímos a base estratégica e visual do zero, para a marca entrar no mercado já com a cara da empresa que você pretende ser." },
+        "leaveWith": { "en": "Positioning, visual identity, brand system, core applications, launch-ready files.", "pt": "Posicionamento, identidade visual, sistema de marca, aplicações principais e arquivos prontos para lançar." },
+        "timeline": { "en": "3 weeks.", "pt": "3 semanas." }
+      },
+      {
+        "num": "02",
+        "name": "Evolve",
+        "tagline": { "en": "For companies that have outgrown their brand.", "pt": "Para empresas que cresceram além da própria marca." },
+        "desc": { "en": "The business has proven itself. The brand is behind. We start with a short diagnostic to find where the gap actually is, then rebuild the positioning and system around the company you are now.", "pt": "O negócio já se provou. A marca ficou para trás. Começamos com um diagnóstico curto para achar onde está a distância e então reconstruímos o posicionamento e o sistema em torno da empresa que você é hoje." },
+        "leaveWith": { "en": "Brand audit, repositioning, refreshed identity system, rollout plan.", "pt": "Auditoria de marca, reposicionamento, sistema de identidade renovado e plano de implementação." },
+        "timeline": { "en": "3–5 day diagnostic, then 3 weeks.", "pt": "Diagnóstico de 3 a 5 dias, depois 3 semanas." }
+      }
+    ],
+    "leaveLabel": { "en": "You leave with", "pt": "Você sai com" },
+    "timelineLabel": { "en": "Timeline", "pt": "Prazo" }
+  },
+
   "projects": {
-    "eyebrow": { "en": "// Selected work", "pt": "// Trabalhos selecionados" },
-    "title": { "en": "Projects.", "pt": "Projetos." },
-    "lead": { "en": "Brand systems built for teams in mental health, education and care.", "pt": "Sistemas de marca para times de saúde mental, educação e cuidado." }
+    "eyebrow": { "en": "// Proof", "pt": "// Prova" },
+    "title": { "en": "The gap, closed.", "pt": "A distância, encurtada." },
+    "lead": { "en": "Brand systems built for teams in mental health, education, care and digital products.", "pt": "Sistemas de marca para times de saúde mental, educação, cuidado e produtos digitais." }
   },
+
+  "process": {
+    "eyebrow": { "en": "// The process", "pt": "// O processo" },
+    "title": { "en": "Three weeks, start to finish.", "pt": "Três semanas, do início ao fim." },
+    "steps": [
+      { "num": "01", "title": { "en": "Clarify", "pt": "Clareza" }, "text": { "en": "We go deep on the business, the market and where the brand stopped representing it. You leave the week with a defined position, not a mood.", "pt": "Mergulhamos no negócio, no mercado e no ponto em que a marca deixou de representá-lo. Você termina a semana com um posicionamento definido — não com uma vaga sensação." } },
+      { "num": "02", "title": { "en": "Direction", "pt": "Direção" }, "text": { "en": "Strategy becomes form. One direction, developed properly, refined live with you — not three options for you to guess between.", "pt": "A estratégia vira forma. Uma direção, desenvolvida de verdade, refinada ao vivo com você — não três opções para você adivinhar qual escolher." } },
+      { "num": "03", "title": { "en": "System", "pt": "Sistema" }, "text": { "en": "Identity, rules and applications. You get a brand your team can use without asking me what to do next.", "pt": "Identidade, regras e aplicações. Você recebe uma marca que o seu time consegue usar sem precisar me perguntar o próximo passo." } }
+    ],
+    "whyTitle": { "en": "Why this doesn't take three months", "pt": "Por que isso não leva três meses" },
+    "why": { "en": "You work with one senior designer. Decisions happen in the call, not in a review cycle. The scope is fixed on day one. Speed here is a consequence of experience, not a reduction of it.", "pt": "Você trabalha com um único designer sênior. As decisões acontecem na call, não em um ciclo de revisões. O escopo é fixado no primeiro dia. A velocidade aqui é consequência de experiência, não redução dela." }
+  },
+
   "about": {
     "photo": "assets/img/about/bruno.jpg",
     "photoAlt": { "en": "Bruno Reis", "pt": "Bruno Reis" },
-    "title": { "en": "More than a strategic partner", "pt": "Mais que um parceiro estratégico" },
+    "title": { "en": "You don't hire my years of experience. You hire the judgment they gave me.", "pt": "Você não contrata meus anos de experiência. Contrata o julgamento que eles me deram." },
     "paras": [
-      { "en": "I believe strong brands aren't built with noise. They're built with focus, judgment, and the courage to decide. That's why I work through brand sprints: a focused process to help teams align, move forward, and stop wasting energy on uncertainty.", "pt": "Acredito que marcas fortes não se constroem com barulho. Elas se constroem com foco, critério e a coragem de decidir. Por isso trabalho com brand sprints: um processo focado para alinhar o time, avançar e parar de gastar energia com incerteza." },
-      { "en": "No inflated frameworks.<br />No endless iterations.<br />Just clarity, structure, and execution.", "pt": "Sem frameworks inflados.<br />Sem iterações sem fim.<br />Só clareza, estrutura e execução." }
+      { "en": "Strong brands aren't built with noise. They're built with focus, judgment and the courage to decide.", "pt": "Marcas fortes não se constroem com barulho. Elas se constroem com foco, critério e a coragem de decidir." },
+      { "en": "You work directly with me. No account layer translating your business to someone else. No strategy handed down to a junior. No endless rounds of subjective revision. No inflated framework built to look strategic.", "pt": "Você trabalha diretamente comigo. Sem uma camada de atendimento traduzindo o seu negócio para outra pessoa. Sem estratégia repassada para um júnior. Sem rodadas intermináveis de revisão subjetiva. Sem framework inflado feito para parecer estratégico." },
+      { "en": "Clarity, structure and execution.", "pt": "Clareza, estrutura e execução." }
     ]
   },
-  "process": {
-    "eyebrow": { "en": "// The process", "pt": "// O processo" },
-    "title": { "en": "Zero to full brand in three weeks.", "pt": "Do zero a uma marca completa em três semanas." },
-    "steps": [
-      { "num": "01", "title": { "en": "Start briefing", "pt": "Briefing inicial" }, "text": { "en": "It's the first call. I want to understand your business objectives and help you create a strong, new perception for your product or service.", "pt": "É a primeira conversa. Quero entender os objetivos do seu negócio e ajudar a criar uma percepção nova e forte para o seu produto ou serviço." } },
-      { "num": "02", "title": { "en": "Moodboard session", "pt": "Sessão de moodboard" }, "text": { "en": "Second call: you share your ideas, vision and requirements for the project, giving me a clear understanding of what you want to achieve and how you imagine the outcome.", "pt": "Segunda conversa: você compartilha suas ideias, visão e requisitos do projeto, me dando uma noção clara do que quer alcançar e de como imagina o resultado." } },
-      { "num": "03", "title": { "en": "Real time Refinement", "pt": "Refinamento em tempo real" }, "text": { "en": "Once the order has been placed and the vision for the brand is clear, you get to contact me personally to see and review real-time updates of your project.", "pt": "Com o projeto iniciado e a visão da marca clara, você fala comigo diretamente para acompanhar e revisar as atualizações do seu projeto em tempo real." } },
-      { "num": "04", "title": { "en": "Project delivery", "pt": "Entrega do projeto" }, "text": { "en": "Once the project is finalised, you receive all your project files in the desired formats, at the highest resolution.", "pt": "Com o projeto finalizado, você recebe todos os arquivos nos formatos desejados, na mais alta resolução." } }
-    ]
-  },
-  "services": {
-    "eyebrow": { "en": "// Services", "pt": "// Serviços" },
-    "title": { "en": "What I do.", "pt": "O que eu faço." },
-    "cards": [
-      { "num": "01", "bg": "assets/img/gw/gw-01.jpg", "title": { "en": "Branding", "pt": "Branding" }, "text": { "en": "Complete brand systems: strategy, identity and guidelines built to last.", "pt": "Sistemas de marca completos: estratégia, identidade e diretrizes feitas para durar." } },
-      { "num": "02", "bg": "assets/img/ctc/6.jpg", "title": { "en": "Websites", "pt": "Sites" }, "text": { "en": "Strategic websites that communicate your brand clearly, build trust and turn visitors into clients.", "pt": "Sites estratégicos que comunicam sua marca com clareza, geram confiança e transformam visitantes em clientes." } },
-      { "num": "03", "bg": "assets/img/services/offer-design.jpg", "title": { "en": "Offer Design", "pt": "Design de Oferta" }, "text": { "en": "Structure digital products and offers with clear positioning, user experience and business strategy.", "pt": "Estruturo produtos e ofertas digitais com posicionamento claro, experiência do usuário e estratégia de negócio." } }
-    ]
-  },
+
   "testimonials": {
     "headImg": "assets/img/clients/cliente.jpg",
     "headImgAlt": { "en": "Client work, Brain Gym", "pt": "Trabalho para cliente, Brain Gym" },
@@ -67,9 +134,38 @@
       { "quote": { "en": "Working with Bruno means having someone who understands the context before proposing any solution. It makes the whole process smoother and the deliverables far more on-point.", "pt": "Trabalhar com o Bruno é ter alguém que entende o contexto antes de propor qualquer solução. Isso deixa todo o processo mais leve e as entregas muito mais certeiras." }, "name": "Regina Luíza", "role": { "en": "Marketing Manager, Med+", "pt": "Gerente de Marketing, Med+" }, "avatar": "assets/img/testimonials/regina-luiza.jpeg" }
     ]
   },
+
+  "whoFor": {
+    "eyebrow": { "en": "// Fit", "pt": "// Fit" },
+    "title": { "en": "Who this is for.", "pt": "Para quem isso faz sentido." },
+    "goodTitle": { "en": "This works well when", "pt": "Funciona bem quando" },
+    "goodItems": [
+      { "en": "There's one or two decision makers.", "pt": "Há um ou dois tomadores de decisão." },
+      { "en": "The business is proven or clearly headed there.", "pt": "O negócio já se provou ou está claramente indo nessa direção." },
+      { "en": "You want a partner in the decision, not a supplier for the output.", "pt": "Você quer um parceiro na decisão, não um fornecedor para a execução." }
+    ],
+    "badTitle": { "en": "This isn't the right fit when", "pt": "Não é o fit certo quando" },
+    "badItems": [
+      { "en": "You need execution only, from a brief that's already closed.", "pt": "Você precisa só de execução, a partir de um briefing já fechado." },
+      { "en": "The decision needs alignment across five stakeholders.", "pt": "A decisão precisa de alinhamento entre cinco stakeholders." },
+      { "en": "You're primarily optimising for the lowest possible price.", "pt": "Sua prioridade é o menor preço possível, não a decisão certa." }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": { "en": "// FAQ", "pt": "// Dúvidas" },
+    "title": { "en": "Questions you might not ask.", "pt": "Perguntas que você talvez não faça." },
+    "items": [
+      { "q": { "en": "Three weeks — really?", "pt": "Três semanas — sério?" }, "a": { "en": "Yes, with a fixed scope defined before we start. The speed comes from working with one senior person who makes decisions in the room, not from doing less thinking.", "pt": "Sim, com um escopo fixo definido antes de começar. A velocidade vem de trabalhar com uma única pessoa sênior que decide na hora, não de pensar menos." } },
+      { "q": { "en": "What if we need more than what's in the sprint?", "pt": "E se precisarmos de mais do que está no sprint?" }, "a": { "en": "Website, offer design and rollout are modules on top of the system. We define what you need before we start, so nothing gets discovered halfway.", "pt": "Site, design de oferta e implementação são módulos em cima do sistema. Definimos o que você precisa antes de começar, para nada aparecer no meio do caminho." } },
+      { "q": { "en": "How many revisions?", "pt": "Quantas revisões?" }, "a": { "en": "We refine in real time, together, during the process. That replaces revision rounds instead of adding to them.", "pt": "A gente refina em tempo real, juntos, durante o processo. Isso substitui as rodadas de revisão em vez de somar a elas." } },
+      { "q": { "en": "What does it typically cost?", "pt": "Quanto costuma custar?" }, "a": { "en": "Every project is scoped and quoted after the fit call, based on what you actually need. The diagnostic for an Evolve is R$ 1.500, credited toward the project if we move forward.", "pt": "Cada projeto é escopado e orçado depois da conversa de fit, com base no que você realmente precisa. O diagnóstico do Evolve é R$ 1.500, creditado no projeto se seguirmos em frente." } }
+    ]
+  },
+
   "contact": {
-    "title": { "en": "Let's talk.", "pt": "Vamos conversar." },
-    "text": { "en": "Got questions or ready to start your design project? Let's bring your ideas to life.", "pt": "Tem dúvidas ou está pronto para começar seu projeto de design? Vamos dar vida às suas ideias." },
-    "cta": { "en": "Chat with me", "pt": "Falar comigo" }
+    "title": { "en": "If your brand no longer represents your business, that's fixable.", "pt": "Se a sua marca não representa mais o seu negócio, isso tem conserto." },
+    "text": { "en": "And it doesn't take months. Book a 20-minute call. We'll look at where the gap is and whether a Build or an Evolve makes sense. If I'm not the right person for it, I'll tell you on the call.", "pt": "E não leva meses. Agende uma conversa de 20 minutos. Vamos olhar onde está a distância e se um Build ou um Evolve faz mais sentido. Se eu não for a pessoa certa, eu te digo na própria call." },
+    "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" }
   }
 }
