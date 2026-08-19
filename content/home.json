@@ -27,7 +27,7 @@
   "proof": {
     "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar." },
     "author": "Merari Machado",
-    "role": { "en": "Founder, Menttalis", "pt": "Fundadora, Menttalis" }
+    "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis" }
   },
 
   "gap": {
@@ -127,7 +127,7 @@
     "title": { "en": "Client Reviews", "pt": "O que dizem os clientes" },
     "lead": { "en": "Real feedback from clients who trusted my design expertise to elevate their brands successfully.", "pt": "Feedback real de clientes que confiaram no meu trabalho de design para elevar suas marcas." },
     "items": [
-      { "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate. The process brought direction to decisions that used to feel disconnected.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar. O processo trouxe direção para decisões que antes pareciam desconexas." }, "name": "Merari Machado", "role": { "en": "Founder, Menttalis", "pt": "Fundadora, Menttalis" }, "avatar": "assets/img/testimonials/merari-machado.jpg" },
+      { "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate. The process brought direction to decisions that used to feel disconnected.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar. O processo trouxe direção para decisões que antes pareciam desconexas." }, "name": "Merari Machado", "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis" }, "avatar": "assets/img/testimonials/merari-machado.jpg" },
       { "quote": { "en": "It's rare to find a designer who thinks about the business first and aesthetics second. Bruno delivers beautiful solutions because they make sense, not just because they catch the eye.", "pt": "É raro encontrar um designer que pensa primeiro no negócio e depois na estética. O Bruno entrega soluções bonitas porque fazem sentido, não só porque chamam a atenção." }, "name": "Daniela Nery", "role": { "en": "CMO, FindUP", "pt": "CMO, FindUP" }, "avatar": "assets/img/testimonials/daniela-nery.jpeg" },
       { "quote": { "en": "Bruno's work conveys exactly what we were looking for: clarity, credibility and consistency. Every decision feels like it has a purpose.", "pt": "O trabalho do Bruno transmite exatamente o que buscávamos: clareza, credibilidade e consistência. Cada decisão parece ter um propósito." }, "name": "Dr. Thiago Castro", "role": { "en": "CEO, Castro Group", "pt": "CEO, Castro Group" }, "avatar": "assets/img/testimonials/thiago-castro.jpeg" },
       { "quote": { "en": "Bruno brought clarity to the way we present Med+. The result is a more consistent brand, aligned with the company's vision and ready to grow.", "pt": "O Bruno trouxe clareza para a forma como apresentamos a Med+. O resultado é uma marca mais consistente, alinhada à visão da empresa e pronta para crescer." }, "name": "Victor Reis", "role": { "en": "President, Med+", "pt": "Presidente, Med+" }, "avatar": "assets/img/testimonials/vitor-reis.jpg" },
