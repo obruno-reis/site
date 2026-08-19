@@ -3,10 +3,9 @@
     "title": { "en": "Bruno Reis · Brand systems that close the gap", "pt": "Bruno Reis · Marcas à altura do negócio" },
     "description": { "en": "I build and rebuild brand systems that close the gap between what your business is and what your brand says it is. Three-week brand sprints, senior-led.", "pt": "Construo e reconstruo sistemas de marca para encurtar a distância entre o que o seu negócio é e o que a sua marca comunica. Brand sprints de três semanas, conduzidos por um sênior." }
   },
-  "marquee": { "en": "Brand sprints — build or evolve", "pt": "Brand sprints — construir ou evoluir" },
+  "marquee": { "en": "Three weeks from complexity to clarity.", "pt": "Da complexidade à clareza. Em três semanas." },
 
   "hero": {
-    "eyebrow": { "en": "Brand sprints — build or evolve", "pt": "Brand sprints — construir ou evoluir" },
     "lines": {
       "en": [
         "Your brand should be",
