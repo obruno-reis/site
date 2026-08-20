@@ -126,9 +126,17 @@ body.menu-open { overflow: hidden; }
   nav.open .nav-burger span:nth-child(2) { opacity: 0; }
   nav.open .nav-burger span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
-  .nav-menu { margin-left: auto; }
+  .nav-burger { margin-left: auto; }
+  .nav-menu {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-left: 0;
+    z-index: 20;
+    white-space: nowrap;
+  }
   /* controles do topo ficam acima do overlay */
-  .nav-logo, .nav-menu, .nav-burger { position: relative; z-index: 20; }
+  .nav-logo, .nav-burger { position: relative; z-index: 20; }
 
   /* nav-links vira menu em TELA CHEIA */
   .nav-links {
