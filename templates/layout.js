@@ -1,7 +1,7 @@
 // Envelope comum de toda página: <head>, nav e footer.
 const FONTS_ITALIC = 'https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,700;1,800&family=Baskervville&display=swap';
 const FONTS_PLAIN = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Baskervville&display=swap';
-const CSS = '/assets/css/style.css?v=22';
+const CSS = '/assets/css/style.css?v=23';
 const NAVJS = '/assets/js/nav.js?v=2';
 const LANGJS = '/assets/js/lang.js?v=1';
 const SITE = 'https://brunoreis.cc';
