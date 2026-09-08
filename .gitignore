@@ -23,3 +23,6 @@ _img-originals-backup/
 
 # Dependências / temporários
 node_modules/
+
+# Local Netlify folder
+.netlify

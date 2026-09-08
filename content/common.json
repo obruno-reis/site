@@ -15,8 +15,19 @@
     { "label": { "en": "About Me", "pt": "Sobre" }, "hash": "#about" },
     { "label": { "en": "Projects", "pt": "Projetos" }, "hash": "#projects" },
     { "label": { "en": "Services", "pt": "Serviços" }, "hash": "#services" },
-    { "label": { "en": "Testimonials", "pt": "Depoimentos" }, "hash": "#testimonials" }
+    { "label": { "en": "Testimonials", "pt": "Depoimentos" }, "hash": "#testimonials" },
+    { "label": { "en": "Experimental", "pt": "Experimental" }, "path": "experimental.html" }
   ],
+  "avatar": {
+    "img": "assets/img/about/bruno.jpg",
+    "name": "Bruno Reis",
+    "hireLabel": { "en": "Hire me", "pt": "Fale comigo" },
+    "runLabel": { "en": "Last run", "pt": "Última corrida" },
+    "strava": {
+      "endpoint": "",
+      "profile": ""
+    }
+  },
   "footer": {
     "tagline": { "en": "Bold design for brands built to move fast and last long. Brand sprints that turn complexity into clarity.", "pt": "Design ousado para marcas feitas para ir rápido e durar. Brand sprints que transformam complexidade em clareza." },
     "navLabel": { "en": "/ Navigation", "pt": "/ Navegação" },

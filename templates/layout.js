@@ -1,10 +1,50 @@
 // Envelope comum de toda página: <head>, nav e footer.
 const FONTS_ITALIC = 'https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,700;1,800&family=Baskervville&display=swap';
 const FONTS_PLAIN = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Baskervville&display=swap';
-const CSS = '/assets/css/style.css?v=23';
+const CSS = '/assets/css/style.css?v=28';
 const NAVJS = '/assets/js/nav.js?v=2';
 const LANGJS = '/assets/js/lang.js?v=1';
+const AVATARJS = '/assets/js/avatar.js?v=1';
 const SITE = 'https://brunoreis.cc';
+
+// href de um item de nav: página (path) ou âncora da home (hash).
+function navHref(langHome, n) {
+  return n.path ? `${langHome}${n.path}` : `${langHome}${n.hash}`;
+}
+
+// Widget de avatar: botão redondo + card (contato, Strava, redes).
+function avatarWidget(ctx, common) {
+  const { t, asset } = ctx;
+  const a = common.avatar;
+  if (!a) return '';
+  const f = common.footer;
+  const endpoint = (a.strava && a.strava.endpoint) || '';
+  return `      <div class="avatar-wrap">
+        <button class="avatar-btn" type="button" aria-label="${a.name}" aria-expanded="false" aria-controls="avatarCard">
+          <img src="${asset(a.img)}" alt="${a.name}" />
+        </button>
+        <div class="avatar-card" id="avatarCard" role="dialog" aria-label="${a.name}" hidden>
+          <button class="avatar-card__close" type="button" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <div class="avatar-card__head">
+            <span class="avatar-card__pic"><img src="${asset(a.img)}" alt="" /></span>
+            <div>
+              <div class="avatar-card__name">${a.name}</div>
+              <a class="avatar-card__hire" href="${common.wa}" target="_blank" rel="noopener">${t(a.hireLabel)} <span aria-hidden="true">&rarr;</span></a>
+            </div>
+          </div>
+          <div class="avatar-card__contact">
+            <a href="mailto:${f.email}">${f.email}</a>
+            <a href="${f.phoneLink}" target="_blank" rel="noopener">${f.phone}</a>
+          </div>
+          <div class="avatar-strava" data-endpoint="${endpoint}" data-run-label="${t(a.runLabel)}" hidden></div>
+          <div class="avatar-card__socials">
+            <a href="${f.instagram}" target="_blank" rel="noopener">Instagram</a>
+            <a href="${f.linkedin}" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="${common.wa}" target="_blank" rel="noopener">WhatsApp</a>
+          </div>
+        </div>
+      </div>`;
+}
 
 // Seletor EN|PT. `variant` = 'bar' (pílula, desktop) ou 'menu' (dentro do overlay mobile).
 function langSwitch(ctx, alt, variant) {
@@ -16,10 +56,11 @@ function langSwitch(ctx, alt, variant) {
 
 function nav(ctx, common, alt) {
   const { t, langHome } = ctx;
-  const links = common.nav.map(n => `        <a href="${langHome}${n.hash}">${t(n.label)}</a>`).join('\n');
+  const links = common.nav.map(n => `        <a href="${navHref(langHome, n)}">${t(n.label)}</a>`).join('\n');
   return `  <!-- NAV -->
   <div class="wrapper">
     <nav>
+${avatarWidget(ctx, common)}
       <a href="${langHome}" class="nav-logo">${common.brand}</a>
       <div class="nav-links">
         ${langSwitch(ctx, alt, 'menu')}
@@ -35,7 +76,7 @@ ${links}
 function footer(ctx, common) {
   const { t, langHome } = ctx;
   const f = common.footer;
-  const links = common.nav.map(n => `          <a href="${langHome}${n.hash}">${t(n.label)}</a>`).join('\n');
+  const links = common.nav.map(n => `          <a href="${navHref(langHome, n)}">${t(n.label)}</a>`).join('\n');
   return `  <!-- FOOTER -->
   <footer>
     <div class="footer-inner">
@@ -109,6 +150,7 @@ ${body}
 ${footer(ctx, common)}
 ${scripts}
   <script src="${NAVJS}" defer></script>
+  <script src="${AVATARJS}" defer></script>
 </body>
 </html>
 `;

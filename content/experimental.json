@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": { "en": "Experimental · Bruno Reis", "pt": "Experimental · Bruno Reis" },
+    "description": { "en": "Side projects I build end to end with AI. Small, fast tools made to test ideas.", "pt": "Projetos paralelos que construo de ponta a ponta com IA. Ferramentas pequenas e rápidas para testar ideias." }
+  },
+  "eyebrow": { "en": "// Side projects, 100% AI", "pt": "// Projetos paralelos, 100% IA" },
+  "title": { "en": "Experimental.", "pt": "Experimental." },
+  "lead": { "en": "Personal side projects I build end to end with AI. Small, fast and made to test an idea. Some will grow, some won't. This is where they live.", "pt": "Projetos paralelos que construo de ponta a ponta com IA. Pequenos, rápidos e feitos para testar uma ideia. Alguns vão crescer, outros não. É aqui que eles ficam." },
+  "visitLabel": { "en": "Open project", "pt": "Abrir projeto" },
+  "projects": [
+    {
+      "title": "Menttalis Flow",
+      "img": "assets/img/experimental/menttalis-flow.svg",
+      "url": "https://deploy-preview-1--menttalis-flow.netlify.app/",
+      "tags": [
+        { "en": "Focus timer", "pt": "Timer de foco" },
+        { "en": "Web app", "pt": "Web app" },
+        { "en": "Built with AI", "pt": "Feito com IA" }
+      ],
+      "blurb": {
+        "en": "A minimalist single-task focus timer. Write one task, pick your minutes, and start. One thing at a time. Built end to end with AI.",
+        "pt": "Um timer de foco minimalista para uma única tarefa. Escreva a tarefa, escolha os minutos e comece. Uma coisa de cada vez. Feito de ponta a ponta com IA."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Menttalis Flow, minimalist single-task focus timer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3FBF5"/>
+      <stop offset="1" stop-color="#E9F5EF"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93F2A6"/>
+      <stop offset="1" stop-color="#6FE38C"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <!-- top-left mode pill -->
+  <g>
+    <rect x="40" y="34" width="150" height="34" rx="17" fill="#ffffff"/>
+    <rect x="44" y="38" width="70" height="26" rx="13" fill="#8BEF9F"/>
+    <text x="79" y="55" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F2233" text-anchor="middle">Foco</text>
+    <text x="152" y="55" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#7A8A85" text-anchor="middle">Relógio</text>
+  </g>
+
+  <!-- logo mark -->
+  <rect x="376" y="32" width="40" height="40" rx="11" fill="#0F2233"/>
+  <path d="M386 62 L386 44 L396 54 L406 44 L406 62" fill="none" stroke="#8BEF9F" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- big timer -->
+  <text x="400" y="228" font-family="Inter, Arial, sans-serif" font-size="150" font-weight="800" letter-spacing="-4" fill="#0F2233" text-anchor="middle">25:00</text>
+
+  <!-- task input -->
+  <rect x="230" y="266" width="340" height="46" rx="23" fill="#ffffff" stroke="#DDE7E1"/>
+  <text x="400" y="294" font-family="Inter, Arial, sans-serif" font-size="15" fill="#9AA8A2" text-anchor="middle">Escreva aqui uma única tarefa.</text>
+
+  <!-- minute chips -->
+  <g font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">
+    <rect x="286" y="330" width="34" height="30" rx="15" fill="#ffffff"/><text x="303" y="350" fill="#5B6B65">15</text>
+    <rect x="326" y="330" width="34" height="30" rx="15" fill="#8BEF9F"/><text x="343" y="350" fill="#0F2233">25</text>
+    <rect x="366" y="330" width="34" height="30" rx="15" fill="#ffffff"/><text x="383" y="350" fill="#5B6B65">30</text>
+    <rect x="406" y="330" width="34" height="30" rx="15" fill="#ffffff"/><text x="423" y="350" fill="#5B6B65">45</text>
+    <rect x="446" y="330" width="34" height="30" rx="15" fill="#ffffff"/><text x="463" y="350" fill="#5B6B65">50</text>
+  </g>
+
+  <!-- start button -->
+  <rect x="330" y="384" width="140" height="48" rx="24" fill="url(#btn)"/>
+  <text x="400" y="414" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0C3A1E" text-anchor="middle">Começar</text>
+
+  <!-- tagline -->
+  <text x="400" y="466" font-family="Inter, Arial, sans-serif" font-size="14" fill="#8A9992" text-anchor="middle">Uma coisa de cada vez.</text>
+</svg>

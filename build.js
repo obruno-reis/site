@@ -5,6 +5,7 @@ const path = require('path');
 const layout = require('./templates/layout.js');
 const homeTpl = require('./templates/home.js');
 const projectTpl = require('./templates/project.js');
+const experimentalTpl = require('./templates/experimental.js');
 
 const ROOT = __dirname;
 const DIST = path.join(ROOT, 'dist');
@@ -13,6 +14,7 @@ const LANGS = ['en', 'pt'];
 const read = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, 'content', p), 'utf8'));
 const common = read('common.json');
 const home = read('home.json');
+const experimental = read('experimental.json');
 const order = read('projects.json').order;
 const projects = order.map((slug) => read(path.join('projects', slug + '.json')));
 
@@ -77,6 +79,20 @@ for (const lang of LANGS) {
       alt: { en: '/', pt: '/pt/' },
       body: rendered.body,
       scripts: rendered.scripts,
+    })
+  );
+  pages++;
+
+  // EXPERIMENTAL
+  write(
+    path.join(base, 'experimental.html'),
+    layout({
+      ctx, common,
+      title: ctx.t(experimental.meta.title),
+      description: ctx.t(experimental.meta.description),
+      italic: false,
+      alt: { en: '/experimental.html', pt: '/pt/experimental.html' },
+      body: experimentalTpl(ctx, common, experimental),
     })
   );
   pages++;

@@ -110,11 +110,6 @@ module.exports = function home(ctx, common, home, projects) {
   const marquee = `<span class="serif">${t(h.marquee)}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>`;
   const heroLines = t(h.hero.lines).map(l => `        <span class="h1-line h1-line--nowrap">${l}</span>`).join('\n');
 
-  // 03 — THE GAP
-  const gapItems = h.gap.items.map(it => `          <li style="position:relative;padding-left:24px;font-size:17px;color:var(--muted);line-height:1.55;">
-            <span style="position:absolute;left:0;color:var(--accent);font-weight:600;">—</span>${t(it)}
-          </li>`).join('\n');
-
   // 04 — WHAT USUALLY GETS TRIED FIRST
   const triedLines = h.tried.lines.map(l => `      <p class="section-lead" style="max-width:640px;margin-top:16px;">${t(l)}</p>`).join('\n');
 
@@ -201,26 +196,6 @@ ${heroLines}
     <div class="wrapper reveal">
       <p class="serif" style="text-align:center;max-width:700px;margin:0 auto;font-size:22px;line-height:1.5;color:var(--ink);">&ldquo;${t(h.proof.quote)}&rdquo;</p>
       <p style="text-align:center;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted-2);margin-top:14px;"><a href="https://instagram.com/merarimachado" target="_blank" rel="noopener" class="proof-author-link">${h.proof.author}</a> — ${t(h.proof.role)}</p>
-    </div>
-  </section>
-
-  <!-- ─── 03 · THE GAP ─── -->
-  <section class="home-section">
-    <div class="wrapper reveal">
-      <div class="gap-grid reveal-group">
-        <div>
-          <p class="eyebrow">${t(h.gap.eyebrow)}</p>
-          <h2 class="section-title" style="margin-bottom:20px;">${t(h.gap.title)}</h2>
-          <p class="section-lead">${t(h.gap.lead)}</p>
-        </div>
-        <div>
-          <p style="font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--ink);margin:0 0 16px;">${t(h.gap.recogniseLabel)}</p>
-          <ul style="list-style:none;display:grid;gap:14px;">
-${gapItems}
-          </ul>
-          <p style="margin-top:28px;font-size:18px;font-weight:600;letter-spacing:-.3px;line-height:1.5;color:var(--ink);">${t(h.gap.close)}</p>
-        </div>
-      </div>
     </div>
   </section>
 

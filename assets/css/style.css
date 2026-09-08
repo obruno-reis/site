@@ -72,6 +72,12 @@ nav {
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: var(--pill);
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.09);
+  /* expande sutilmente no hover, com aceleração/desaceleração calibradas (entra e sai) */
+  transform-origin: center;
+  transition: transform .2s cubic-bezier(.65, 0, .35, 1), box-shadow .2s cubic-bezier(.65, 0, .35, 1);
+}
+@media (hover: hover) and (min-width: 721px) {
+  nav:hover { transform: scale(1.015); box-shadow: 0 14px 40px rgba(0, 0, 0, 0.13); }
 }
 /* Blur só no desktop: no mobile o menu usa position:fixed e o backdrop-filter
    quebraria o overlay de tela cheia. */
@@ -82,7 +88,7 @@ nav {
     backdrop-filter: saturate(180%) blur(12px);
   }
 }
-.nav-logo { font-size: 17px; font-weight: 700; letter-spacing: -0.3px; }
+.nav-logo { font-size: 17px; font-weight: 700; letter-spacing: -0.3px; margin-right: auto; }
 .nav-links { display: flex; gap: 28px; align-items: center; }
 .nav-links a {
   font-size: 14px; font-weight: 500; color: var(--muted); letter-spacing: -0.2px;
@@ -535,4 +541,110 @@ footer { background: var(--dark); color: #fff; margin-top: 100px; padding: 64px 
 .reveal-group.is-in > *:nth-child(5) { transition-delay: .28s; }
 @media (prefers-reduced-motion: reduce) {
   .reveal-group > * { opacity: 1; transform: none; transition: none; }
+}
+
+/* ══════════════════════════════════════════════════════════
+   EXPERIMENTAL (página de projetos paralelos)
+   ══════════════════════════════════════════════════════════ */
+.exp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
+}
+.exp-card {
+  display: flex; flex-direction: column;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius-lg); overflow: hidden;
+  transition: transform .15s ease, box-shadow .2s ease;
+}
+.exp-card:hover { transform: translateY(-3px); box-shadow: 0 18px 40px rgba(0,0,0,.10); }
+.exp-card__media { background: var(--card-alt); }
+.exp-card__media img { width: 100%; height: auto; display: block; aspect-ratio: 8 / 5; object-fit: cover; }
+.exp-card__body { padding: 22px 24px 26px; display: flex; flex-direction: column; gap: 12px; flex: 1; }
+.exp-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.exp-tag {
+  font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--muted-2); background: var(--slate); border-radius: var(--pill); padding: 4px 10px;
+}
+.exp-card__title { font-size: 21px; font-weight: 700; letter-spacing: -.4px; }
+.exp-card__blurb { font-size: 15px; line-height: 1.6; color: var(--muted); }
+.exp-card__cta { margin-top: auto; font-size: 14px; font-weight: 600; color: var(--accent); }
+.exp-card:hover .exp-card__cta span { margin-left: 3px; }
+
+/* ══════════════════════════════════════════════════════════
+   AVATAR WIDGET (navbar) + card com Strava
+   ══════════════════════════════════════════════════════════ */
+.avatar-wrap { position: relative; flex-shrink: 0; display: flex; align-items: center; }
+.avatar-btn {
+  width: 40px; height: 40px; padding: 0; border: none; cursor: pointer;
+  border-radius: 50%; overflow: hidden; background: var(--card-alt);
+  box-shadow: 0 0 0 2px #fff, 0 2px 8px rgba(0,0,0,.14);
+  transition: transform .15s ease;
+}
+.avatar-btn:hover { transform: scale(1.05); }
+/* zoom no rosto (a foto é retrato de corpo; o rosto fica no terço superior) */
+.avatar-btn img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; transform: scale(1.6); transform-origin: 50% 20%; }
+
+.avatar-card {
+  position: absolute; top: calc(100% + 14px); left: 0; z-index: 300;
+  width: 320px; max-width: calc(100vw - 32px);
+  background: #14161c; color: #fff;
+  border-radius: 22px; padding: 16px;
+  box-shadow: 0 24px 60px rgba(0,0,0,.34);
+  border: 1px solid rgba(255,255,255,.08);
+  /* expande sutilmente no hover (entra e sai), igual à navbar */
+  transform-origin: top left;
+  transition: transform .2s cubic-bezier(.65, 0, .35, 1), box-shadow .2s cubic-bezier(.65, 0, .35, 1);
+}
+@media (hover: hover) and (min-width: 721px) {
+  .avatar-card:hover { transform: scale(1.02); box-shadow: 0 30px 72px rgba(0,0,0,.42); }
+}
+.avatar-card__close {
+  position: absolute; top: 14px; right: 14px;
+  width: 30px; height: 30px; border-radius: 50%;
+  background: rgba(255,255,255,.08); color: #fff; border: none; cursor: pointer;
+  font-size: 18px; line-height: 1; display: flex; align-items: center; justify-content: center;
+  transition: background .16s ease, color .16s ease;
+}
+.avatar-card__close span {
+  display: inline-block; line-height: 1;
+  transition: transform .25s cubic-bezier(.65, 0, .35, 1);
+}
+.avatar-card__close:hover { background: #e5352b; color: #fff; }
+.avatar-card__close:hover span { transform: rotate(90deg); }
+.avatar-card__head { display: flex; align-items: center; gap: 12px; padding-right: 34px; margin-bottom: 14px; }
+.avatar-card__pic { width: 46px; height: 46px; border-radius: 50%; overflow: hidden; flex-shrink: 0; display: block; }
+.avatar-card__pic img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; transform: scale(1.6); transform-origin: 50% 20%; display: block; }
+.avatar-card__name { font-size: 17px; font-weight: 700; letter-spacing: -.3px; }
+.avatar-card__hire { font-size: 13px; font-weight: 500; color: #8BEF9F; }
+.avatar-card__hire:hover { color: #b6f7c2; }
+.avatar-card__contact { display: flex; flex-direction: column; gap: 3px; font-size: 13px; margin-bottom: 12px; }
+.avatar-card__contact a { color: rgba(255,255,255,.72); }
+.avatar-card__contact a:hover { color: #fff; }
+
+.avatar-strava { margin-bottom: 12px; }
+.strava-row {
+  display: flex; align-items: center; gap: 10px;
+  background: #FC4C02; border-radius: 14px; padding: 10px 12px; color: #fff;
+}
+.strava-ico { font-size: 18px; line-height: 1; flex-shrink: 0; }
+.strava-main { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+.strava-label { font-size: 10px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; opacity: .85; }
+.strava-name { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.strava-ago { font-size: 11px; opacity: .9; white-space: nowrap; flex-shrink: 0; }
+
+.avatar-card__socials { display: flex; gap: 8px; }
+.avatar-card__socials a {
+  flex: 1; text-align: center; font-size: 13px; font-weight: 500;
+  background: rgba(255,255,255,.08); color: #fff; border-radius: 12px; padding: 9px 6px;
+  transition: background .18s ease;
+}
+.avatar-card__socials a:hover { background: rgba(255,255,255,.16); }
+
+@media (max-width: 720px) {
+  /* No mobile o avatar vira a identidade + CTA da barra (o card traz "Hire me"),
+     então escondemos a pílula "Book a call" para não apertar a navbar. */
+  .nav-menu { display: none; }
+  /* card centralizado como folha, para não vazar da tela */
+  .avatar-card { position: fixed; top: 72px; left: 50%; transform: translateX(-50%); width: calc(100vw - 24px); }
 }

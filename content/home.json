@@ -18,7 +18,7 @@
         "<i>o seu negócio.</i>"
       ]
     },
-    "sub": { "en": "Most companies are better than they look. I build and rebuild brand systems that close that gap — positioning, identity and the system your team actually runs on. Three weeks, senior-led, direct with me.", "pt": "A maioria das empresas é melhor do que aparenta. Eu construo e reconstruo sistemas de marca que encurtam essa distância — posicionamento, identidade e o sistema que o seu time realmente usa no dia a dia. Três semanas, conduzido por um sênior, direto comigo." },
+    "sub": { "en": "Most companies are better than they look. I build and rebuild brand systems that close that gap. Positioning, identity and the system your team actually runs on. Three weeks, senior-led, direct with me.", "pt": "A maioria das empresas é melhor do que aparenta. Eu construo e reconstruo sistemas de marca que encurtam essa distância. Posicionamento, identidade e o sistema que o seu time realmente usa no dia a dia. Três semanas, conduzido por um sênior, direto comigo." },
     "ctaPrimary": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" },
     "ctaWork": { "en": "See the work", "pt": "Ver os trabalhos" }
   },
@@ -29,28 +29,13 @@
     "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis" }
   },
 
-  "gap": {
-    "eyebrow": { "en": "// The gap", "pt": "// A distância" },
-    "title": { "en": "The business has evolved.<br>The brand hasn't caught up.", "pt": "O negócio evoluiu.<br>A marca não acompanhou." },
-    "lead": { "en": "Growth doesn't just add revenue. It adds products, offers, audiences, channels and people creating things. Without a system holding it together, that becomes fragmentation.", "pt": "Crescer não traz só receita. Traz produtos, ofertas, públicos, canais e gente produzindo em todo canto. Sem um sistema que mantenha tudo coeso, isso vira fragmentação." },
-    "recogniseLabel": { "en": "You'll recognise it if:", "pt": "Você reconhece isso se:" },
-    "items": [
-      { "en": "Your leads don't reflect the quality of what you sell.", "pt": "Seus leads não refletem a qualidade do que você vende." },
-      { "en": "Your products and offers look like they come from different companies.", "pt": "Seus produtos e ofertas parecem vir de empresas diferentes." },
-      { "en": "Your website presents a smaller company than the one you run.", "pt": "Seu site apresenta uma empresa menor do que a que você dirige." },
-      { "en": "Your team creates constantly, without a shared direction.", "pt": "Seu time produz o tempo todo, sem uma direção comum." },
-      { "en": "You explain your value better in one sales call than your brand does in a year.", "pt": "Você explica seu valor melhor em uma call de vendas do que sua marca em um ano inteiro." }
-    ],
-    "close": { "en": "This isn't a taste problem. It's a perception problem — and perception is what the market prices.", "pt": "Isso não é um problema de gosto. É um problema de percepção — e é a percepção que o mercado precifica." }
-  },
-
   "tried": {
     "eyebrow": { "en": "// What usually gets tried first", "pt": "// O que costumam tentar primeiro" },
     "title": { "en": "More content. More ads. Another freelancer. A new website.", "pt": "Mais conteúdo. Mais anúncios. Outro freelancer. Um site novo." },
     "video": "assets/img/usually/social_u1536662333_Complexity_layers_--ar_184103_--video_1_--end_loo_e211cf1e-eb7b-4297-8695-3ea55980c851_2.mp4",
     "lines": [
       { "en": "Those amplify a message. They don't create one.", "pt": "Isso tudo amplifica uma mensagem. Não cria nenhuma." },
-      { "en": "If the brand underneath isn't strategically defined, more marketing usually means more noise — not more perceived value.", "pt": "Se a marca por trás não estiver estrategicamente definida, mais marketing costuma virar mais ruído — não mais valor percebido." }
+      { "en": "If the brand underneath isn't strategically defined, more marketing usually means more noise, not more perceived value.", "pt": "Se a marca por trás não estiver estrategicamente definida, mais marketing costuma virar mais ruído, não mais valor percebido." }
     ]
   },
 
@@ -83,7 +68,7 @@
         "tagline": { "en": "For companies that have outgrown their brand.", "pt": "Para empresas que cresceram além da própria marca." },
         "desc": { "en": "The business has proven itself. The brand is behind. We start with a short diagnostic to find where the gap actually is, then rebuild the positioning and system around the company you are now.", "pt": "O negócio já se provou. A marca ficou para trás. Começamos com um diagnóstico curto para achar onde está a distância e então reconstruímos o posicionamento e o sistema em torno da empresa que você é hoje." },
         "leaveWith": { "en": "Brand audit, repositioning, refreshed identity system, rollout plan.", "pt": "Auditoria de marca, reposicionamento, sistema de identidade renovado e plano de implementação." },
-        "timeline": { "en": "3–5 day diagnostic, then 3 weeks.", "pt": "Diagnóstico de 3 a 5 dias, depois 3 semanas." }
+        "timeline": { "en": "3 to 5 day diagnostic, then 3 weeks.", "pt": "Diagnóstico de 3 a 5 dias, depois 3 semanas." }
       }
     ],
     "leaveLabel": { "en": "You leave with", "pt": "Você sai com" },
@@ -100,8 +85,8 @@
     "eyebrow": { "en": "// The process", "pt": "// O processo" },
     "title": { "en": "Three weeks, start to finish.", "pt": "Três semanas, do início ao fim." },
     "steps": [
-      { "num": "01", "title": { "en": "Clarify", "pt": "Clareza" }, "text": { "en": "We go deep on the business, the market and where the brand stopped representing it. You leave the week with a defined position, not a mood.", "pt": "Mergulhamos no negócio, no mercado e no ponto em que a marca deixou de representá-lo. Você termina a semana com um posicionamento definido — não com uma vaga sensação." } },
-      { "num": "02", "title": { "en": "Direction", "pt": "Direção" }, "text": { "en": "Strategy becomes form. One direction, developed properly, refined live with you — not three options for you to guess between.", "pt": "A estratégia vira forma. Uma direção, desenvolvida de verdade, refinada ao vivo com você — não três opções para você adivinhar qual escolher." } },
+      { "num": "01", "title": { "en": "Clarify", "pt": "Clareza" }, "text": { "en": "We go deep on the business, the market and where the brand stopped representing it. You leave the week with a defined position, not a mood.", "pt": "Mergulhamos no negócio, no mercado e no ponto em que a marca deixou de representá-lo. Você termina a semana com um posicionamento definido, não uma vaga sensação." } },
+      { "num": "02", "title": { "en": "Direction", "pt": "Direção" }, "text": { "en": "Strategy becomes form. One direction, developed properly, refined live with you, not three options for you to guess between.", "pt": "A estratégia vira forma. Uma direção, desenvolvida de verdade, refinada ao vivo com você, não três opções para você adivinhar qual escolher." } },
       { "num": "03", "title": { "en": "System", "pt": "Sistema" }, "text": { "en": "Identity, rules and applications. You get a brand your team can use without asking me what to do next.", "pt": "Identidade, regras e aplicações. Você recebe uma marca que o seu time consegue usar sem precisar me perguntar o próximo passo." } }
     ],
     "whyTitle": { "en": "Why this doesn't take three months", "pt": "Por que isso não leva três meses" },
@@ -155,7 +140,7 @@
     "eyebrow": { "en": "// FAQ", "pt": "// Dúvidas" },
     "title": { "en": "Questions you might not ask.", "pt": "Perguntas que você talvez não faça." },
     "items": [
-      { "q": { "en": "Three weeks — really?", "pt": "Três semanas — sério?" }, "a": { "en": "Yes, with a fixed scope defined before we start. The speed comes from working with one senior person who makes decisions in the room, not from doing less thinking.", "pt": "Sim, com um escopo fixo definido antes de começar. A velocidade vem de trabalhar com uma única pessoa sênior que decide na hora, não de pensar menos." } },
+      { "q": { "en": "Three weeks, really?", "pt": "Três semanas, sério?" }, "a": { "en": "Yes, with a fixed scope defined before we start. The speed comes from working with one senior person who makes decisions in the room, not from doing less thinking.", "pt": "Sim, com um escopo fixo definido antes de começar. A velocidade vem de trabalhar com uma única pessoa sênior que decide na hora, não de pensar menos." } },
       { "q": { "en": "What if we need more than what's in the sprint?", "pt": "E se precisarmos de mais do que está no sprint?" }, "a": { "en": "Website, offer design and rollout are modules on top of the system. We define what you need before we start, so nothing gets discovered halfway.", "pt": "Site, design de oferta e implementação são módulos em cima do sistema. Definimos o que você precisa antes de começar, para nada aparecer no meio do caminho." } },
       { "q": { "en": "How many revisions?", "pt": "Quantas revisões?" }, "a": { "en": "We refine in real time, together, during the process. That replaces revision rounds instead of adding to them.", "pt": "A gente refina em tempo real, juntos, durante o processo. Isso substitui as rodadas de revisão em vez de somar a elas." } },
       { "q": { "en": "What does it typically cost?", "pt": "Quanto costuma custar?" }, "a": { "en": "Every project is scoped and quoted after the fit call, based on what you actually need. The diagnostic for an Evolve is US$ 300, credited toward the project if we move forward.", "pt": "Cada projeto é orçado depois da conversa de fit, com base no que você realmente precisa. O diagnóstico do Evolve é R$ 1.500, creditado no projeto se seguirmos em frente." } }
