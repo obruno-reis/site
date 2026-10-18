@@ -4,7 +4,11 @@ module.exports = function project(ctx, common, p) {
   const ui = common.projectUI;
 
   const leads = p.lead.map(l => `    <p class="project-lead">${t(l)}</p>`).join('\n');
-  const shots = p.shots.map(s => `      <div class="shot"><img src="${asset(s.src)}" alt="${t(s.alt)}" loading="lazy" /></div>`).join('\n');
+  const shot = (s) => `<div class="shot"><img src="${asset(s.src)}" alt="${t(s.alt)}" loading="lazy" /></div>`;
+  // item com "pair": duas imagens verticais lado a lado
+  const shots = p.shots.map(s => s.pair
+    ? `      <div class="shot-pair">${s.pair.map(shot).join('')}</div>`
+    : `      ${shot(s)}`).join('\n');
   const results = p.result.map(r => `      <p class="section-text">${t(r)}</p>`).join('\n');
   const next = p.next.map(n => `        <a href="${projectUrl(n.slug)}" class="next-card">
           <img src="${asset(n.img)}" alt="${t(n.label)}" loading="lazy" />
@@ -34,8 +38,10 @@ ${leads}
       </div>
     </div>
 
-    <!-- FIRST PHOTO -->
-    <div class="shot" style="margin-bottom:40px;"><img src="${asset(p.hero.src)}" alt="${t(p.hero.alt)}" /></div>
+    <!-- FIRST MEDIA (vídeo, se houver; senão a primeira foto) -->
+${p.video
+  ? `    <div class="shot shot--video" style="margin-bottom:40px;"><video src="${asset(p.video.src)}"${p.video.poster ? ` poster="${asset(p.video.poster)}"` : ''} autoplay muted loop playsinline controls preload="metadata" aria-label="${t(p.video.alt)}"></video></div>`
+  : `    <div class="shot" style="margin-bottom:40px;"><img src="${asset(p.hero.src)}" alt="${t(p.hero.alt)}" /></div>`}
 
     <!-- PROJECT GOALS (after first photo) -->
     <div class="section">

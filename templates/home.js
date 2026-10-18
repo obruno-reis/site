@@ -120,27 +120,16 @@ module.exports = function home(ctx, common, home, projects) {
           <div><h3>${t(c.title)}</h3><p>${t(c.text)}</p></div>
         </div>`).join('\n');
 
-  // 06 — BUILD OR EVOLVE
-  const beCards = h.buildEvolve.cards.map(c => `        <div style="background:var(--card);border:1px solid var(--line);border-radius:var(--radius-lg);padding:34px 32px;display:flex;flex-direction:column;">
-          <div style="font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:16px;">${c.num} — ${c.name}</div>
-          <h3 style="font-size:23px;font-weight:700;letter-spacing:-.6px;line-height:1.15;margin-bottom:14px;">${t(c.tagline)}</h3>
-          <p style="font-size:16px;color:var(--muted);line-height:1.65;margin-bottom:24px;">${t(c.desc)}</p>
-          <div style="font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted-2);margin-bottom:6px;">${t(h.buildEvolve.leaveLabel)}</div>
-          <p style="font-size:15.5px;color:var(--ink);line-height:1.6;margin-bottom:18px;">${t(c.leaveWith)}</p>
-          <div style="font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted-2);margin-bottom:6px;">${t(h.buildEvolve.timelineLabel)}</div>
-          <p style="font-size:15.5px;color:var(--ink);">${t(c.timeline)}</p>
-        </div>`).join('\n');
-
   // 07 — SELECTED WORK (grid de projetos)
   const cards = projects.map(p => `        <a href="${projectUrl(p.slug)}" class="project-card">
           <img src="${asset(p.card.cover)}" alt="${t(p.card.title)}" loading="lazy"${p.card.coverStyle ? ` style="${p.card.coverStyle}"` : ''} />
           <div class="project-card__meta">
-            <div class="project-card__handle">${t(p.card.handle)}</div>
-            <div class="project-card__title">${t(p.card.title)}</div>
+            <div class="project-card__handle">${t(p.card.handle)}${p.card.tag ? `<span class="project-card__tag">${t(p.card.tag)}</span>` : ''}</div>
+            <div class="project-card__title">${t(p.card.title)}${p.card.flag ? ` <img class="project-card__flag" src="${asset('assets/img/flags/' + p.card.flag + '.svg')}" alt="${p.card.flag.toUpperCase()}" width="20" height="14" />` : ''}</div>
           </div>
         </a>`).join('\n\n');
 
-  // 08 — THE PROCESS
+  // 06 — THE PROCESS
   const steps = h.process.steps.map(s => `        <div class="process-step reveal">
           <div class="process-num">${s.num}</div>
           <h3>${t(s.title)}</h3>
@@ -227,13 +216,20 @@ ${services}
     </div>
   </section>
 
-  <!-- ─── 06 · BUILD OR EVOLVE ─── -->
+  <!-- ─── 06 · THE PROCESS ─── -->
   <section class="home-section" style="background:var(--slate);">
-    <div class="wrapper reveal">
-      <p class="eyebrow">${t(h.buildEvolve.eyebrow)}</p>
-      <h2 class="section-title" style="margin-bottom:36px;">${t(h.buildEvolve.title)}</h2>
-      <div class="reveal-group" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;">
-${beCards}
+    <div class="wrapper process--center">
+      <p class="eyebrow reveal">${t(h.process.eyebrow)}</p>
+      <h2 class="section-title reveal" style="margin-bottom:36px;">${t(h.process.title)}</h2>
+      <div class="process-grid">
+${steps}
+      </div>
+      <div class="reveal process-why" style="margin-top:52px;max-width:680px;">
+        <h3 style="font-size:19px;font-weight:700;letter-spacing:-.3px;margin-bottom:12px;">${t(h.process.whyTitle)}</h3>
+        <p class="section-lead" style="max-width:680px;">${t(h.process.why)}</p>
+      </div>
+      <div class="reveal" style="margin-top:36px;">
+        <a href="${common.wa}" target="_blank" rel="noopener" class="btn btn-primary">${t(h.process.cta)}</a>
       </div>
     </div>
   </section>
@@ -249,21 +245,6 @@ ${beCards}
 
 ${cards}
 
-      </div>
-    </div>
-  </section>
-
-  <!-- ─── 08 · THE PROCESS ─── -->
-  <section class="home-section" style="background:var(--slate);">
-    <div class="wrapper process--center">
-      <p class="eyebrow reveal">${t(h.process.eyebrow)}</p>
-      <h2 class="section-title reveal" style="margin-bottom:36px;">${t(h.process.title)}</h2>
-      <div class="process-grid">
-${steps}
-      </div>
-      <div class="reveal process-why" style="margin-top:52px;max-width:680px;">
-        <h3 style="font-size:19px;font-weight:700;letter-spacing:-.3px;margin-bottom:12px;">${t(h.process.whyTitle)}</h3>
-        <p class="section-lead" style="max-width:680px;">${t(h.process.why)}</p>
       </div>
     </div>
   </section>

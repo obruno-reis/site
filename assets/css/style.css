@@ -287,7 +287,18 @@ body.menu-open { overflow: hidden; }
 .project-card__handle {
   font-size: 12px; font-weight: 500; opacity: .8; letter-spacing: -0.2px; margin-bottom: 4px;
 }
+.project-card__tag {
+  display: inline-block; margin-left: 8px; padding: 2px 8px; border-radius: var(--pill);
+  background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.22);
+  font-size: 10.5px; font-weight: 500; letter-spacing: 0; vertical-align: 1px;
+}
 .project-card__title { font-size: 20px; font-weight: 700; letter-spacing: -0.5px; }
+.project-card img.project-card__flag,
+.project-card:hover img.project-card__flag {
+  position: static; inset: auto; z-index: auto; transform: none; transition: none;
+  display: inline-block; width: 20px; height: 14px; object-fit: cover;
+  margin-left: 6px; vertical-align: 1px; border-radius: 2px;
+}
 .project-card.is-soon { pointer-events: none; }
 .project-card__badge {
   position: absolute; top: 16px; right: 16px; z-index: 1;
@@ -420,7 +431,10 @@ body.menu-open { overflow: hidden; }
 /* Sequência de imagens grandes empilhadas (estrutura real do case Dox IA) */
 .shot { border-radius: var(--radius); overflow: hidden; margin-bottom: 14px; background: var(--card-alt); }
 .shot img { width: 100%; height: auto; }
+.shot--video video { display: block; width: 100%; height: auto; }
 .shots { margin-bottom: 70px; }
+.shot-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+@media (max-width: 600px) { .shot-pair { grid-template-columns: 1fr; gap: 0; } }
 
 /* Seções de texto do projeto */
 .section { margin-bottom: 70px; }

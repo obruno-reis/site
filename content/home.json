@@ -50,37 +50,6 @@
     ]
   },
 
-  "buildEvolve": {
-    "eyebrow": { "en": "// Two ways in", "pt": "// Dois caminhos de entrada" },
-    "title": { "en": "Two starting points. One objective.", "pt": "Dois pontos de partida. Um objetivo." },
-    "cards": [
-      {
-        "num": "01",
-        "name": "Build",
-        "tagline": { "en": "For companies starting with ambition.", "pt": "Para empresas que começam com ambição." },
-        "desc": { "en": "The business is new. The ambition isn't. We build the strategic and visual foundation from scratch, so the brand enters the market already looking like the company you intend to be.", "pt": "O negócio é novo. A ambição não. Construímos a base estratégica e visual do zero, para a marca entrar no mercado já com a cara da empresa que você pretende ser." },
-        "leaveWith": { "en": "Positioning, visual identity, brand system, core applications, launch-ready files.", "pt": "Posicionamento, identidade visual, sistema de marca, aplicações principais e arquivos prontos para lançar." },
-        "timeline": { "en": "3 weeks.", "pt": "3 semanas." }
-      },
-      {
-        "num": "02",
-        "name": "Evolve",
-        "tagline": { "en": "For companies that have outgrown their brand.", "pt": "Para empresas que cresceram além da própria marca." },
-        "desc": { "en": "The business has proven itself. The brand is behind. We start with a short diagnostic to find where the gap actually is, then rebuild the positioning and system around the company you are now.", "pt": "O negócio já se provou. A marca ficou para trás. Começamos com um diagnóstico curto para achar onde está a distância e então reconstruímos o posicionamento e o sistema em torno da empresa que você é hoje." },
-        "leaveWith": { "en": "Brand audit, repositioning, refreshed identity system, rollout plan.", "pt": "Auditoria de marca, reposicionamento, sistema de identidade renovado e plano de implementação." },
-        "timeline": { "en": "3 to 5 day diagnostic, then 3 weeks.", "pt": "Diagnóstico de 3 a 5 dias, depois 3 semanas." }
-      }
-    ],
-    "leaveLabel": { "en": "You leave with", "pt": "Você sai com" },
-    "timelineLabel": { "en": "Timeline", "pt": "Prazo" }
-  },
-
-  "projects": {
-    "eyebrow": { "en": "// Proof", "pt": "// Prova" },
-    "title": { "en": "The gap, closed.", "pt": "A distância, encurtada." },
-    "lead": { "en": "Brand systems built for teams in mental health, education, care and digital products.", "pt": "Sistemas de marca para times de saúde mental, educação, cuidado e produtos digitais." }
-  },
-
   "process": {
     "eyebrow": { "en": "// The process", "pt": "// O processo" },
     "title": { "en": "Three weeks, start to finish.", "pt": "Três semanas, do início ao fim." },
@@ -90,7 +59,14 @@
       { "num": "03", "title": { "en": "System", "pt": "Sistema" }, "text": { "en": "Identity, rules and applications. You get a brand your team can use without asking me what to do next.", "pt": "Identidade, regras e aplicações. Você recebe uma marca que o seu time consegue usar sem precisar me perguntar o próximo passo." } }
     ],
     "whyTitle": { "en": "Why this doesn't take three months", "pt": "Por que isso não leva três meses" },
-    "why": { "en": "You work with one senior designer. Decisions happen in the call, not in a review cycle. The scope is fixed on day one. Speed here is a consequence of experience, not a reduction of it.", "pt": "Você trabalha com um único designer sênior. As decisões acontecem na call, não em um ciclo de revisões. O escopo é fixado no primeiro dia. A velocidade aqui é consequência de experiência, não redução dela." }
+    "why": { "en": "You work with one senior designer. Decisions happen in the call, not in a review cycle. The scope is fixed on day one. Speed here is a consequence of experience, not a reduction of it.", "pt": "Você trabalha com um único designer sênior. As decisões acontecem na call, não em um ciclo de revisões. O escopo é fixado no primeiro dia. A velocidade aqui é consequência de experiência, não redução dela." },
+    "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" }
+  },
+
+  "projects": {
+    "eyebrow": { "en": "// Proof", "pt": "// Prova" },
+    "title": { "en": "The gap, closed.", "pt": "A distância, encurtada." },
+    "lead": { "en": "Brand systems built for teams in mental health, education, care and digital products.", "pt": "Sistemas de marca para times de saúde mental, educação, cuidado e produtos digitais." }
   },
 
   "about": {
@@ -142,14 +118,13 @@
     "items": [
       { "q": { "en": "Three weeks, really?", "pt": "Três semanas, sério?" }, "a": { "en": "Yes, with a fixed scope defined before we start. The speed comes from working with one senior person who makes decisions in the room, not from doing less thinking.", "pt": "Sim, com um escopo fixo definido antes de começar. A velocidade vem de trabalhar com uma única pessoa sênior que decide na hora, não de pensar menos." } },
       { "q": { "en": "What if we need more than what's in the sprint?", "pt": "E se precisarmos de mais do que está no sprint?" }, "a": { "en": "Website, offer design and rollout are modules on top of the system. We define what you need before we start, so nothing gets discovered halfway.", "pt": "Site, design de oferta e implementação são módulos em cima do sistema. Definimos o que você precisa antes de começar, para nada aparecer no meio do caminho." } },
-      { "q": { "en": "How many revisions?", "pt": "Quantas revisões?" }, "a": { "en": "We refine in real time, together, during the process. That replaces revision rounds instead of adding to them.", "pt": "A gente refina em tempo real, juntos, durante o processo. Isso substitui as rodadas de revisão em vez de somar a elas." } },
-      { "q": { "en": "What does it typically cost?", "pt": "Quanto costuma custar?" }, "a": { "en": "Every project is scoped and quoted after the fit call, based on what you actually need. The diagnostic for an Evolve is US$ 300, credited toward the project if we move forward.", "pt": "Cada projeto é orçado depois da conversa de fit, com base no que você realmente precisa. O diagnóstico do Evolve é R$ 1.500, creditado no projeto se seguirmos em frente." } }
+      { "q": { "en": "How many revisions?", "pt": "Quantas revisões?" }, "a": { "en": "We refine in real time, together, during the process. That replaces revision rounds instead of adding to them.", "pt": "A gente refina em tempo real, juntos, durante o processo. Isso substitui as rodadas de revisão em vez de somar a elas." } }
     ]
   },
 
   "contact": {
     "title": { "en": "If your brand no longer represents your business, that's fixable.", "pt": "Se a sua marca não representa mais o seu negócio, isso tem conserto." },
-    "text": { "en": "And it doesn't take months. Book a 20-minute call. We'll look at where the gap is and whether a Build or an Evolve makes sense. If I'm not the right person for it, I'll tell you on the call.", "pt": "E não leva meses. Agende uma conversa de 20 minutos. Vamos olhar onde está a distância e se um Build ou um Evolve faz mais sentido. Se eu não for a pessoa certa, eu te digo na própria call." },
+    "text": { "en": "And it doesn't take months. Book a 20-minute call. We'll look at where the gap is and whether this is the right next step. If I'm not the right person for it, I'll tell you on the call.", "pt": "E não leva meses. Agende uma conversa de 20 minutos. Vamos olhar onde está a distância e se esse é o próximo passo certo. Se eu não for a pessoa certa, eu te digo na própria call." },
     "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" }
   }
 }
