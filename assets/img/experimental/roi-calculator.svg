@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="ROI Calculator, builder for embeddable ROI calculators">
+  <rect width="800" height="500" fill="#141414"/>
+
+  <!-- headline -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F3EFE6" letter-spacing="-1">
+    <text x="48" y="150">Build the ROI</text>
+    <text x="48" y="196">calculator for</text>
+    <text x="48" y="242">your service</text>
+    <text x="48" y="288">in 3 minutes.</text>
+  </g>
+  <rect x="48" y="326" width="128" height="40" rx="6" fill="#F3EFE6"/>
+  <text x="112" y="351" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#141414" text-anchor="middle">Start building</text>
+
+  <!-- calculator card -->
+  <rect x="408" y="44" width="352" height="412" rx="6" fill="#F3EFE6"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="432" y="86" font-size="19" font-weight="600" fill="#1E2A1F">What is a cleaning worth?</text>
+
+    <text x="432" y="124" font-size="12" font-weight="600" fill="#1E2A1F">System size</text>
+    <rect x="432" y="134" width="304" height="34" rx="5" fill="#E7E1D5"/>
+    <text x="446" y="156" font-size="13" fill="#3B463C">9</text>
+    <text x="722" y="156" font-size="12" fill="#6B756C" text-anchor="end">kW</text>
+    <line x1="432" y1="188" x2="736" y2="188" stroke="#C9C0AE" stroke-width="2"/>
+    <line x1="432" y1="188" x2="526" y2="188" stroke="#B88A2E" stroke-width="2"/>
+    <rect x="519" y="181" width="14" height="14" rx="3" fill="#F2B640" stroke="#B88A2E"/>
+
+    <text x="432" y="226" font-size="12" font-weight="600" fill="#1E2A1F">How dirty do your panels get?</text>
+    <rect x="432" y="236" width="96" height="40" rx="5" fill="#ECE6DA" stroke="#D6CEBE"/>
+    <text x="480" y="261" font-size="12" fill="#3B463C" text-anchor="middle">Light</text>
+    <rect x="536" y="236" width="96" height="40" rx="5" fill="#F6DFAE" stroke="#E0A93A" stroke-width="1.5"/>
+    <text x="584" y="261" font-size="12" font-weight="600" fill="#1E2A1F" text-anchor="middle">Moderate</text>
+    <rect x="640" y="236" width="96" height="40" rx="5" fill="#ECE6DA" stroke="#D6CEBE"/>
+    <text x="688" y="261" font-size="12" fill="#3B463C" text-anchor="middle">Heavy</text>
+
+    <!-- result -->
+    <rect x="432" y="296" width="304" height="136" rx="5" fill="#1F3B2B"/>
+    <text x="452" y="326" font-size="12" fill="#B9CDBE">Estimated net gain per year</text>
+    <text x="452" y="376" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#F3EFE6">$97</text>
+    <text x="452" y="408" font-size="12" fill="#F2B640">A 77% return on cleaning</text>
+  </g>
+</svg>

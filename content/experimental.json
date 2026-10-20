@@ -21,6 +21,20 @@
         "en": "A minimalist single-task focus timer. Write one task, pick your minutes, and start. One thing at a time. Built end to end with AI.",
         "pt": "Um timer de foco minimalista para uma única tarefa. Escreva a tarefa, escolha os minutos e comece. Uma coisa de cada vez. Feito de ponta a ponta com IA."
       }
+    },
+    {
+      "title": "ROI Calculator",
+      "img": "assets/img/experimental/roi-calculator.svg",
+      "url": "https://roi-calculator-304.pages.dev/",
+      "tags": [
+        { "en": "ROI calculator", "pt": "Calculadora de ROI" },
+        { "en": "No-code builder", "pt": "Builder no-code" },
+        { "en": "Built with AI", "pt": "Feito com IA" }
+      ],
+      "blurb": {
+        "en": "A builder that creates an ROI calculator for your service in 3 minutes. Answer a few plain questions, it handles the design and the math, then gives you code that drops into any website. Built end to end with AI.",
+        "pt": "Um builder que cria a calculadora de ROI do seu serviço em 3 minutos. Você responde algumas perguntas simples, ele cuida do design e da conta e entrega um código que entra em qualquer site. Feito de ponta a ponta com IA."
+      }
     }
   ]
 }
