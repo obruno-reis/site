@@ -76,12 +76,12 @@ nav {
   transform-origin: center;
   transition: transform .2s cubic-bezier(.65, 0, .35, 1), box-shadow .2s cubic-bezier(.65, 0, .35, 1);
 }
-@media (hover: hover) and (min-width: 721px) {
+@media (hover: hover) and (min-width: 1080px) {
   nav:hover { transform: scale(1.015); box-shadow: 0 14px 40px rgba(0, 0, 0, 0.13); }
 }
-/* Blur só no desktop: no mobile o menu usa position:fixed e o backdrop-filter
-   quebraria o overlay de tela cheia. */
-@media (min-width: 721px) {
+/* Blur (e o scale do hover) só no desktop: até 1079px o menu usa position:fixed
+   e um backdrop-filter/transform no <nav> quebraria o overlay de tela cheia. */
+@media (min-width: 1080px) {
   nav {
     background: rgba(255, 255, 255, 0.78);
     -webkit-backdrop-filter: saturate(180%) blur(12px);
@@ -117,10 +117,23 @@ body.menu-open { overflow: hidden; }
 .lang-switch .lang-sep { color: var(--line); font-size: 12px; }
 /* a variante do menu só aparece dentro do overlay mobile */
 .lang-switch--menu { display: none; }
+.lang-switch--bar { margin: 0 4px 0 12px; }
+
+/* Desktop largo: links centralizados na pílula; idioma + CTA agrupados à direita.
+   Abaixo disso volta ao fluxo normal para os links não encostarem nas laterais. */
+@media (min-width: 1200px) {
+  nav { position: relative; }
+  .nav-links { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); gap: 24px; }
+}
 
 @media (max-width: 720px) {
   /* pill com menos margem lateral no mobile */
   .wrapper:has(> nav) { top: 8px; padding-left: 16px; padding-right: 16px; }
+}
+
+/* Até 1079px os links não cabem numa linha (PT/DE precisam de ~1060px):
+   vira hambúrguer + menu de tela cheia. No tablet o CTA continua na pílula. */
+@media (max-width: 1079px) {
   nav {
     position: relative; z-index: 200; padding: 8px 8px 8px 18px;
     justify-content: flex-start;

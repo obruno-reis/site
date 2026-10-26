@@ -5,108 +5,126 @@
     "handle": "@ginasticadocerebro",
     "title": {
       "en": "Brain Gym",
-      "pt": "Brain Gym"
+      "pt": "Brain Gym",
+      "de": "Brain Gym"
     }
   },
   "metaTitle": {
     "en": "Brain Gym · Ginástica do Cérebro · Bruno Reis",
-    "pt": "Brain Gym · Ginástica do Cérebro · Bruno Reis"
+    "pt": "Brain Gym · Ginástica do Cérebro · Bruno Reis",
+    "de": "Brain Gym · Ginástica do Cérebro · Bruno Reis"
   },
   "metaDesc": {
     "en": "Visual identity for Brain Gym (Ginástica do Cérebro), a cognitive-stimulation center for all ages. Case study by Bruno Reis.",
-    "pt": "Identidade visual para a Brain Gym (Ginástica do Cérebro), um centro de estimulação cognitiva para todas as idades. Case de Bruno Reis."
+    "pt": "Identidade visual para a Brain Gym (Ginástica do Cérebro), um centro de estimulação cognitiva para todas as idades. Case de Bruno Reis.",
+    "de": "Visuelle Identität für Brain Gym (Ginástica do Cérebro), ein Zentrum für kognitive Förderung für alle Altersgruppen. Case Study von Bruno Reis."
   },
   "title": {
     "en": "Brain Gym",
-    "pt": "Brain Gym"
+    "pt": "Brain Gym",
+    "de": "Brain Gym"
   },
   "category": {
     "en": "Branding &amp; Visual Identity",
-    "pt": "Branding &amp; Identidade Visual"
+    "pt": "Branding &amp; Identidade Visual",
+    "de": "Branding &amp; visuelle Identität"
   },
   "timeline": {
     "en": "3 weeks",
-    "pt": "3 semanas"
+    "pt": "3 semanas",
+    "de": "3 Wochen"
   },
   "lead": [
     {
       "en": "<strong>Ginástica do Cérebro (Brain Gym)</strong> is a neuroeducation franchise that turns games into brain training, building focus, memory, and social skills through play, for everyone from young children to seniors. The identity had to reach very different people at once: kids and neurodivergent learners, their parents, and the psychologists and educators who run each unit. It needed to feel playful without being childish, and credible without turning clinical. So we built a warm, grounded identity that greets a six-year-old and a seventy-year-old with the same open hand.",
-      "pt": "A <strong>Ginástica do Cérebro (Brain Gym)</strong> é uma franquia de neuroeducação que transforma jogos em treino para o cérebro, desenvolvendo foco, memória e habilidades sociais pela brincadeira, de crianças pequenas a idosos. A identidade precisava alcançar pessoas muito diferentes ao mesmo tempo: crianças e pessoas neurodivergentes, seus pais, e os psicólogos e educadores que conduzem cada unidade. Precisava ser lúdica sem ser infantil, e confiável sem ficar clínica. Então construímos uma identidade acolhedora e firme, que recebe uma criança de seis anos e um idoso de setenta com a mesma mão aberta."
+      "pt": "A <strong>Ginástica do Cérebro (Brain Gym)</strong> é uma franquia de neuroeducação que transforma jogos em treino para o cérebro, desenvolvendo foco, memória e habilidades sociais pela brincadeira, de crianças pequenas a idosos. A identidade precisava alcançar pessoas muito diferentes ao mesmo tempo: crianças e pessoas neurodivergentes, seus pais, e os psicólogos e educadores que conduzem cada unidade. Precisava ser lúdica sem ser infantil, e confiável sem ficar clínica. Então construímos uma identidade acolhedora e firme, que recebe uma criança de seis anos e um idoso de setenta com a mesma mão aberta.",
+      "de": "<strong>Ginástica do Cérebro (Brain Gym)</strong> ist ein Franchise für Neuropädagogik, das Spiele in Gehirntraining verwandelt und spielerisch Konzentration, Gedächtnis und soziale Fähigkeiten stärkt, für alle von kleinen Kindern bis zu Senioren. Die Identität musste sehr unterschiedliche Menschen gleichzeitig erreichen: Kinder und neurodivergente Lernende, ihre Eltern sowie die Psychologen und Pädagogen, die jede Einheit leiten. Sie sollte verspielt wirken, ohne kindisch zu sein, und glaubwürdig, ohne klinisch zu werden. Also haben wir eine warme, bodenständige Identität entwickelt, die eine Sechsjährige und einen Siebzigjährigen mit derselben offenen Hand begrüßt."
     }
   ],
   "hero": {
     "src": "assets/img/brain-gym/Frame-42.jpg",
     "alt": {
       "en": "Brain Gym, brand mark (smiling icon)",
-      "pt": "Brain Gym, símbolo da marca (ícone sorridente)"
+      "pt": "Brain Gym, símbolo da marca (ícone sorridente)",
+      "de": "Brain Gym, Markenzeichen (lächelndes Icon)"
     }
   },
   "goals": {
     "en": "Unify a multi-audience franchise under one identity that scales from a single unit to a national network. Balance play and rigor so the brand feels fun to children and trustworthy to the families and professionals who choose it.",
-    "pt": "Unificar uma franquia de múltiplos públicos sob uma identidade que escala de uma unidade a uma rede nacional. Equilibrar diversão e rigor para a marca ser divertida para as crianças e confiável para as famílias e profissionais que a escolhem."
+    "pt": "Unificar uma franquia de múltiplos públicos sob uma identidade que escala de uma unidade a uma rede nacional. Equilibrar diversão e rigor para a marca ser divertida para as crianças e confiável para as famílias e profissionais que a escolhem.",
+    "de": "Ein Franchise mit vielen Zielgruppen unter einer Identität vereinen, die von einer einzelnen Einheit bis zu einem landesweiten Netzwerk skaliert. Spiel und Fundiertheit so ausbalancieren, dass die Marke für Kinder Spaß macht und für Familien und Fachleute, die sie wählen, vertrauenswürdig ist."
   },
   "shots": [
     {
       "src": "assets/img/brain-gym/6.jpg",
       "alt": {
         "en": "Brain Gym, clinic environment",
-        "pt": "Brain Gym, ambiente da clínica"
+        "pt": "Brain Gym, ambiente da clínica",
+        "de": "Brain Gym, Praxisumgebung"
       }
     },
     {
       "src": "assets/img/brain-gym/8.jpg",
       "alt": {
         "en": "Brain Gym, method in use with a patient",
-        "pt": "Brain Gym, método em uso com um paciente"
+        "pt": "Brain Gym, método em uso com um paciente",
+        "de": "Brain Gym, Methode im Einsatz mit einem Patienten"
       }
     },
     {
       "src": "assets/img/brain-gym/2.jpg",
       "alt": {
         "en": "Brain Gym, brand system and characters",
-        "pt": "Brain Gym, sistema de marca e personagens"
+        "pt": "Brain Gym, sistema de marca e personagens",
+        "de": "Brain Gym, Markensystem und Figuren"
       }
     },
     {
       "src": "assets/img/brain-gym/5.jpg",
       "alt": {
         "en": "Brain Gym, child wearing the branded cap",
-        "pt": "Brain Gym, criança com o boné da marca"
+        "pt": "Brain Gym, criança com o boné da marca",
+        "de": "Brain Gym, Kind mit der Marken-Kappe"
       }
     },
     {
       "src": "assets/img/brain-gym/7.jpg",
       "alt": {
         "en": "Brain Gym, business card",
-        "pt": "Brain Gym, cartão de visita"
+        "pt": "Brain Gym, cartão de visita",
+        "de": "Brain Gym, Visitenkarte"
       }
     },
     {
       "src": "assets/img/brain-gym/3.jpg",
       "alt": {
         "en": "Brain Gym, icon system and templates",
-        "pt": "Brain Gym, sistema de ícones e templates"
+        "pt": "Brain Gym, sistema de ícones e templates",
+        "de": "Brain Gym, Icon-System und Vorlagen"
       }
     },
     {
       "src": "assets/img/brain-gym/51154246.jpg",
       "alt": {
         "en": "Brain Gym, custom notebook",
-        "pt": "Brain Gym, caderno personalizado"
+        "pt": "Brain Gym, caderno personalizado",
+        "de": "Brain Gym, individuelles Notizbuch"
       }
     },
     {
       "src": "assets/img/brain-gym/51154247.jpg",
       "alt": {
         "en": "Brain Gym, packaging",
-        "pt": "Brain Gym, embalagem"
+        "pt": "Brain Gym, embalagem",
+        "de": "Brain Gym, Verpackung"
       }
     }
   ],
   "result": [
     {
       "en": "A complete brand guide (symbol, logo, color hierarchy, typography, and a full photographic direction) that keeps Ginástica do Cérebro consistent across storefronts, social, print, and franchise training. The system carries real neuroscience with a light, human touch, giving every unit a recognizable presence that feels as welcoming as its rooms.",
-      "pt": "Um guia de marca completo (símbolo, logo, hierarquia de cores, tipografia e uma direção fotográfica inteira) que mantém a Ginástica do Cérebro consistente em fachadas, redes sociais, impressos e no treinamento das franquias. O sistema carrega neurociência de verdade com um toque leve e humano, dando a cada unidade uma presença reconhecível e tão acolhedora quanto suas salas."
+      "pt": "Um guia de marca completo (símbolo, logo, hierarquia de cores, tipografia e uma direção fotográfica inteira) que mantém a Ginástica do Cérebro consistente em fachadas, redes sociais, impressos e no treinamento das franquias. O sistema carrega neurociência de verdade com um toque leve e humano, dando a cada unidade uma presença reconhecível e tão acolhedora quanto suas salas.",
+      "de": "Ein vollständiger Brand Guide (Symbol, Logo, Farbhierarchie, Typografie und eine komplette fotografische Linie), der Ginástica do Cérebro über Ladenfronten, Social Media, Print und Franchise-Schulungen hinweg konsistent hält. Das System transportiert echte Neurowissenschaft mit leichter, menschlicher Note und gibt jeder Einheit einen wiedererkennbaren Auftritt, der so einladend ist wie ihre Räume."
     }
   ],
   "next": [
@@ -115,7 +133,8 @@
       "img": "assets/img/dox-ia/Frame-50.jpg",
       "label": {
         "en": "Dox IA",
-        "pt": "Dox IA"
+        "pt": "Dox IA",
+        "de": "Dox IA"
       }
     },
     {
@@ -123,7 +142,8 @@
       "img": "assets/img/icim/Frame-19.jpg",
       "label": {
         "en": "Institute CIM",
-        "pt": "Instituto CIM"
+        "pt": "Instituto CIM",
+        "de": "Institute CIM"
       }
     },
     {
@@ -131,7 +151,8 @@
       "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "label": {
         "en": "Menttalis",
-        "pt": "Menttalis"
+        "pt": "Menttalis",
+        "de": "Menttalis"
       }
     }
   ]

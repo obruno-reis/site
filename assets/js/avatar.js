@@ -9,7 +9,7 @@
   var closeBtn = wrap.querySelector('.avatar-card__close');
   if (!btn || !card) return;
 
-  var isPt = (document.documentElement.lang || '').toLowerCase().indexOf('pt') === 0;
+  var lang = (document.documentElement.lang || '').toLowerCase().slice(0, 2);
 
   function setOpen(open) {
     card.hidden = !open;
@@ -81,15 +81,21 @@
     if (isNaN(then)) return '';
     var diff = Math.max(0, Date.now() - then);
     var mins = Math.floor(diff / 60000);
-    var suffix = isPt ? ' atrás' : ' ago';
-    if (mins < 1) return isPt ? 'agora' : 'just now';
-    if (mins < 60) return mins + 'min' + suffix;
+    // DE usa prefixo ("vor 5 Min."); EN/PT usam sufixo ("5min ago" / "5min atrás").
+    var L = {
+      en: { now: 'just now', pre: '', suf: ' ago', m: 'min', h: 'h', d: 'd', w: 'w' },
+      pt: { now: 'agora', pre: '', suf: ' atrás', m: 'min', h: 'h', d: 'd', w: 'sem' },
+      de: { now: 'gerade eben', pre: 'vor ', suf: '', m: ' Min.', h: ' Std.', d: ' T.', w: ' Wo.' }
+    }[lang] || null;
+    if (!L) L = { now: 'just now', pre: '', suf: ' ago', m: 'min', h: 'h', d: 'd', w: 'w' };
+    function fmt(n, unit) { return L.pre + n + unit + L.suf; }
+    if (mins < 1) return L.now;
+    if (mins < 60) return fmt(mins, L.m);
     var hrs = Math.floor(mins / 60);
-    if (hrs < 24) return hrs + 'h' + suffix;
+    if (hrs < 24) return fmt(hrs, L.h);
     var days = Math.floor(hrs / 24);
-    if (days < 7) return days + (isPt ? 'd' : 'd') + suffix;
-    var wks = Math.floor(days / 7);
-    return wks + (isPt ? 'sem' : 'w') + suffix;
+    if (days < 7) return fmt(days, L.d);
+    return fmt(Math.floor(days / 7), L.w);
   }
 
   function icon(type) {

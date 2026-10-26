@@ -5,50 +5,60 @@
     "handle": "@agapeny",
     "title": {
       "en": "Agape NYC",
-      "pt": "Agape NYC"
+      "pt": "Agape NYC",
+      "de": "Agape NYC"
     },
     "flag": "us",
     "tag": {
       "en": "Brand Collaterals",
-      "pt": "Brand Collaterals"
+      "pt": "Brand Collaterals",
+      "de": "Markenmedien"
     }
   },
   "metaTitle": {
     "en": "Agape NYC · Bruno Reis",
-    "pt": "Agape NYC · Bruno Reis"
+    "pt": "Agape NYC · Bruno Reis",
+    "de": "Agape NYC · Bruno Reis"
   },
   "metaDesc": {
     "en": "Brand collaterals for Agape Transportation, a New York medical transportation company, built on its existing identity. Case study by Bruno Reis.",
-    "pt": "Peças de marca para a Agape Transportation, empresa de transporte médico em Nova York, desenvolvidas a partir da identidade já existente. Case de Bruno Reis."
+    "pt": "Peças de marca para a Agape Transportation, empresa de transporte médico em Nova York, desenvolvidas a partir da identidade já existente. Case de Bruno Reis.",
+    "de": "Markenmedien für Agape Transportation, ein New Yorker Unternehmen für medizinische Fahrdienste, aufgebaut auf der bestehenden Identität. Case Study von Bruno Reis."
   },
   "title": {
     "en": "Agape NYC",
-    "pt": "Agape NYC"
+    "pt": "Agape NYC",
+    "de": "Agape NYC"
   },
   "category": {
     "en": "Brand Collaterals",
-    "pt": "Brand Collaterals"
+    "pt": "Brand Collaterals",
+    "de": "Markenmedien"
   },
   "timeline": {
     "en": "3 weeks",
-    "pt": "3 semanas"
+    "pt": "3 semanas",
+    "de": "3 Wochen"
   },
   "lead": [
     {
       "en": "<strong>Agape Transportation</strong> has been getting New Yorkers to appointments, treatment and ongoing care since 2012, across all five boroughs and beyond. Unlike the other projects here, I didn't design this brand: the Agape identity already existed. My job was to take it off the screen and into the real world, designing a full set of brand collaterals in three weeks, from business cards and stationery to apparel, signage, packaging and a billboard.",
-      "pt": "<strong>Agape Transportation</strong> leva nova-iorquinos a consultas, tratamentos e cuidados contínuos desde 2012, nos cinco distritos de Nova York e além. Diferente dos outros projetos daqui, essa marca não foi criada por mim: a identidade da Agape já existia. Meu trabalho foi tirá-la da tela e levá-la para o mundo real, desenhando em três semanas um conjunto completo de peças, de cartões de visita e papelaria a uniformes, sinalização, embalagem e um outdoor."
+      "pt": "<strong>Agape Transportation</strong> leva nova-iorquinos a consultas, tratamentos e cuidados contínuos desde 2012, nos cinco distritos de Nova York e além. Diferente dos outros projetos daqui, essa marca não foi criada por mim: a identidade da Agape já existia. Meu trabalho foi tirá-la da tela e levá-la para o mundo real, desenhando em três semanas um conjunto completo de peças, de cartões de visita e papelaria a uniformes, sinalização, embalagem e um outdoor.",
+      "de": "<strong>Agape Transportation</strong> bringt New Yorker seit 2012 zu Terminen, Behandlungen und laufender Versorgung, in allen fünf Boroughs und darüber hinaus. Anders als bei den anderen Projekten hier habe ich diese Marke nicht gestaltet: Die Agape-Identität existierte bereits. Meine Aufgabe war, sie vom Bildschirm in die echte Welt zu holen und in drei Wochen ein komplettes Set an Markenmedien zu entwerfen, von Visitenkarten und Geschäftsausstattung bis zu Kleidung, Beschilderung, Verpackung und einer Plakatwand."
     }
   ],
   "hero": {
     "src": "assets/img/agape-nyc/agape-business-cards.webp",
     "alt": {
       "en": "Agape, business cards",
-      "pt": "Agape, cartões de visita"
+      "pt": "Agape, cartões de visita",
+      "de": "Agape, Visitenkarten"
     }
   },
   "goals": {
     "en": "Keep the existing brand consistent across a wide range of materials. Every piece had to feel unmistakably Agape, whether it was a letterhead, a T-shirt or a billboard, while speaking to very different audiences: riders, healthcare partners and the drivers the company is recruiting.",
-    "pt": "Manter a consistência da marca existente em uma grande variedade de materiais. Cada peça precisava ser reconhecida na hora como Agape, fosse um papel timbrado, uma camiseta ou um outdoor, falando com públicos bem diferentes: passageiros, parceiros de saúde e os motoristas que a empresa quer recrutar."
+    "pt": "Manter a consistência da marca existente em uma grande variedade de materiais. Cada peça precisava ser reconhecida na hora como Agape, fosse um papel timbrado, uma camiseta ou um outdoor, falando com públicos bem diferentes: passageiros, parceiros de saúde e os motoristas que a empresa quer recrutar.",
+    "de": "Die bestehende Marke über eine große Bandbreite an Materialien hinweg konsistent halten. Jedes Stück musste unverkennbar nach Agape aussehen, ob Briefbogen, T-Shirt oder Plakatwand, und dabei sehr unterschiedliche Zielgruppen ansprechen: Fahrgäste, Partner aus dem Gesundheitswesen und die Fahrer, die das Unternehmen rekrutiert."
   },
   "shots": [
     {
@@ -57,14 +67,16 @@
           "src": "assets/img/agape-nyc/agape-billboard.webp",
           "alt": {
             "en": "Agape, driver recruitment billboard",
-            "pt": "Agape, outdoor de recrutamento de motoristas"
+            "pt": "Agape, outdoor de recrutamento de motoristas",
+            "de": "Agape, Plakatwand zur Fahrerrekrutierung"
           }
         },
         {
           "src": "assets/img/agape-nyc/agape-tote-chair.webp",
           "alt": {
             "en": "Agape, tote bag \"Drive with Agape\"",
-            "pt": "Agape, ecobag \"Drive with Agape\""
+            "pt": "Agape, ecobag \"Drive with Agape\"",
+            "de": "Agape, Tragetasche „Drive with Agape“"
           }
         }
       ]
@@ -73,21 +85,24 @@
       "src": "assets/img/agape-nyc/agape-tote-street.webp",
       "alt": {
         "en": "Agape, NYC map tote bag",
-        "pt": "Agape, ecobag com o mapa de NY"
+        "pt": "Agape, ecobag com o mapa de NY",
+        "de": "Agape, Tragetasche mit NYC-Karte"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-trifold.webp",
       "alt": {
         "en": "Agape, partner trifold brochure",
-        "pt": "Agape, folder trifold para parceiros"
+        "pt": "Agape, folder trifold para parceiros",
+        "de": "Agape, dreiteiliger Partnerflyer"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-booklet.webp",
       "alt": {
         "en": "Agape, booklet cover",
-        "pt": "Agape, capa de livreto"
+        "pt": "Agape, capa de livreto",
+        "de": "Agape, Broschürencover"
       }
     },
     {
@@ -96,14 +111,16 @@
           "src": "assets/img/agape-nyc/agape-bottle.webp",
           "alt": {
             "en": "Agape, water bottle",
-            "pt": "Agape, garrafa"
+            "pt": "Agape, garrafa",
+            "de": "Agape, Trinkflasche"
           }
         },
         {
           "src": "assets/img/agape-nyc/agape-box.webp",
           "alt": {
             "en": "Agape, gift box",
-            "pt": "Agape, caixa de presente"
+            "pt": "Agape, caixa de presente",
+            "de": "Agape, Geschenkbox"
           }
         }
       ]
@@ -112,21 +129,24 @@
       "src": "assets/img/agape-nyc/agape-tees-navy.webp",
       "alt": {
         "en": "Agape, navy T-shirt, front and back",
-        "pt": "Agape, camiseta azul-marinho, frente e costas"
+        "pt": "Agape, camiseta azul-marinho, frente e costas",
+        "de": "Agape, navyblaues T-Shirt, Vorder- und Rückseite"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-tees-white-boroughs.webp",
       "alt": {
         "en": "Agape, boroughs T-shirt, front and back",
-        "pt": "Agape, camiseta dos distritos, frente e costas"
+        "pt": "Agape, camiseta dos distritos, frente e costas",
+        "de": "Agape, Boroughs-T-Shirt, Vorder- und Rückseite"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-tees-white-map.webp",
       "alt": {
         "en": "Agape, map T-shirt, front and back",
-        "pt": "Agape, camiseta do mapa, frente e costas"
+        "pt": "Agape, camiseta do mapa, frente e costas",
+        "de": "Agape, Karten-T-Shirt, Vorder- und Rückseite"
       }
     },
     {
@@ -135,14 +155,16 @@
           "src": "assets/img/agape-nyc/agape-tee-flat.webp",
           "alt": {
             "en": "Agape, white T-shirt",
-            "pt": "Agape, camiseta branca"
+            "pt": "Agape, camiseta branca",
+            "de": "Agape, weißes T-Shirt"
           }
         },
         {
           "src": "assets/img/agape-nyc/agape-tee-boroughs-back.webp",
           "alt": {
             "en": "Agape, boroughs T-shirt worn",
-            "pt": "Agape, camiseta dos distritos vestida"
+            "pt": "Agape, camiseta dos distritos vestida",
+            "de": "Agape, Boroughs-T-Shirt getragen"
           }
         }
       ]
@@ -151,42 +173,48 @@
       "src": "assets/img/agape-nyc/agape-cap.webp",
       "alt": {
         "en": "Agape, embroidered cap",
-        "pt": "Agape, boné bordado"
+        "pt": "Agape, boné bordado",
+        "de": "Agape, bestickte Kappe"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-sign-dispatching.webp",
       "alt": {
         "en": "Agape, office signage",
-        "pt": "Agape, sinalização do escritório"
+        "pt": "Agape, sinalização do escritório",
+        "de": "Agape, Bürobeschilderung"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-letterhead.webp",
       "alt": {
         "en": "Agape, letterhead",
-        "pt": "Agape, papel timbrado"
+        "pt": "Agape, papel timbrado",
+        "de": "Agape, Briefbogen"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-folder.webp",
       "alt": {
         "en": "Agape, presentation folder",
-        "pt": "Agape, pasta de apresentação"
+        "pt": "Agape, pasta de apresentação",
+        "de": "Agape, Präsentationsmappe"
       }
     },
     {
       "src": "assets/img/agape-nyc/agape-laptop.webp",
       "alt": {
         "en": "Agape, desktop wallpaper",
-        "pt": "Agape, papel de parede para desktop"
+        "pt": "Agape, papel de parede para desktop",
+        "de": "Agape, Desktop-Hintergrund"
       }
     }
   ],
   "result": [
     {
       "en": "A collateral system that carries Agape's identity everywhere the company shows up. The NYC borough maps became the connecting thread: bold color fields on totes and T-shirts, fine linework on stationery and folders, and the dashed route line that links every piece, from A to B. The result is a brand that looks just as consistent on a billboard as it does on a business card.",
-      "pt": "Um sistema de peças que leva a identidade da Agape a todos os lugares onde a empresa aparece. Os mapas dos distritos de Nova York viraram o fio condutor: manchas de cor marcantes nas ecobags e camisetas, traços finos na papelaria e nas pastas, e a linha tracejada de rota que conecta todas as peças, de A a B. O resultado é uma marca tão consistente num outdoor quanto num cartão de visita."
+      "pt": "Um sistema de peças que leva a identidade da Agape a todos os lugares onde a empresa aparece. Os mapas dos distritos de Nova York viraram o fio condutor: manchas de cor marcantes nas ecobags e camisetas, traços finos na papelaria e nas pastas, e a linha tracejada de rota que conecta todas as peças, de A a B. O resultado é uma marca tão consistente num outdoor quanto num cartão de visita.",
+      "de": "Ein System an Markenmedien, das die Agape-Identität überall hinträgt, wo das Unternehmen auftritt. Die Karten der New Yorker Boroughs wurden zum verbindenden Element: kräftige Farbflächen auf Taschen und T-Shirts, feine Linien auf Geschäftsausstattung und Mappen und die gestrichelte Routenlinie, die jedes Stück verbindet, von A nach B. Das Ergebnis ist eine Marke, die auf einer Plakatwand genauso konsistent aussieht wie auf einer Visitenkarte."
     }
   ],
   "next": [
@@ -195,7 +223,8 @@
       "img": "assets/img/swim-drink-fish/sdf-hero-clean.jpg",
       "label": {
         "en": "Swim Drink Fish",
-        "pt": "Swim Drink Fish"
+        "pt": "Swim Drink Fish",
+        "de": "Swim Drink Fish"
       }
     },
     {
@@ -203,7 +232,8 @@
       "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "label": {
         "en": "Menttalis",
-        "pt": "Menttalis"
+        "pt": "Menttalis",
+        "de": "Menttalis"
       }
     },
     {
@@ -211,7 +241,8 @@
       "img": "assets/img/brain-gym/5D7A3457.jpg",
       "label": {
         "en": "Brain Gym",
-        "pt": "Brain Gym"
+        "pt": "Brain Gym",
+        "de": "Brain Gym"
       }
     }
   ]

@@ -5,93 +5,109 @@
     "handle": "@swimdrinkfish",
     "title": {
       "en": "Swim Drink Fish",
-      "pt": "Swim Drink Fish"
+      "pt": "Swim Drink Fish",
+      "de": "Swim Drink Fish"
     },
     "flag": "ca",
     "coverStyle": "object-fit: contain; background: #fff;",
     "tag": {
       "en": "Website",
-      "pt": "Website"
+      "pt": "Website",
+      "de": "Website"
     }
   },
   "metaTitle": {
     "en": "Swim Drink Fish · Bruno Reis",
-    "pt": "Swim Drink Fish · Bruno Reis"
+    "pt": "Swim Drink Fish · Bruno Reis",
+    "de": "Swim Drink Fish · Bruno Reis"
   },
   "metaDesc": {
     "en": "Website design for Swim Drink Fish, a Canadian charity helping communities protect swimmable, drinkable, fishable water. Case study by Bruno Reis.",
-    "pt": "Design de site para a Swim Drink Fish, uma organização canadense que ajuda comunidades a proteger águas onde se possa nadar, beber e pescar. Case de Bruno Reis."
+    "pt": "Design de site para a Swim Drink Fish, uma organização canadense que ajuda comunidades a proteger águas onde se possa nadar, beber e pescar. Case de Bruno Reis.",
+    "de": "Websitedesign für Swim Drink Fish, eine kanadische gemeinnützige Organisation, die Gemeinden hilft, Wasser zu schützen, in dem man schwimmen, das man trinken und in dem man fischen kann. Case Study von Bruno Reis."
   },
   "title": {
     "en": "Swim Drink Fish",
-    "pt": "Swim Drink Fish"
+    "pt": "Swim Drink Fish",
+    "de": "Swim Drink Fish"
   },
   "category": {
     "en": "Website Design",
-    "pt": "Design de Site"
+    "pt": "Design de Site",
+    "de": "Websitedesign"
   },
   "timeline": {
     "en": "3 weeks",
-    "pt": "3 semanas"
+    "pt": "3 semanas",
+    "de": "3 Wochen"
   },
   "lead": [
     {
       "en": "<strong>Swim Drink Fish</strong> is a Canadian water-protection organization. Its goal is simple and ambitious: restore local water health so those signs can come down. Through programs like Swim Guide, Blue Flag and community water monitoring, it puts science, technology and education in the hands of the people who live by the water.",
-      "pt": "<strong>Swim Drink Fish</strong> é uma organização canadense de proteção da água. O objetivo é simples e ambicioso: recuperar a saúde das águas locais para que essas placas possam ser retiradas. Por meio de programas como Swim Guide, Blue Flag e monitoramento comunitário da água, ela coloca ciência, tecnologia e educação nas mãos de quem vive perto da água."
+      "pt": "<strong>Swim Drink Fish</strong> é uma organização canadense de proteção da água. O objetivo é simples e ambicioso: recuperar a saúde das águas locais para que essas placas possam ser retiradas. Por meio de programas como Swim Guide, Blue Flag e monitoramento comunitário da água, ela coloca ciência, tecnologia e educação nas mãos de quem vive perto da água.",
+      "de": "<strong>Swim Drink Fish</strong> ist eine kanadische Organisation für Gewässerschutz. Ihr Ziel ist einfach und ehrgeizig: die Gesundheit lokaler Gewässer wiederherzustellen, damit die Warnschilder verschwinden können. Mit Programmen wie Swim Guide, Blue Flag und gemeinschaftlichem Wassermonitoring legt sie Wissenschaft, Technologie und Bildung in die Hände der Menschen, die am Wasser leben."
     }
   ],
   "hero": {
     "src": "assets/img/swim-drink-fish/sdf-home-hero.jpg",
     "alt": {
       "en": "Swim Drink Fish, home page hero",
-      "pt": "Swim Drink Fish, hero da home"
+      "pt": "Swim Drink Fish, hero da home",
+      "de": "Swim Drink Fish, Hero der Startseite"
     }
   },
   "goals": {
     "en": "Organize a growing family of programs into one clear, navigable site. Make it easy for each audience (volunteers, water lovers, communities, policymakers and donors) to find their way in and take action, while keeping science and transparency at the center of the brand.",
-    "pt": "Organizar uma família crescente de programas em um site único, claro e fácil de navegar. Facilitar que cada público (voluntários, apaixonados por água, comunidades, gestores públicos e doadores) encontre seu caminho e entre em ação, mantendo ciência e transparência no centro da marca."
+    "pt": "Organizar uma família crescente de programas em um site único, claro e fácil de navegar. Facilitar que cada público (voluntários, apaixonados por água, comunidades, gestores públicos e doadores) encontre seu caminho e entre em ação, mantendo ciência e transparência no centro da marca.",
+    "de": "Eine wachsende Familie von Programmen in einer klaren, leicht navigierbaren Website ordnen. Jeder Zielgruppe (Freiwilligen, Wasserliebhabern, Gemeinden, Entscheidungsträgern und Spendern) den Einstieg und das Handeln leicht machen und dabei Wissenschaft und Transparenz im Zentrum der Marke halten."
   },
   "shots": [
     {
       "src": "assets/img/swim-drink-fish/sdf-home-hero.jpg",
       "alt": {
         "en": "Swim Drink Fish, home page hero",
-        "pt": "Swim Drink Fish, hero da home"
+        "pt": "Swim Drink Fish, hero da home",
+        "de": "Swim Drink Fish, Hero der Startseite"
       }
     },
     {
       "src": "assets/img/swim-drink-fish/sdf-pages.jpg",
       "alt": {
         "en": "Swim Drink Fish, inner pages overview",
-        "pt": "Swim Drink Fish, visão geral das páginas internas"
+        "pt": "Swim Drink Fish, visão geral das páginas internas",
+        "de": "Swim Drink Fish, Übersicht der Unterseiten"
       }
     },
     {
       "src": "assets/img/swim-drink-fish/sdf-sections.jpg",
       "alt": {
         "en": "Swim Drink Fish, key sections",
-        "pt": "Swim Drink Fish, seções principais"
+        "pt": "Swim Drink Fish, seções principais",
+        "de": "Swim Drink Fish, zentrale Bereiche"
       }
     },
     {
       "src": "assets/img/swim-drink-fish/sdf-hero-clean.jpg",
       "alt": {
         "en": "Swim Drink Fish, hero layout",
-        "pt": "Swim Drink Fish, layout do hero"
+        "pt": "Swim Drink Fish, layout do hero",
+        "de": "Swim Drink Fish, Hero-Layout"
       }
     },
     {
       "src": "assets/img/swim-drink-fish/sdf-browser.jpg",
       "alt": {
         "en": "Swim Drink Fish, About section in the browser",
-        "pt": "Swim Drink Fish, seção Sobre no navegador"
+        "pt": "Swim Drink Fish, seção Sobre no navegador",
+        "de": "Swim Drink Fish, Bereich „Über uns“ im Browser"
       }
     }
   ],
   "result": [
     {
       "en": "A website that reads like the water it protects: open, calm and clear. Programs sit under one structure with consistent navigation, so visitors can move from learning about water quality to checking a beach on Swim Guide, volunteering or donating in a few steps. The result gives Swim Drink Fish a digital home that matches the credibility of its science and the warmth of its community.",
-      "pt": "Um site com a cara da água que ele protege: aberto, calmo e claro. Os programas ficam sob uma mesma estrutura com navegação consistente, para que o visitante passe de entender a qualidade da água para consultar uma praia no Swim Guide, ser voluntário ou doar em poucos passos. O resultado dá à Swim Drink Fish uma casa digital à altura da credibilidade da sua ciência e do calor da sua comunidade."
+      "pt": "Um site com a cara da água que ele protege: aberto, calmo e claro. Os programas ficam sob uma mesma estrutura com navegação consistente, para que o visitante passe de entender a qualidade da água para consultar uma praia no Swim Guide, ser voluntário ou doar em poucos passos. O resultado dá à Swim Drink Fish uma casa digital à altura da credibilidade da sua ciência e do calor da sua comunidade.",
+      "de": "Eine Website, die wirkt wie das Wasser, das sie schützt: offen, ruhig und klar. Die Programme liegen unter einer gemeinsamen Struktur mit konsistenter Navigation, sodass Besucher in wenigen Schritten von Informationen zur Wasserqualität dazu übergehen können, einen Strand im Swim Guide zu prüfen, sich zu engagieren oder zu spenden. Das Ergebnis gibt Swim Drink Fish ein digitales Zuhause, das der Glaubwürdigkeit ihrer Wissenschaft und der Wärme ihrer Gemeinschaft gerecht wird."
     }
   ],
   "next": [
@@ -100,7 +116,8 @@
       "img": "assets/img/agape-nyc/agape-tote-street.webp",
       "label": {
         "en": "Agape NYC",
-        "pt": "Agape NYC"
+        "pt": "Agape NYC",
+        "de": "Agape NYC"
       }
     },
     {
@@ -108,7 +125,8 @@
       "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "label": {
         "en": "Menttalis",
-        "pt": "Menttalis"
+        "pt": "Menttalis",
+        "de": "Menttalis"
       }
     },
     {
@@ -116,7 +134,8 @@
       "img": "assets/img/brain-gym/5D7A3457.jpg",
       "label": {
         "en": "Brain Gym",
-        "pt": "Brain Gym"
+        "pt": "Brain Gym",
+        "de": "Brain Gym"
       }
     }
   ],
@@ -125,7 +144,8 @@
     "poster": "assets/img/swim-drink-fish/sdf-video-poster.jpg",
     "alt": {
       "en": "Swim Drink Fish, website launch video",
-      "pt": "Swim Drink Fish, vídeo de lançamento do site"
+      "pt": "Swim Drink Fish, vídeo de lançamento do site",
+      "de": "Swim Drink Fish, Launch-Video der Website"
     }
   }
 }

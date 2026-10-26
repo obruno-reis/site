@@ -5,108 +5,126 @@
     "handle": "@menttalis",
     "title": {
       "en": "Menttalis Mental Health",
-      "pt": "Menttalis Saúde Mental"
+      "pt": "Menttalis Saúde Mental",
+      "de": "Menttalis Mental Health"
     }
   },
   "metaTitle": {
     "en": "Menttalis · Bruno Reis",
-    "pt": "Menttalis · Bruno Reis"
+    "pt": "Menttalis · Bruno Reis",
+    "de": "Menttalis · Bruno Reis"
   },
   "metaDesc": {
     "en": "Branding and digital platform for Menttalis, a mental-health brand by Merari and Gisela Machado. Case study by Bruno Reis.",
-    "pt": "Branding e plataforma digital para a Menttalis, uma marca de saúde mental de Merari e Gisela Machado. Case de Bruno Reis."
+    "pt": "Branding e plataforma digital para a Menttalis, uma marca de saúde mental de Merari e Gisela Machado. Case de Bruno Reis.",
+    "de": "Branding und digitale Plattform für Menttalis, eine Marke für psychische Gesundheit von Merari und Gisela Machado. Case Study von Bruno Reis."
   },
   "title": {
     "en": "Menttalis",
-    "pt": "Menttalis"
+    "pt": "Menttalis",
+    "de": "Menttalis"
   },
   "category": {
     "en": "Branding &amp; Digital Platform",
-    "pt": "Branding &amp; Plataforma Digital"
+    "pt": "Branding &amp; Plataforma Digital",
+    "de": "Branding &amp; digitale Plattform"
   },
   "timeline": {
     "en": "3 weeks",
-    "pt": "3 semanas"
+    "pt": "3 semanas",
+    "de": "3 Wochen"
   },
   "lead": [
     {
       "en": "<strong>Menttalis</strong> is a mental-health clinic that blends neuroscience with everyday habits to raise people's quality of life, caring for each patient as a whole: body, mind, social world, and spirit. Mental health still carries stigma, and an integrative, holistic message can easily read as either cold and clinical or vaguely alternative. Menttalis needed to feel credible and grounded in science while staying warm, human, and modern. So we built the brand from strategy up: positioning, voice, and a visual identity designed to make holistic care feel trustworthy rather than fringe.",
-      "pt": "A <strong>Menttalis</strong> é uma clínica de saúde mental que une neurociência a hábitos do dia a dia para elevar a qualidade de vida das pessoas, cuidando de cada paciente por inteiro: corpo, mente, mundo social e espírito. A saúde mental ainda carrega estigma, e uma mensagem integrativa e holística pode facilmente soar fria e clínica ou vagamente alternativa. A Menttalis precisava parecer confiável e embasada na ciência sem perder o calor humano e a modernidade. Então construímos a marca da estratégia para cima: posicionamento, voz e uma identidade visual pensada para fazer o cuidado holístico parecer confiável, e não marginal."
+      "pt": "A <strong>Menttalis</strong> é uma clínica de saúde mental que une neurociência a hábitos do dia a dia para elevar a qualidade de vida das pessoas, cuidando de cada paciente por inteiro: corpo, mente, mundo social e espírito. A saúde mental ainda carrega estigma, e uma mensagem integrativa e holística pode facilmente soar fria e clínica ou vagamente alternativa. A Menttalis precisava parecer confiável e embasada na ciência sem perder o calor humano e a modernidade. Então construímos a marca da estratégia para cima: posicionamento, voz e uma identidade visual pensada para fazer o cuidado holístico parecer confiável, e não marginal.",
+      "de": "<strong>Menttalis</strong> ist eine Klinik für psychische Gesundheit, die Neurowissenschaft mit alltäglichen Gewohnheiten verbindet, um die Lebensqualität von Menschen zu steigern, und jeden Patienten als Ganzes betrachtet: Körper, Geist, soziales Umfeld und Seele. Psychische Gesundheit ist noch immer stigmatisiert, und eine integrative, ganzheitliche Botschaft wirkt schnell entweder kalt und klinisch oder vage alternativ. Menttalis musste glaubwürdig und wissenschaftlich fundiert wirken und dabei warm, menschlich und modern bleiben. Also haben wir die Marke von der Strategie aus aufgebaut: Positionierung, Tonalität und eine visuelle Identität, die ganzheitliche Versorgung vertrauenswürdig statt randständig wirken lässt."
     }
   ],
   "hero": {
     "src": "assets/img/menttalis/60.jpg",
     "alt": {
       "en": "Menttalis, brand concept with the founders",
-      "pt": "Menttalis, conceito da marca com as fundadoras"
+      "pt": "Menttalis, conceito da marca com as fundadoras",
+      "de": "Menttalis, Markenkonzept mit den Gründerinnen"
     }
   },
   "goals": {
     "en": "Turn a broad, integrative philosophy into a sharp, ownable positioning that stands out in a crowded wellness market. Give the clinic a complete identity that signals scientific rigor and human warmth in the same breath.",
-    "pt": "Transformar uma filosofia ampla e integrativa em um posicionamento afiado e próprio, que se destaca num mercado de bem-estar lotado. Dar à clínica uma identidade completa que sinaliza rigor científico e calor humano no mesmo gesto."
+    "pt": "Transformar uma filosofia ampla e integrativa em um posicionamento afiado e próprio, que se destaca num mercado de bem-estar lotado. Dar à clínica uma identidade completa que sinaliza rigor científico e calor humano no mesmo gesto.",
+    "de": "Eine breite, integrative Philosophie in eine scharfe, eigenständige Positionierung verwandeln, die sich in einem überfüllten Wellness-Markt abhebt. Der Klinik eine vollständige Identität geben, die wissenschaftliche Gründlichkeit und menschliche Wärme in einem Atemzug signalisiert."
   },
   "shots": [
     {
       "src": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "alt": {
         "en": "Menttalis, website home",
-        "pt": "Menttalis, home do site"
+        "pt": "Menttalis, home do site",
+        "de": "Menttalis, Startseite der Website"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-3.jpg",
       "alt": {
         "en": "Menttalis, business card",
-        "pt": "Menttalis, cartão de visita"
+        "pt": "Menttalis, cartão de visita",
+        "de": "Menttalis, Visitenkarte"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-10.jpg",
       "alt": {
         "en": "Menttalis, full stationery",
-        "pt": "Menttalis, papelaria completa"
+        "pt": "Menttalis, papelaria completa",
+        "de": "Menttalis, komplette Geschäftsausstattung"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-7.jpg",
       "alt": {
         "en": "Menttalis, t-shirt with the symbol",
-        "pt": "Menttalis, camiseta com o símbolo"
+        "pt": "Menttalis, camiseta com o símbolo",
+        "de": "Menttalis, T-Shirt mit dem Symbol"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-4.jpg",
       "alt": {
         "en": "Menttalis, insulated bottle",
-        "pt": "Menttalis, garrafa térmica"
+        "pt": "Menttalis, garrafa térmica",
+        "de": "Menttalis, Thermosflasche"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-2.jpg",
       "alt": {
         "en": "Menttalis, social-media posts (four pillars)",
-        "pt": "Menttalis, posts de redes sociais (quatro pilares)"
+        "pt": "Menttalis, posts de redes sociais (quatro pilares)",
+        "de": "Menttalis, Social-Media-Posts (vier Säulen)"
       }
     },
     {
       "src": "assets/img/menttalis/Post-6.jpg",
       "alt": {
         "en": "Menttalis, street panel",
-        "pt": "Menttalis, painel de rua"
+        "pt": "Menttalis, painel de rua",
+        "de": "Menttalis, Straßenplakat"
       }
     },
     {
       "src": "assets/img/menttalis/Case-Menttalis-9.jpg",
       "alt": {
         "en": "Menttalis, full case on tablet",
-        "pt": "Menttalis, case completo no tablet"
+        "pt": "Menttalis, case completo no tablet",
+        "de": "Menttalis, komplette Case Study auf dem Tablet"
       }
     }
   ],
   "result": [
     {
       "en": "A full brand system built on one simple idea: Menttalis means Mind and Habits. The wordmark reads like a personal name, anchored by a custom \"M\" that merges a brain and a balance (equilibrium made visible), supported by a biopsychosocial-spiritual seal and biophilia-inspired gradients that keep the science feeling alive and natural. The strategic foundation carries into every touchpoint, from stationery and social to billboards, giving the clinic a presence as balanced as the care it promises.",
-      "pt": "Um sistema de marca completo construído sobre uma ideia simples: Menttalis significa Mente e Hábitos. O logotipo lê-se como um nome próprio, ancorado por um \"M\" personalizado que funde um cérebro e uma balança (o equilíbrio tornado visível), sustentado por um selo biopsicossocial-espiritual e gradientes inspirados na biofilia que mantêm a ciência viva e natural. A base estratégica se estende a cada ponto de contato, da papelaria e das redes sociais aos outdoors, dando à clínica uma presença tão equilibrada quanto o cuidado que ela promete."
+      "pt": "Um sistema de marca completo construído sobre uma ideia simples: Menttalis significa Mente e Hábitos. O logotipo lê-se como um nome próprio, ancorado por um \"M\" personalizado que funde um cérebro e uma balança (o equilíbrio tornado visível), sustentado por um selo biopsicossocial-espiritual e gradientes inspirados na biofilia que mantêm a ciência viva e natural. A base estratégica se estende a cada ponto de contato, da papelaria e das redes sociais aos outdoors, dando à clínica uma presença tão equilibrada quanto o cuidado que ela promete.",
+      "de": "Ein vollständiges Markensystem, aufgebaut auf einer einfachen Idee: Menttalis bedeutet Geist und Gewohnheiten. Die Wortmarke liest sich wie ein Eigenname, verankert durch ein individuelles „M“, das ein Gehirn und eine Waage verschmilzt (sichtbar gemachtes Gleichgewicht), ergänzt durch ein biopsychosozial-spirituelles Siegel und von Biophilie inspirierte Verläufe, die die Wissenschaft lebendig und natürlich wirken lassen. Das strategische Fundament trägt sich in jeden Berührungspunkt, von Geschäftsausstattung und Social Media bis zu Plakatwänden, und gibt der Klinik einen Auftritt, der so ausgewogen ist wie die Versorgung, die sie verspricht."
     }
   ],
   "next": [
@@ -115,7 +133,8 @@
       "img": "assets/img/dox-ia/Frame-50.jpg",
       "label": {
         "en": "Dox IA",
-        "pt": "Dox IA"
+        "pt": "Dox IA",
+        "de": "Dox IA"
       }
     },
     {
@@ -123,7 +142,8 @@
       "img": "assets/img/brain-gym/5D7A3457.jpg",
       "label": {
         "en": "Brain Gym",
-        "pt": "Brain Gym"
+        "pt": "Brain Gym",
+        "de": "Brain Gym"
       }
     },
     {
@@ -131,7 +151,8 @@
       "img": "assets/img/icim/Frame-19.jpg",
       "label": {
         "en": "Institute CIM",
-        "pt": "Instituto CIM"
+        "pt": "Instituto CIM",
+        "de": "Institute CIM"
       }
     }
   ]

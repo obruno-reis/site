@@ -1,4 +1,4 @@
-// Gerador estático do site (EN agora; PT na Fase 2). Sem dependências.
+// Gerador estático do site (EN, PT e DE). Sem dependências.
 // Uso: node build.js  → gera a pasta dist/
 const fs = require('fs');
 const path = require('path');
@@ -9,7 +9,7 @@ const experimentalTpl = require('./templates/experimental.js');
 
 const ROOT = __dirname;
 const DIST = path.join(ROOT, 'dist');
-const LANGS = ['en', 'pt'];
+const LANGS = ['en', 'pt', 'de'];
 
 const read = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, 'content', p), 'utf8'));
 const common = read('common.json');
@@ -34,6 +34,13 @@ function makeCtx(lang) {
     asset: (p) => '/' + p,
     projectUrl: (slug) => langHome + 'projetos/' + slug + '.html',
   };
+}
+
+// URLs da mesma página em cada idioma (EN na raiz, demais em /<lang>/).
+function altFor(rel) {
+  const alt = {};
+  for (const l of LANGS) alt[l] = (l === 'en' ? '/' : `/${l}/`) + rel;
+  return alt;
 }
 
 function write(rel, content) {
@@ -76,7 +83,7 @@ for (const lang of LANGS) {
       description: ctx.t(home.meta.description),
       bodyClass: 'home',
       italic: true,
-      alt: { en: '/', pt: '/pt/' },
+      alt: altFor(''),
       body: rendered.body,
       scripts: rendered.scripts,
     })
@@ -91,7 +98,7 @@ for (const lang of LANGS) {
       title: ctx.t(experimental.meta.title),
       description: ctx.t(experimental.meta.description),
       italic: false,
-      alt: { en: '/experimental.html', pt: '/pt/experimental.html' },
+      alt: altFor('experimental.html'),
       body: experimentalTpl(ctx, common, experimental),
     })
   );
@@ -106,7 +113,7 @@ for (const lang of LANGS) {
         title: ctx.t(p.metaTitle),
         description: ctx.t(p.metaDesc),
         italic: false,
-        alt: { en: '/projetos/' + p.slug + '.html', pt: '/pt/projetos/' + p.slug + '.html' },
+        alt: altFor('projetos/' + p.slug + '.html'),
         body: projectTpl(ctx, common, p),
       })
     );

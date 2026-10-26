@@ -1,11 +1,18 @@
 // Envelope comum de toda página: <head>, nav e footer.
 const FONTS_ITALIC = 'https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,700;1,800&family=Baskervville&display=swap';
 const FONTS_PLAIN = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Baskervville&display=swap';
-const CSS = '/assets/css/style.css?v=30';
+const CSS = '/assets/css/style.css?v=32';
 const NAVJS = '/assets/js/nav.js?v=2';
-const LANGJS = '/assets/js/lang.js?v=1';
-const AVATARJS = '/assets/js/avatar.js?v=1';
+const LANGJS = '/assets/js/lang.js?v=2';
+const AVATARJS = '/assets/js/avatar.js?v=2';
 const SITE = 'https://brunoreis.cc';
+
+// Metadados por idioma: atributo lang/hreflang, og:locale e nome no seletor.
+const LANG_META = {
+  en: { hl: 'en', og: 'en_US', label: 'English' },
+  pt: { hl: 'pt-BR', og: 'pt_BR', label: 'Português' },
+  de: { hl: 'de', og: 'de_DE', label: 'Deutsch' },
+};
 
 // href de um item de nav: página (path) ou âncora da home (hash).
 function navHref(langHome, n) {
@@ -46,12 +53,13 @@ function avatarWidget(ctx, common) {
       </div>`;
 }
 
-// Seletor EN|PT. `variant` = 'bar' (pílula, desktop) ou 'menu' (dentro do overlay mobile).
+// Seletor EN|PT|DE. `variant` = 'bar' (pílula, desktop) ou 'menu' (dentro do overlay mobile).
 function langSwitch(ctx, alt, variant) {
   const cls = variant === 'menu' ? 'lang-switch lang-switch--menu' : 'lang-switch lang-switch--bar';
-  const opt = (code, url, hl, label) =>
-    `<a href="${url}" class="lang-opt${ctx.lang === code ? ' is-active' : ''}" data-lang="${code}" hreflang="${hl}" aria-label="${label}">${code.toUpperCase()}</a>`;
-  return `<div class="${cls}" role="group" aria-label="Language">${opt('en', alt.en, 'en', 'English')}<span class="lang-sep" aria-hidden="true">/</span>${opt('pt', alt.pt, 'pt-BR', 'Português')}</div>`;
+  const opt = (code) =>
+    `<a href="${alt[code]}" class="lang-opt${ctx.lang === code ? ' is-active' : ''}" data-lang="${code}" hreflang="${LANG_META[code].hl}" aria-label="${LANG_META[code].label}">${code.toUpperCase()}</a>`;
+  const opts = Object.keys(alt).map(opt).join('<span class="lang-sep" aria-hidden="true">/</span>');
+  return `<div class="${cls}" role="group" aria-label="Language">${opts}</div>`;
 }
 
 function nav(ctx, common, alt) {
@@ -109,12 +117,13 @@ ${links}
 }
 
 module.exports = function layout(o) {
-  const { ctx, common, title, description, bodyClass = '', body, italic = false, scripts = '', alt = { en: '/', pt: '/pt/' } } = o;
-  const canonical = ctx.lang === 'pt' ? alt.pt : alt.en;
-  const ogLocale = ctx.lang === 'pt' ? 'pt_BR' : 'en_US';
-  const ogLocaleAlt = ctx.lang === 'pt' ? 'en_US' : 'pt_BR';
+  const { ctx, common, title, description, bodyClass = '', body, italic = false, scripts = '', alt } = o;
+  const canonical = alt[ctx.lang];
+  const others = Object.keys(alt).filter(l => l !== ctx.lang);
+  const hreflangs = Object.keys(alt).map(l => `  <link rel="alternate" hreflang="${LANG_META[l].hl}" href="${SITE}${alt[l]}" />`).join('\n');
+  const ogAlts = others.map(l => `  <meta property="og:locale:alternate" content="${LANG_META[l].og}" />`).join('\n');
   return `<!DOCTYPE html>
-<html lang="${ctx.lang === 'pt' ? 'pt-BR' : 'en'}">
+<html lang="${LANG_META[ctx.lang].hl}">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -126,13 +135,12 @@ module.exports = function layout(o) {
   <title>${title}</title>
   <meta name="description" content="${description}" />
   <link rel="canonical" href="${SITE}${canonical}" />
-  <link rel="alternate" hreflang="en" href="${SITE}${alt.en}" />
-  <link rel="alternate" hreflang="pt-BR" href="${SITE}${alt.pt}" />
+${hreflangs}
   <link rel="alternate" hreflang="x-default" href="${SITE}${alt.en}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Bruno Reis" />
-  <meta property="og:locale" content="${ogLocale}" />
-  <meta property="og:locale:alternate" content="${ogLocaleAlt}" />
+  <meta property="og:locale" content="${LANG_META[ctx.lang].og}" />
+${ogAlts}
   <meta property="og:title" content="${title}" />
   <meta property="og:description" content="${description}" />
   <meta property="og:url" content="${SITE}${canonical}" />

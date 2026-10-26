@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": { "en": "Bruno Reis · Brand systems that close the gap", "pt": "Bruno Reis · Marcas à altura do negócio" },
-    "description": { "en": "I build and rebuild brand systems that close the gap between what your business is and what your brand says it is. Three-week brand sprints, senior-led.", "pt": "Construo e reconstruo sistemas de marca para encurtar a distância entre o que o seu negócio é e o que a sua marca comunica. Brand sprints de três semanas, conduzidos por um sênior." }
+    "title": { "en": "Bruno Reis · Brand systems that close the gap", "pt": "Bruno Reis · Marcas à altura do negócio", "de": "Bruno Reis · Markensysteme, die die Lücke schließen" },
+    "description": { "en": "I build and rebuild brand systems that close the gap between what your business is and what your brand says it is. Three-week brand sprints, senior-led.", "pt": "Construo e reconstruo sistemas de marca para encurtar a distância entre o que o seu negócio é e o que a sua marca comunica. Brand sprints de três semanas, conduzidos por um sênior.", "de": "Ich entwickle und erneuere Markensysteme, die die Lücke schließen zwischen dem, was Ihr Unternehmen ist, und dem, was Ihre Marke darüber sagt. Dreiwöchige Brand Sprints, von einem Senior geführt." }
   },
-  "marquee": { "en": "Three weeks from complexity to clarity.", "pt": "Da complexidade à clareza. Em três semanas." },
+  "marquee": { "en": "Three weeks from complexity to clarity.", "pt": "Da complexidade à clareza. Em três semanas.", "de": "Drei Wochen von Komplexität zu Klarheit." },
 
   "hero": {
     "lines": {
@@ -16,115 +16,120 @@
         "Sua marca deveria ser",
         "tão boa quanto",
         "<i>o seu negócio.</i>"
+      ],
+      "de": [
+        "Ihre Marke sollte",
+        "so gut sein wie",
+        "<i>Ihr Unternehmen.</i>"
       ]
     },
-    "sub": { "en": "Most companies are better than they look. I build and rebuild brand systems that close that gap. Positioning, identity and the system your team actually runs on. Three weeks, senior-led, direct with me.", "pt": "A maioria das empresas é melhor do que aparenta. Eu construo e reconstruo sistemas de marca que encurtam essa distância. Posicionamento, identidade e o sistema que o seu time realmente usa no dia a dia. Três semanas, conduzido por um sênior, direto comigo." },
-    "ctaPrimary": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" },
-    "ctaWork": { "en": "See the work", "pt": "Ver os trabalhos" }
+    "sub": { "en": "Most companies are better than they look. I build and rebuild brand systems that close that gap. Positioning, identity and the system your team actually runs on. Three weeks, senior-led, direct with me.", "pt": "A maioria das empresas é melhor do que aparenta. Eu construo e reconstruo sistemas de marca que encurtam essa distância. Posicionamento, identidade e o sistema que o seu time realmente usa no dia a dia. Três semanas, conduzido por um sênior, direto comigo.", "de": "Die meisten Unternehmen sind besser, als sie aussehen. Ich entwickle und erneuere Markensysteme, die diese Lücke schließen. Positionierung, Identität und das System, mit dem Ihr Team tatsächlich arbeitet. Drei Wochen, von einem Senior geführt, direkt mit mir." },
+    "ctaPrimary": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min", "de": "20-Min-Kennenlerngespräch buchen" },
+    "ctaWork": { "en": "See the work", "pt": "Ver os trabalhos", "de": "Arbeiten ansehen" }
   },
 
   "proof": {
-    "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar." },
+    "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar.", "de": "Bruno macht aus komplexen Ideen eine Marke, die klar, stimmig und leicht zu kommunizieren ist." },
     "author": "Merari Machado",
-    "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis" }
+    "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis", "de": "Gründer, Menttalis" }
   },
 
   "tried": {
-    "eyebrow": { "en": "// What usually gets tried first", "pt": "// O que costumam tentar primeiro" },
-    "title": { "en": "More content. More ads. Another freelancer. A new website.", "pt": "Mais conteúdo. Mais anúncios. Outro freelancer. Um site novo." },
+    "eyebrow": { "en": "// What usually gets tried first", "pt": "// O que costumam tentar primeiro", "de": "// Was meist zuerst versucht wird" },
+    "title": { "en": "More content. More ads. Another freelancer. A new website.", "pt": "Mais conteúdo. Mais anúncios. Outro freelancer. Um site novo.", "de": "Mehr Content. Mehr Anzeigen. Noch ein Freelancer. Eine neue Website." },
     "video": "assets/img/usually/social_u1536662333_Complexity_layers_--ar_184103_--video_1_--end_loo_e211cf1e-eb7b-4297-8695-3ea55980c851_2.mp4",
     "lines": [
-      { "en": "Those amplify a message. They don't create one.", "pt": "Isso tudo amplifica uma mensagem. Não cria nenhuma." },
-      { "en": "If the brand underneath isn't strategically defined, more marketing usually means more noise, not more perceived value.", "pt": "Se a marca por trás não estiver estrategicamente definida, mais marketing costuma virar mais ruído, não mais valor percebido." }
+      { "en": "Those amplify a message. They don't create one.", "pt": "Isso tudo amplifica uma mensagem. Não cria nenhuma.", "de": "All das verstärkt eine Botschaft. Es erschafft keine." },
+      { "en": "If the brand underneath isn't strategically defined, more marketing usually means more noise, not more perceived value.", "pt": "Se a marca por trás não estiver estrategicamente definida, mais marketing costuma virar mais ruído, não mais valor percebido.", "de": "Wenn die Marke darunter nicht strategisch definiert ist, bedeutet mehr Marketing meist mehr Lärm, nicht mehr wahrgenommenen Wert." }
     ]
   },
 
   "services": {
-    "eyebrow": { "en": "// What I do", "pt": "// O que eu faço" },
-    "title": { "en": "I close the gap between what your business is and what your brand says it is.", "pt": "Faço a sua marca comunicar o que o seu negócio realmente é." },
-    "lead": { "en": "The goal isn't to make the company look bigger. It's to make the brand communicate the value that's already there.", "pt": "O objetivo não é fazer a empresa parecer maior. É fazer a marca comunicar o valor que já existe." },
+    "eyebrow": { "en": "// What I do", "pt": "// O que eu faço", "de": "// Was ich mache" },
+    "title": { "en": "I close the gap between what your business is and what your brand says it is.", "pt": "Faço a sua marca comunicar o que o seu negócio realmente é.", "de": "Ich schließe die Lücke zwischen dem, was Ihr Unternehmen ist, und dem, was Ihre Marke darüber sagt." },
+    "lead": { "en": "The goal isn't to make the company look bigger. It's to make the brand communicate the value that's already there.", "pt": "O objetivo não é fazer a empresa parecer maior. É fazer a marca comunicar o valor que já existe.", "de": "Es geht nicht darum, das Unternehmen größer wirken zu lassen. Sondern darum, dass die Marke den Wert kommuniziert, der bereits da ist." },
     "cards": [
-      { "num": "01", "bg": "assets/img/gw/gw-01.jpg", "title": { "en": "Strategy", "pt": "Estratégia" }, "text": { "en": "Positioning, audience, story and the decisions everything else depends on.", "pt": "Posicionamento, público, narrativa e as decisões das quais todo o resto depende." } },
-      { "num": "02", "bg": "assets/img/ctc/6.jpg", "title": { "en": "Identity", "pt": "Identidade" }, "text": { "en": "The visual and verbal system, built to be used, not admired.", "pt": "O sistema visual e verbal, feito para ser usado, não admirado." } },
-      { "num": "03", "bg": "assets/img/services/offer-design.jpg", "title": { "en": "Application", "pt": "Aplicação" }, "text": { "en": "Website, offers and content structure, so the system survives contact with reality.", "pt": "Site, ofertas e estrutura de conteúdo, para o sistema sobreviver ao contato com a realidade." } }
+      { "num": "01", "bg": "assets/img/gw/gw-01.jpg", "title": { "en": "Strategy", "pt": "Estratégia", "de": "Strategie" }, "text": { "en": "Positioning, audience, story and the decisions everything else depends on.", "pt": "Posicionamento, público, narrativa e as decisões das quais todo o resto depende.", "de": "Positionierung, Zielgruppe, Story und die Entscheidungen, von denen alles andere abhängt." } },
+      { "num": "02", "bg": "assets/img/ctc/6.jpg", "title": { "en": "Identity", "pt": "Identidade", "de": "Identität" }, "text": { "en": "The visual and verbal system, built to be used, not admired.", "pt": "O sistema visual e verbal, feito para ser usado, não admirado.", "de": "Das visuelle und sprachliche System, gemacht, um benutzt zu werden, nicht um bewundert zu werden." } },
+      { "num": "03", "bg": "assets/img/services/offer-design.jpg", "title": { "en": "Application", "pt": "Aplicação", "de": "Anwendung" }, "text": { "en": "Website, offers and content structure, so the system survives contact with reality.", "pt": "Site, ofertas e estrutura de conteúdo, para o sistema sobreviver ao contato com a realidade.", "de": "Website, Angebote und Content-Struktur, damit das System den Kontakt mit der Realität übersteht." } }
     ]
   },
 
   "process": {
-    "eyebrow": { "en": "// The process", "pt": "// O processo" },
-    "title": { "en": "Three weeks, start to finish.", "pt": "Três semanas, do início ao fim." },
+    "eyebrow": { "en": "// The process", "pt": "// O processo", "de": "// Der Prozess" },
+    "title": { "en": "Three weeks, start to finish.", "pt": "Três semanas, do início ao fim.", "de": "Drei Wochen, von Anfang bis Ende." },
     "steps": [
-      { "num": "01", "title": { "en": "Clarify", "pt": "Clareza" }, "text": { "en": "We go deep on the business, the market and where the brand stopped representing it. You leave the week with a defined position, not a mood.", "pt": "Mergulhamos no negócio, no mercado e no ponto em que a marca deixou de representá-lo. Você termina a semana com um posicionamento definido, não uma vaga sensação." } },
-      { "num": "02", "title": { "en": "Direction", "pt": "Direção" }, "text": { "en": "Strategy becomes form. One direction, developed properly, refined live with you, not three options for you to guess between.", "pt": "A estratégia vira forma. Uma direção, desenvolvida de verdade, refinada ao vivo com você, não três opções para você adivinhar qual escolher." } },
-      { "num": "03", "title": { "en": "System", "pt": "Sistema" }, "text": { "en": "Identity, rules and applications. You get a brand your team can use without asking me what to do next.", "pt": "Identidade, regras e aplicações. Você recebe uma marca que o seu time consegue usar sem precisar me perguntar o próximo passo." } }
+      { "num": "01", "title": { "en": "Clarify", "pt": "Clareza", "de": "Klären" }, "text": { "en": "We go deep on the business, the market and where the brand stopped representing it. You leave the week with a defined position, not a mood.", "pt": "Mergulhamos no negócio, no mercado e no ponto em que a marca deixou de representá-lo. Você termina a semana com um posicionamento definido, não uma vaga sensação.", "de": "Wir tauchen tief ein in das Geschäft, den Markt und den Punkt, an dem die Marke aufgehört hat, es zu repräsentieren. Sie gehen aus der Woche mit einer klaren Positionierung, nicht mit einem Stimmungsbild." } },
+      { "num": "02", "title": { "en": "Direction", "pt": "Direção", "de": "Richtung" }, "text": { "en": "Strategy becomes form. One direction, developed properly, refined live with you, not three options for you to guess between.", "pt": "A estratégia vira forma. Uma direção, desenvolvida de verdade, refinada ao vivo com você, não três opções para você adivinhar qual escolher.", "de": "Strategie wird Form. Eine Richtung, sauber ausgearbeitet und live mit Ihnen verfeinert, statt drei Optionen, zwischen denen Sie raten müssen." } },
+      { "num": "03", "title": { "en": "System", "pt": "Sistema", "de": "System" }, "text": { "en": "Identity, rules and applications. You get a brand your team can use without asking me what to do next.", "pt": "Identidade, regras e aplicações. Você recebe uma marca que o seu time consegue usar sem precisar me perguntar o próximo passo.", "de": "Identität, Regeln und Anwendungen. Sie bekommen eine Marke, die Ihr Team nutzen kann, ohne mich nach dem nächsten Schritt fragen zu müssen." } }
     ],
-    "whyTitle": { "en": "Why this doesn't take three months", "pt": "Por que isso não leva três meses" },
-    "why": { "en": "You work with one senior designer. Decisions happen in the call, not in a review cycle. The scope is fixed on day one. Speed here is a consequence of experience, not a reduction of it.", "pt": "Você trabalha com um único designer sênior. As decisões acontecem na call, não em um ciclo de revisões. O escopo é fixado no primeiro dia. A velocidade aqui é consequência de experiência, não redução dela." },
-    "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" }
+    "whyTitle": { "en": "Why this doesn't take three months", "pt": "Por que isso não leva três meses", "de": "Warum das keine drei Monate dauert" },
+    "why": { "en": "You work with one senior designer. Decisions happen in the call, not in a review cycle. The scope is fixed on day one. Speed here is a consequence of experience, not a reduction of it.", "pt": "Você trabalha com um único designer sênior. As decisões acontecem na call, não em um ciclo de revisões. O escopo é fixado no primeiro dia. A velocidade aqui é consequência de experiência, não redução dela.", "de": "Sie arbeiten mit einem einzigen Senior Designer. Entscheidungen fallen im Call, nicht in einer Feedbackschleife. Der Umfang steht am ersten Tag fest. Tempo ist hier eine Folge von Erfahrung, nicht ein Verzicht darauf." },
+    "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min", "de": "20-Min-Kennenlerngespräch buchen" }
   },
 
   "projects": {
-    "eyebrow": { "en": "// Proof", "pt": "// Prova" },
-    "title": { "en": "The gap, closed.", "pt": "A distância, encurtada." },
-    "lead": { "en": "Brand systems built for teams in mental health, education, care and digital products.", "pt": "Sistemas de marca para times de saúde mental, educação, cuidado e produtos digitais." }
+    "eyebrow": { "en": "// Proof", "pt": "// Prova", "de": "// Belege" },
+    "title": { "en": "The gap, closed.", "pt": "A distância, encurtada.", "de": "Die Lücke, geschlossen." },
+    "lead": { "en": "Brand systems built for teams in mental health, education, care and digital products.", "pt": "Sistemas de marca para times de saúde mental, educação, cuidado e produtos digitais.", "de": "Markensysteme für Teams aus psychischer Gesundheit, Bildung, Pflege und digitalen Produkten." }
   },
 
   "about": {
     "photo": "assets/img/about/bruno.jpg",
-    "photoAlt": { "en": "Bruno Reis", "pt": "Bruno Reis" },
-    "title": { "en": "You don't hire my years of experience. You hire the judgment they gave me.", "pt": "Você não contrata meus anos de experiência. Contrata o julgamento que eles me deram." },
+    "photoAlt": { "en": "Bruno Reis", "pt": "Bruno Reis", "de": "Bruno Reis" },
+    "title": { "en": "You don't hire my years of experience. You hire the judgment they gave me.", "pt": "Você não contrata meus anos de experiência. Contrata o julgamento que eles me deram.", "de": "Sie engagieren nicht meine Berufsjahre. Sie engagieren das Urteilsvermögen, das sie mir gegeben haben." },
     "paras": [
-      { "en": "Strong brands aren't built with noise. They're built with focus, judgment and the courage to decide.", "pt": "Marcas fortes não se constroem com barulho. Elas se constroem com foco, critério e a coragem de decidir." },
-      { "en": "You work directly with me. No account layer translating your business to someone else. No strategy handed down to a junior. No endless rounds of subjective revision. No inflated framework built to look strategic.", "pt": "Você trabalha diretamente comigo. Sem uma camada de atendimento traduzindo o seu negócio para outra pessoa. Sem estratégia repassada para um júnior. Sem rodadas intermináveis de revisão subjetiva. Sem framework inflado feito para parecer estratégico." },
-      { "en": "Clarity, structure and execution.", "pt": "Clareza, estrutura e execução." }
+      { "en": "Strong brands aren't built with noise. They're built with focus, judgment and the courage to decide.", "pt": "Marcas fortes não se constroem com barulho. Elas se constroem com foco, critério e a coragem de decidir.", "de": "Starke Marken entstehen nicht durch Lärm. Sie entstehen durch Fokus, Urteilsvermögen und den Mut, zu entscheiden." },
+      { "en": "You work directly with me. No account layer translating your business to someone else. No strategy handed down to a junior. No endless rounds of subjective revision. No inflated framework built to look strategic.", "pt": "Você trabalha diretamente comigo. Sem uma camada de atendimento traduzindo o seu negócio para outra pessoa. Sem estratégia repassada para um júnior. Sem rodadas intermináveis de revisão subjetiva. Sem framework inflado feito para parecer estratégico.", "de": "Sie arbeiten direkt mit mir. Keine Account-Ebene, die Ihr Geschäft für jemand anderen übersetzt. Keine Strategie, die an einen Junior weitergereicht wird. Keine endlosen Runden subjektiver Korrekturen. Kein aufgeblähtes Framework, das nur strategisch aussehen soll." },
+      { "en": "Clarity, structure and execution.", "pt": "Clareza, estrutura e execução.", "de": "Klarheit, Struktur und Umsetzung." }
     ]
   },
 
   "testimonials": {
     "headImg": "assets/img/clients/cliente.jpg",
-    "headImgAlt": { "en": "Client work, Brain Gym", "pt": "Trabalho para cliente, Brain Gym" },
-    "eyebrow": { "en": "// Testimonials", "pt": "// Depoimentos" },
-    "title": { "en": "Client Reviews", "pt": "O que dizem os clientes" },
-    "lead": { "en": "Real feedback from clients who trusted my design expertise to elevate their brands successfully.", "pt": "Feedback real de clientes que confiaram no meu trabalho de design para elevar suas marcas." },
+    "headImgAlt": { "en": "Client work, Brain Gym", "pt": "Trabalho para cliente, Brain Gym", "de": "Kundenprojekt, Brain Gym" },
+    "eyebrow": { "en": "// Testimonials", "pt": "// Depoimentos", "de": "// Referenzen" },
+    "title": { "en": "Client Reviews", "pt": "O que dizem os clientes", "de": "Kundenstimmen" },
+    "lead": { "en": "Real feedback from clients who trusted my design expertise to elevate their brands successfully.", "pt": "Feedback real de clientes que confiaram no meu trabalho de design para elevar suas marcas.", "de": "Echtes Feedback von Kunden, die meiner Designkompetenz vertraut haben, um ihre Marken erfolgreich weiterzuentwickeln." },
     "items": [
-      { "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate. The process brought direction to decisions that used to feel disconnected.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar. O processo trouxe direção para decisões que antes pareciam desconexas." }, "name": "Merari Machado", "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis" }, "avatar": "assets/img/testimonials/merari-machado.jpg" },
-      { "quote": { "en": "It's rare to find a designer who thinks about the business first and aesthetics second. Bruno delivers beautiful solutions because they make sense, not just because they catch the eye.", "pt": "É raro encontrar um designer que pensa primeiro no negócio e depois na estética. O Bruno entrega soluções bonitas porque fazem sentido, não só porque chamam a atenção." }, "name": "Daniela Nery", "role": { "en": "CMO, FindUP", "pt": "CMO, FindUP" }, "avatar": "assets/img/testimonials/daniela-nery.jpeg" },
-      { "quote": { "en": "Bruno's work conveys exactly what we were looking for: clarity, credibility and consistency. Every decision feels like it has a purpose.", "pt": "O trabalho do Bruno transmite exatamente o que buscávamos: clareza, credibilidade e consistência. Cada decisão parece ter um propósito." }, "name": "Dr. Thiago Castro", "role": { "en": "CEO, Castro Group", "pt": "CEO, Castro Group" }, "avatar": "assets/img/testimonials/thiago-castro.jpeg" },
-      { "quote": { "en": "Bruno brought clarity to the way we present Med+. The result is a more consistent brand, aligned with the company's vision and ready to grow.", "pt": "O Bruno trouxe clareza para a forma como apresentamos a Med+. O resultado é uma marca mais consistente, alinhada à visão da empresa e pronta para crescer." }, "name": "Victor Reis", "role": { "en": "President, Med+", "pt": "Presidente, Med+" }, "avatar": "assets/img/testimonials/vitor-reis.jpg" },
-      { "quote": { "en": "Working with Bruno means having someone who understands the context before proposing any solution. It makes the whole process smoother and the deliverables far more on-point.", "pt": "Trabalhar com o Bruno é ter alguém que entende o contexto antes de propor qualquer solução. Isso deixa todo o processo mais leve e as entregas muito mais certeiras." }, "name": "Regina Luíza", "role": { "en": "Marketing Manager, Med+", "pt": "Gerente de Marketing, Med+" }, "avatar": "assets/img/testimonials/regina-luiza.jpeg" }
+      { "quote": { "en": "Bruno turns complex ideas into a brand that's clear, coherent and easy to communicate. The process brought direction to decisions that used to feel disconnected.", "pt": "O Bruno transforma ideias complexas em uma marca clara, coerente e fácil de comunicar. O processo trouxe direção para decisões que antes pareciam desconexas.", "de": "Bruno macht aus komplexen Ideen eine Marke, die klar, stimmig und leicht zu kommunizieren ist. Der Prozess hat Entscheidungen, die vorher unverbunden wirkten, eine Richtung gegeben." }, "name": "Merari Machado", "role": { "en": "Founder, Menttalis", "pt": "Fundador, Menttalis", "de": "Gründer, Menttalis" }, "avatar": "assets/img/testimonials/merari-machado.jpg" },
+      { "quote": { "en": "It's rare to find a designer who thinks about the business first and aesthetics second. Bruno delivers beautiful solutions because they make sense, not just because they catch the eye.", "pt": "É raro encontrar um designer que pensa primeiro no negócio e depois na estética. O Bruno entrega soluções bonitas porque fazem sentido, não só porque chamam a atenção.", "de": "Selten findet man einen Designer, der zuerst an das Geschäft denkt und dann an die Ästhetik. Bruno liefert schöne Lösungen, weil sie Sinn ergeben, nicht nur, weil sie ins Auge fallen." }, "name": "Daniela Nery", "role": { "en": "CMO, FindUP", "pt": "CMO, FindUP", "de": "CMO, FindUP" }, "avatar": "assets/img/testimonials/daniela-nery.jpeg" },
+      { "quote": { "en": "Bruno's work conveys exactly what we were looking for: clarity, credibility and consistency. Every decision feels like it has a purpose.", "pt": "O trabalho do Bruno transmite exatamente o que buscávamos: clareza, credibilidade e consistência. Cada decisão parece ter um propósito.", "de": "Brunos Arbeit vermittelt genau das, wonach wir gesucht haben: Klarheit, Glaubwürdigkeit und Konsistenz. Jede Entscheidung wirkt durchdacht." }, "name": "Dr. Thiago Castro", "role": { "en": "CEO, Castro Group", "pt": "CEO, Castro Group", "de": "CEO, Castro Group" }, "avatar": "assets/img/testimonials/thiago-castro.jpeg" },
+      { "quote": { "en": "Bruno brought clarity to the way we present Med+. The result is a more consistent brand, aligned with the company's vision and ready to grow.", "pt": "O Bruno trouxe clareza para a forma como apresentamos a Med+. O resultado é uma marca mais consistente, alinhada à visão da empresa e pronta para crescer.", "de": "Bruno hat Klarheit in die Art gebracht, wie wir Med+ präsentieren. Das Ergebnis ist eine konsistentere Marke, die zur Vision des Unternehmens passt und bereit zum Wachsen ist." }, "name": "Victor Reis", "role": { "en": "President, Med+", "pt": "Presidente, Med+", "de": "Präsident, Med+" }, "avatar": "assets/img/testimonials/vitor-reis.jpg" },
+      { "quote": { "en": "Working with Bruno means having someone who understands the context before proposing any solution. It makes the whole process smoother and the deliverables far more on-point.", "pt": "Trabalhar com o Bruno é ter alguém que entende o contexto antes de propor qualquer solução. Isso deixa todo o processo mais leve e as entregas muito mais certeiras.", "de": "Mit Bruno zu arbeiten heißt, jemanden zu haben, der den Kontext versteht, bevor er eine Lösung vorschlägt. Das macht den ganzen Prozess reibungsloser und die Ergebnisse deutlich treffsicherer." }, "name": "Regina Luíza", "role": { "en": "Marketing Manager, Med+", "pt": "Gerente de Marketing, Med+", "de": "Marketing Managerin, Med+" }, "avatar": "assets/img/testimonials/regina-luiza.jpeg" }
     ]
   },
 
   "whoFor": {
-    "eyebrow": { "en": "// Fit", "pt": "// Fit" },
-    "title": { "en": "Who this is for.", "pt": "Para quem isso faz sentido." },
-    "goodTitle": { "en": "This works well when", "pt": "Funciona bem quando" },
+    "eyebrow": { "en": "// Fit", "pt": "// Fit", "de": "// Passung" },
+    "title": { "en": "Who this is for.", "pt": "Para quem isso faz sentido.", "de": "Für wen das ist." },
+    "goodTitle": { "en": "This works well when", "pt": "Funciona bem quando", "de": "Das funktioniert gut, wenn" },
     "goodItems": [
-      { "en": "There's one or two decision makers.", "pt": "Há um ou dois tomadores de decisão." },
-      { "en": "The business is proven or clearly headed there.", "pt": "O negócio já se provou ou está claramente indo nessa direção." },
-      { "en": "You want a partner in the decision, not a supplier for the output.", "pt": "Você quer um parceiro na decisão, não um fornecedor para a execução." }
+      { "en": "There's one or two decision makers.", "pt": "Há um ou dois tomadores de decisão.", "de": "es ein oder zwei Entscheider gibt." },
+      { "en": "The business is proven or clearly headed there.", "pt": "O negócio já se provou ou está claramente indo nessa direção.", "de": "das Geschäft sich bewährt hat oder klar auf dem Weg dahin ist." },
+      { "en": "You want a partner in the decision, not a supplier for the output.", "pt": "Você quer um parceiro na decisão, não um fornecedor para a execução.", "de": "Sie einen Partner für die Entscheidung suchen, nicht einen Lieferanten für das Ergebnis." }
     ],
-    "badTitle": { "en": "This isn't the right fit when", "pt": "Não é o fit certo quando" },
+    "badTitle": { "en": "This isn't the right fit when", "pt": "Não é o fit certo quando", "de": "Das passt nicht, wenn" },
     "badItems": [
-      { "en": "You need execution only, from a brief that's already closed.", "pt": "Você precisa só de execução, a partir de um briefing já fechado." },
-      { "en": "The decision needs alignment across five stakeholders.", "pt": "A decisão precisa de alinhamento entre cinco stakeholders." },
-      { "en": "You're primarily optimising for the lowest possible price.", "pt": "Sua prioridade é o menor preço possível, não a decisão certa." }
+      { "en": "You need execution only, from a brief that's already closed.", "pt": "Você precisa só de execução, a partir de um briefing já fechado.", "de": "Sie nur Umsetzung nach einem bereits fertigen Briefing brauchen." },
+      { "en": "The decision needs alignment across five stakeholders.", "pt": "A decisão precisa de alinhamento entre cinco stakeholders.", "de": "die Entscheidung die Abstimmung von fünf Stakeholdern braucht." },
+      { "en": "You're primarily optimising for the lowest possible price.", "pt": "Sua prioridade é o menor preço possível, não a decisão certa.", "de": "Sie vor allem auf den niedrigsten Preis optimieren." }
     ]
   },
 
   "faq": {
-    "eyebrow": { "en": "// FAQ", "pt": "// Dúvidas" },
-    "title": { "en": "Questions you might not ask.", "pt": "Perguntas que você talvez não faça." },
+    "eyebrow": { "en": "// FAQ", "pt": "// Dúvidas", "de": "// FAQ" },
+    "title": { "en": "Questions you might not ask.", "pt": "Perguntas que você talvez não faça.", "de": "Fragen, die Sie vielleicht nicht stellen." },
     "items": [
-      { "q": { "en": "Three weeks, really?", "pt": "Três semanas, sério?" }, "a": { "en": "Yes, with a fixed scope defined before we start. The speed comes from working with one senior person who makes decisions in the room, not from doing less thinking.", "pt": "Sim, com um escopo fixo definido antes de começar. A velocidade vem de trabalhar com uma única pessoa sênior que decide na hora, não de pensar menos." } },
-      { "q": { "en": "What if we need more than what's in the sprint?", "pt": "E se precisarmos de mais do que está no sprint?" }, "a": { "en": "Website, offer design and rollout are modules on top of the system. We define what you need before we start, so nothing gets discovered halfway.", "pt": "Site, design de oferta e implementação são módulos em cima do sistema. Definimos o que você precisa antes de começar, para nada aparecer no meio do caminho." } },
-      { "q": { "en": "How many revisions?", "pt": "Quantas revisões?" }, "a": { "en": "We refine in real time, together, during the process. That replaces revision rounds instead of adding to them.", "pt": "A gente refina em tempo real, juntos, durante o processo. Isso substitui as rodadas de revisão em vez de somar a elas." } }
+      { "q": { "en": "Three weeks, really?", "pt": "Três semanas, sério?", "de": "Drei Wochen, wirklich?" }, "a": { "en": "Yes, with a fixed scope defined before we start. The speed comes from working with one senior person who makes decisions in the room, not from doing less thinking.", "pt": "Sim, com um escopo fixo definido antes de começar. A velocidade vem de trabalhar com uma única pessoa sênior que decide na hora, não de pensar menos.", "de": "Ja, mit einem festen Umfang, der vor dem Start definiert wird. Das Tempo kommt daher, dass Sie mit einer einzigen Senior-Person arbeiten, die im Raum entscheidet, nicht daher, dass weniger nachgedacht wird." } },
+      { "q": { "en": "What if we need more than what's in the sprint?", "pt": "E se precisarmos de mais do que está no sprint?", "de": "Und wenn wir mehr brauchen, als im Sprint enthalten ist?" }, "a": { "en": "Website, offer design and rollout are modules on top of the system. We define what you need before we start, so nothing gets discovered halfway.", "pt": "Site, design de oferta e implementação são módulos em cima do sistema. Definimos o que você precisa antes de começar, para nada aparecer no meio do caminho.", "de": "Website, Angebotsdesign und Rollout sind Module, die auf dem System aufbauen. Wir legen vor dem Start fest, was Sie brauchen, damit unterwegs nichts überraschend dazukommt." } },
+      { "q": { "en": "How many revisions?", "pt": "Quantas revisões?", "de": "Wie viele Korrekturschleifen?" }, "a": { "en": "We refine in real time, together, during the process. That replaces revision rounds instead of adding to them.", "pt": "A gente refina em tempo real, juntos, durante o processo. Isso substitui as rodadas de revisão em vez de somar a elas.", "de": "Wir verfeinern in Echtzeit, gemeinsam, während des Prozesses. Das ersetzt Korrekturrunden, statt welche hinzuzufügen." } }
     ]
   },
 
   "contact": {
-    "title": { "en": "If your brand no longer represents your business, that's fixable.", "pt": "Se a sua marca não representa mais o seu negócio, isso tem conserto." },
-    "text": { "en": "And it doesn't take months. Book a 20-minute call. We'll look at where the gap is and whether this is the right next step. If I'm not the right person for it, I'll tell you on the call.", "pt": "E não leva meses. Agende uma conversa de 20 minutos. Vamos olhar onde está a distância e se esse é o próximo passo certo. Se eu não for a pessoa certa, eu te digo na própria call." },
-    "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min" }
+    "title": { "en": "If your brand no longer represents your business, that's fixable.", "pt": "Se a sua marca não representa mais o seu negócio, isso tem conserto.", "de": "Wenn Ihre Marke Ihr Unternehmen nicht mehr repräsentiert, lässt sich das ändern." },
+    "text": { "en": "And it doesn't take months. Book a 20-minute call. We'll look at where the gap is and whether this is the right next step. If I'm not the right person for it, I'll tell you on the call.", "pt": "E não leva meses. Agende uma conversa de 20 minutos. Vamos olhar onde está a distância e se esse é o próximo passo certo. Se eu não for a pessoa certa, eu te digo na própria call.", "de": "Und es dauert keine Monate. Buchen Sie ein 20-minütiges Gespräch. Wir schauen, wo die Lücke liegt und ob das der richtige nächste Schritt ist. Wenn ich nicht die richtige Person dafür bin, sage ich es Ihnen im Gespräch." },
+    "cta": { "en": "Book a 20-min fit call", "pt": "Agende uma conversa de 20 min", "de": "20-Min-Kennenlerngespräch buchen" }
   }
 }

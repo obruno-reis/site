@@ -5,112 +5,131 @@
     "coverStyle": "object-position:44% 50%;",
     "handle": {
       "en": "Psychotherapy",
-      "pt": "Psicoterapia"
+      "pt": "Psicoterapia",
+      "de": "Psychotherapie"
     },
     "title": {
       "en": "Vitor Santos",
-      "pt": "Vitor Santos"
+      "pt": "Vitor Santos",
+      "de": "Vitor Santos"
     }
   },
   "metaTitle": {
     "en": "Vitor Santos · Bruno Reis",
-    "pt": "Vitor Santos · Bruno Reis"
+    "pt": "Vitor Santos · Bruno Reis",
+    "de": "Vitor Santos · Bruno Reis"
   },
   "metaDesc": {
     "en": "Brand identity for Vitor Santos, psychotherapist and consultant for leaders. Case study by Bruno Reis.",
-    "pt": "Identidade de marca para Vitor Santos, psicoterapeuta e consultor para líderes. Case de Bruno Reis."
+    "pt": "Identidade de marca para Vitor Santos, psicoterapeuta e consultor para líderes. Case de Bruno Reis.",
+    "de": "Markenidentität für Vitor Santos, Psychotherapeut und Berater für Führungskräfte. Case Study von Bruno Reis."
   },
   "title": {
     "en": "Vitor Santos",
-    "pt": "Vitor Santos"
+    "pt": "Vitor Santos",
+    "de": "Vitor Santos"
   },
   "category": {
     "en": "Branding &amp; Visual Identity",
-    "pt": "Branding &amp; Identidade Visual"
+    "pt": "Branding &amp; Identidade Visual",
+    "de": "Branding &amp; visuelle Identität"
   },
   "timeline": {
     "en": "3 weeks",
-    "pt": "3 semanas"
+    "pt": "3 semanas",
+    "de": "3 Wochen"
   },
   "lead": [
     {
       "en": "<strong>Vitor Santos</strong> is a psychotherapist and consultant for leaders. His work isn't about fixing what's wrong. It's about opening what was closed, helping people understand themselves before trying to improve. The brand had to carry that depth: introspective and philosophical, yet clear and grounded. So we built an identity around a single gesture: the act of opening.",
-      "pt": "<strong>Vitor Santos</strong> é psicoterapeuta e consultor para líderes. Seu trabalho não é sobre consertar o que está errado. É sobre abrir o que estava fechado, ajudando as pessoas a se entenderem antes de tentar melhorar. A marca precisava carregar essa profundidade: introspectiva e filosófica, mas clara e firme. Então construímos uma identidade em torno de um único gesto: o ato de abrir."
+      "pt": "<strong>Vitor Santos</strong> é psicoterapeuta e consultor para líderes. Seu trabalho não é sobre consertar o que está errado. É sobre abrir o que estava fechado, ajudando as pessoas a se entenderem antes de tentar melhorar. A marca precisava carregar essa profundidade: introspectiva e filosófica, mas clara e firme. Então construímos uma identidade em torno de um único gesto: o ato de abrir.",
+      "de": "<strong>Vitor Santos</strong> ist Psychotherapeut und Berater für Führungskräfte. In seiner Arbeit geht es nicht darum, zu reparieren, was falsch ist. Es geht darum, zu öffnen, was verschlossen war, und Menschen zu helfen, sich selbst zu verstehen, bevor sie versuchen, sich zu verbessern. Die Marke musste diese Tiefe tragen: introspektiv und philosophisch, aber klar und geerdet. Also haben wir eine Identität rund um eine einzige Geste entwickelt: das Öffnen."
     }
   ],
   "hero": {
     "src": "assets/img/vitor-santos/1.jpg",
     "alt": {
       "en": "Vitor Santos, VS monogram framing a portrait",
-      "pt": "Vitor Santos, monograma VS emoldurando um retrato"
+      "pt": "Vitor Santos, monograma VS emoldurando um retrato",
+      "de": "Vitor Santos, VS-Monogramm, das ein Porträt rahmt"
     }
   },
   "goals": {
     "en": "Translate a deep, introspective approach into a clear visual language, without flattening its philosophical weight. Build a flexible mark and system that hold up across his one-on-one therapy and his work with leaders.",
-    "pt": "Traduzir uma abordagem profunda e introspectiva em uma linguagem visual clara, sem achatar seu peso filosófico. Construir um símbolo e um sistema flexíveis que se sustentam tanto na terapia individual quanto no trabalho com líderes."
+    "pt": "Traduzir uma abordagem profunda e introspectiva em uma linguagem visual clara, sem achatar seu peso filosófico. Construir um símbolo e um sistema flexíveis que se sustentam tanto na terapia individual quanto no trabalho com líderes.",
+    "de": "Einen tiefen, introspektiven Ansatz in eine klare visuelle Sprache übersetzen, ohne sein philosophisches Gewicht zu verflachen. Ein flexibles Zeichen und System aufbauen, das sowohl in der Einzeltherapie als auch in der Arbeit mit Führungskräften trägt."
   },
   "shots": [
     {
       "src": "assets/img/vitor-santos/2.jpg",
       "alt": {
         "en": "Vitor Santos, logo lockups",
-        "pt": "Vitor Santos, lockups do logo"
+        "pt": "Vitor Santos, lockups do logo",
+        "de": "Vitor Santos, Logo-Lockups"
       }
     },
     {
       "src": "assets/img/vitor-santos/3.jpg",
       "alt": {
         "en": "Vitor Santos, primary logo",
-        "pt": "Vitor Santos, logo principal"
+        "pt": "Vitor Santos, logo principal",
+        "de": "Vitor Santos, Hauptlogo"
       }
     },
     {
       "src": "assets/img/vitor-santos/4.jpg",
       "alt": {
         "en": "Vitor Santos, application 4",
-        "pt": "Vitor Santos, aplicação 4"
+        "pt": "Vitor Santos, aplicação 4",
+        "de": "Vitor Santos, Anwendung 4"
       }
     },
     {
       "src": "assets/img/vitor-santos/5.jpg",
       "alt": {
         "en": "Vitor Santos, application 5",
-        "pt": "Vitor Santos, aplicação 5"
+        "pt": "Vitor Santos, aplicação 5",
+        "de": "Vitor Santos, Anwendung 5"
       }
     },
     {
       "src": "assets/img/vitor-santos/6.jpg",
       "alt": {
         "en": "Vitor Santos, application 6",
-        "pt": "Vitor Santos, aplicação 6"
+        "pt": "Vitor Santos, aplicação 6",
+        "de": "Vitor Santos, Anwendung 6"
       }
     },
     {
       "src": "assets/img/vitor-santos/7.jpg",
       "alt": {
         "en": "Vitor Santos, application 7",
-        "pt": "Vitor Santos, aplicação 7"
+        "pt": "Vitor Santos, aplicação 7",
+        "de": "Vitor Santos, Anwendung 7"
       }
     },
     {
       "src": "assets/img/vitor-santos/8.jpg",
       "alt": {
         "en": "Vitor Santos, application 8",
-        "pt": "Vitor Santos, aplicação 8"
+        "pt": "Vitor Santos, aplicação 8",
+        "de": "Vitor Santos, Anwendung 8"
       }
     },
     {
       "src": "assets/img/vitor-santos/9.jpg",
       "alt": {
         "en": "Vitor Santos, therapeutic journey screen",
-        "pt": "Vitor Santos, tela da jornada terapêutica"
+        "pt": "Vitor Santos, tela da jornada terapêutica",
+        "de": "Vitor Santos, Screen zur therapeutischen Reise"
       }
     }
   ],
   "result": [
     {
       "en": "A monogram system built on the VS: a V that descends into the depths of the self, an S that opens like a capsule releasing meaning. It comes with an elegant serif wordmark, flexible lockups, a palette of deep teal, sage, and cream, and a photo treatment that frames portraits inside the mark itself. Together they give Vitor a presence that feels calm, deep, and human. A brand about opening, not correcting.",
-      "pt": "Um sistema de monograma construído sobre o VS: um V que desce às profundezas de si mesmo, um S que se abre como uma cápsula liberando sentido. Vem com um logotipo serifado elegante, lockups flexíveis, uma paleta de verde-azulado profundo, sálvia e creme, e um tratamento fotográfico que emoldura retratos dentro do próprio símbolo. Juntos, dão a Vitor uma presença que parece calma, profunda e humana. Uma marca sobre abrir, não corrigir."
+      "pt": "Um sistema de monograma construído sobre o VS: um V que desce às profundezas de si mesmo, um S que se abre como uma cápsula liberando sentido. Vem com um logotipo serifado elegante, lockups flexíveis, uma paleta de verde-azulado profundo, sálvia e creme, e um tratamento fotográfico que emoldura retratos dentro do próprio símbolo. Juntos, dão a Vitor uma presença que parece calma, profunda e humana. Uma marca sobre abrir, não corrigir.",
+      "de": "Ein Monogramm-System auf Basis von VS: ein V, das in die Tiefen des Selbst hinabsteigt, ein S, das sich öffnet wie eine Kapsel, die Bedeutung freigibt. Dazu kommen eine elegante Serifen-Wortmarke, flexible Lockups, eine Palette aus tiefem Petrol, Salbei und Creme und eine Bildsprache, die Porträts im Zeichen selbst rahmt. Zusammen geben sie Vitor einen Auftritt, der ruhig, tief und menschlich wirkt. Eine Marke über das Öffnen, nicht das Korrigieren."
     }
   ],
   "next": [
@@ -119,7 +138,8 @@
       "img": "assets/img/menttalis/Case-Menttalis-6.jpg",
       "label": {
         "en": "Menttalis",
-        "pt": "Menttalis"
+        "pt": "Menttalis",
+        "de": "Menttalis"
       }
     },
     {
@@ -127,7 +147,8 @@
       "img": "assets/img/clinica-mar-atlantico/51154257.jpg",
       "label": {
         "en": "Clínica Mar Atlântico",
-        "pt": "Clínica Mar Atlântico"
+        "pt": "Clínica Mar Atlântico",
+        "de": "Clínica Mar Atlântico"
       }
     },
     {
@@ -135,7 +156,8 @@
       "img": "assets/img/nutritionist/nutri-01.jpg",
       "label": {
         "en": "Dra. Tuany Lannes",
-        "pt": "Dra. Tuany Lannes"
+        "pt": "Dra. Tuany Lannes",
+        "de": "Dra. Tuany Lannes"
       }
     }
   ]

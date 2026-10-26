@@ -1,25 +1,26 @@
 {
   "meta": {
-    "title": { "en": "Experimental · Bruno Reis", "pt": "Experimental · Bruno Reis" },
-    "description": { "en": "Side projects I build end to end with AI. Small, fast tools made to test ideas.", "pt": "Projetos paralelos que construo de ponta a ponta com IA. Ferramentas pequenas e rápidas para testar ideias." }
+    "title": { "en": "Experimental · Bruno Reis", "pt": "Experimental · Bruno Reis", "de": "Experimental · Bruno Reis" },
+    "description": { "en": "Side projects I build end to end with AI. Small, fast tools made to test ideas.", "pt": "Projetos paralelos que construo de ponta a ponta com IA. Ferramentas pequenas e rápidas para testar ideias.", "de": "Nebenprojekte, die ich komplett mit KI entwickle. Kleine, schnelle Tools, um Ideen zu testen." }
   },
-  "eyebrow": { "en": "// Side projects, 100% AI", "pt": "// Projetos paralelos, 100% IA" },
-  "title": { "en": "Experimental.", "pt": "Experimental." },
-  "lead": { "en": "Personal side projects I build end to end with AI. Small, fast and made to test an idea. Some will grow, some won't. This is where they live.", "pt": "Projetos paralelos que construo de ponta a ponta com IA. Pequenos, rápidos e feitos para testar uma ideia. Alguns vão crescer, outros não. É aqui que eles ficam." },
-  "visitLabel": { "en": "Open project", "pt": "Abrir projeto" },
+  "eyebrow": { "en": "// Side projects, 100% AI", "pt": "// Projetos paralelos, 100% IA", "de": "// Nebenprojekte, 100 % KI" },
+  "title": { "en": "Experimental.", "pt": "Experimental.", "de": "Experimental." },
+  "lead": { "en": "Personal side projects I build end to end with AI. Small, fast and made to test an idea. Some will grow, some won't. This is where they live.", "pt": "Projetos paralelos que construo de ponta a ponta com IA. Pequenos, rápidos e feitos para testar uma ideia. Alguns vão crescer, outros não. É aqui que eles ficam.", "de": "Persönliche Nebenprojekte, die ich von Anfang bis Ende mit KI entwickle. Klein, schnell und gemacht, um eine Idee zu testen. Manche wachsen, manche nicht. Hier leben sie." },
+  "visitLabel": { "en": "Open project", "pt": "Abrir projeto", "de": "Projekt öffnen" },
   "projects": [
     {
       "title": "Menttalis Flow",
       "img": "assets/img/experimental/menttalis-flow.svg",
       "url": "https://deploy-preview-1--menttalis-flow.netlify.app/",
       "tags": [
-        { "en": "Focus timer", "pt": "Timer de foco" },
-        { "en": "Web app", "pt": "Web app" },
-        { "en": "Built with AI", "pt": "Feito com IA" }
+        { "en": "Focus timer", "pt": "Timer de foco", "de": "Fokus-Timer" },
+        { "en": "Web app", "pt": "Web app", "de": "Web-App" },
+        { "en": "Built with AI", "pt": "Feito com IA", "de": "Mit KI gebaut" }
       ],
       "blurb": {
         "en": "A minimalist single-task focus timer. Write one task, pick your minutes, and start. One thing at a time. Built end to end with AI.",
-        "pt": "Um timer de foco minimalista para uma única tarefa. Escreva a tarefa, escolha os minutos e comece. Uma coisa de cada vez. Feito de ponta a ponta com IA."
+        "pt": "Um timer de foco minimalista para uma única tarefa. Escreva a tarefa, escolha os minutos e comece. Uma coisa de cada vez. Feito de ponta a ponta com IA.",
+        "de": "Ein minimalistischer Fokus-Timer für genau eine Aufgabe. Aufgabe eintragen, Minuten wählen, loslegen. Eins nach dem anderen. Komplett mit KI entwickelt."
       }
     },
     {
@@ -27,13 +28,14 @@
       "img": "assets/img/experimental/roi-calculator.svg",
       "url": "https://roi-calculator-304.pages.dev/",
       "tags": [
-        { "en": "ROI calculator", "pt": "Calculadora de ROI" },
-        { "en": "No-code builder", "pt": "Builder no-code" },
-        { "en": "Built with AI", "pt": "Feito com IA" }
+        { "en": "ROI calculator", "pt": "Calculadora de ROI", "de": "ROI-Rechner" },
+        { "en": "No-code builder", "pt": "Builder no-code", "de": "No-Code-Builder" },
+        { "en": "Built with AI", "pt": "Feito com IA", "de": "Mit KI gebaut" }
       ],
       "blurb": {
         "en": "A builder that creates an ROI calculator for your service in 3 minutes. Answer a few plain questions, it handles the design and the math, then gives you code that drops into any website. Built end to end with AI.",
-        "pt": "Um builder que cria a calculadora de ROI do seu serviço em 3 minutos. Você responde algumas perguntas simples, ele cuida do design e da conta e entrega um código que entra em qualquer site. Feito de ponta a ponta com IA."
+        "pt": "Um builder que cria a calculadora de ROI do seu serviço em 3 minutos. Você responde algumas perguntas simples, ele cuida do design e da conta e entrega um código que entra em qualquer site. Feito de ponta a ponta com IA.",
+        "de": "Ein Builder, der in 3 Minuten einen ROI-Rechner für Ihre Dienstleistung erstellt. Sie beantworten ein paar einfache Fragen, er übernimmt Design und Berechnung und liefert Code, der sich in jede Website einfügen lässt. Komplett mit KI entwickelt."
       }
     }
   ]
